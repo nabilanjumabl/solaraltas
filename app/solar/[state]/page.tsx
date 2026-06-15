@@ -368,7 +368,7 @@ export default function StatePage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 12 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}k`} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`$${v.toLocaleString()}`, 'Total savings']}
+                    formatter={(v: any) => [`$${v.toLocaleString()}`, 'Total savings']}
                   />
                   <Line type="monotone" dataKey="savings" stroke="#10b981" strokeWidth={3} dot={{ r: 4, fill: '#10b981' }} />
                 </LineChart>
@@ -456,7 +456,7 @@ export default function StatePage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 11 }} domain={[0, 10]} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`${v} hrs`, 'Sun hours']}
+                    formatter={(v: any) => [`${v} hrs`, 'Sun hours']}
                   />
                   <Bar dataKey="sunHours" fill="#10b981" radius={[4, 4, 0, 0]} />
                 </BarChart>
@@ -472,7 +472,7 @@ export default function StatePage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 11 }} tickFormatter={v => `$${v}`} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`$${v}`, 'Savings']}
+                    formatter={(v: any) => [`$${v}`, 'Savings']}
                   />
                   <Line type="monotone" dataKey="savings" stroke="#34d399" strokeWidth={2} dot={false} />
                 </LineChart>

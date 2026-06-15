@@ -403,7 +403,7 @@ export default function CityPage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 10 }} domain={[0, 10]} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`${v} hrs`, 'Sun hours']}
+                    formatter={(v: any) => [`${v} hrs`, 'Sun hours']}
                   />
                   <Bar dataKey="sunHours" fill="#fbbf24" radius={[3, 3, 0, 0]} />
                 </BarChart>
@@ -418,7 +418,7 @@ export default function CityPage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 10 }} tickFormatter={v => `$${v}`} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`$${v}`, 'Savings']}
+                    formatter={(v: any) => [`$${v}`, 'Savings']}
                   />
                   <Line type="monotone" dataKey="savings" stroke="#10b981" strokeWidth={2} dot={{ r: 3, fill: '#10b981' }} />
                 </LineChart>

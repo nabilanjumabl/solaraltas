@@ -336,7 +336,7 @@ export default function ComparePage() {
                   <YAxis type="category" dataKey="label" stroke="#64748b" tick={{ fontSize: 10 }} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number) => [`$${v.toLocaleString()}`]}
+                    formatter={(v: any) => [`$${v.toLocaleString()}`]}
                   />
                   <Legend wrapperStyle={{ fontSize: '12px' }} />
                   <Bar dataKey={cityA.name} fill="#10b981" radius={[0, 3, 3, 0]} />
