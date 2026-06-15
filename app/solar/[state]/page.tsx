@@ -396,7 +396,7 @@ export default function StatePage() {
                 icon: <Shield size={28} />,
                 label: 'Federal ITC',
                 title: '30% Tax Credit',
-                desc: 'Deduct 30% of total system cost from your federal income taxes. On a $12,000 system, that's $3,600 back.',
+                desc: "Deduct 30% of total system cost from your federal income taxes. On a $12,000 system, that is $3,600 back.",
                 amount: `$${(SYSTEM_COST * 0.3).toLocaleString()}`,
                 color: 'emerald',
               },
