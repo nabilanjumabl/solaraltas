@@ -6,7 +6,8 @@ const nextConfig = {
   // Allow importing JSON files from /public/data
   experimental: {
     // Needed for large static site generation
-    
+    workerThreads: true,
+    cpus: 4,
   },
 
   images: {
