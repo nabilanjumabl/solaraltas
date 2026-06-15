@@ -318,7 +318,7 @@ export default function CityPage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 10 }} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number, n: string) => [n === 'kWh' ? `${v} kWh` : `$${v}`, n]}
+                    formatter={(v: any, n: any) => [n === 'kWh' ? `${v} kWh` : `$${v}`, n]}
                   />
                   <Bar dataKey="kWh" fill="#10b981" radius={[3, 3, 0, 0]} />
                 </BarChart>
@@ -375,7 +375,7 @@ export default function CityPage() {
                   <YAxis stroke="#64748b" tick={{ fontSize: 10 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}k`} />
                   <Tooltip
                     contentStyle={{ backgroundColor: '#1e293b', border: 'none', borderRadius: '8px' }}
-                    formatter={(v: number, n: string) => [`$${v.toLocaleString()}`, n === 'cumSavings' ? 'With solar' : 'Without solar']}
+                    formatter={(v: any, n: any) => [`$${v.toLocaleString()}`, n === 'cumSavings' ? 'With solar' : 'Without solar']}
                   />
                   <Area type="monotone" dataKey="withoutSolar" stroke="#ef4444" fill="#ef444420" strokeWidth={2} />
                   <Area type="monotone" dataKey="cumSavings" stroke="#10b981" fill="#10b98120" strokeWidth={2} />
