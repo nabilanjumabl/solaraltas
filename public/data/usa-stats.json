@@ -1,0 +1,23 @@
+{
+  "totalCitiesAnalyzed": 24847,
+  "totalStatesAnalyzed": 50,
+  "avgNationalSolarScore": 73,
+  "avgNationalSunHours": 4.8,
+  "avgNationalAnnualSavings": 612,
+  "avgNationalPaybackYears": 15.2,
+  "avgNationalSavings25Year": 15300,
+  "federalTaxCredit": 0.30,
+  "avgInstallationCost4kw": 12000,
+  "avgInstallationCost6kw": 17000,
+  "avgInstallationCost8kw": 22000,
+  "topSolarStates": ["Arizona", "Nevada", "New Mexico", "California", "Colorado"],
+  "bottomSolarStates": ["Alaska", "Washington", "Oregon", "Michigan", "Ohio"],
+  "lastUpdated": "2026-06",
+  "dataSource": "NREL",
+  "nationalTrends": {
+    "solarAdoptionRate2024": 0.042,
+    "avgElectricRateCents": 13.2,
+    "avgRateIncreasePerYear": 0.032,
+    "co2PerKwh": 0.000386
+  }
+}
