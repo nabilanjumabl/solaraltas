@@ -1,0 +1,38 @@
+name: Daily Blog Generator
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6 AM UTC daily
+    - cron: '0 18 * * *'  # 6 PM UTC daily
+  workflow_dispatch:       # allows manual trigger
+
+jobs:
+  generate-blog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Generate blog post
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/generate-blog-free.js
+
+      - name: Commit and push new blog post
+        run: |
+          git config --global user.name "SolarAtlas Bot"
+          git config --global user.email "bot@solaraltas.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto: Add daily blog post $(date +%Y-%m-%d)"
+          git push
