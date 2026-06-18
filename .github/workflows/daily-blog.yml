@@ -2,9 +2,9 @@ name: Daily Blog Generator
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # 6 AM UTC daily
-    - cron: '0 18 * * *'  # 6 PM UTC daily
-  workflow_dispatch:       # allows manual trigger
+    - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
 
 jobs:
   generate-blog:
