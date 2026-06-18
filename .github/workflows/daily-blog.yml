@@ -6,6 +6,9 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-blog:
     runs-on: ubuntu-latest
@@ -15,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -33,6 +37,7 @@ jobs:
         run: |
           git config --global user.name "SolarAtlas Bot"
           git config --global user.email "bot@solaraltas.com"
-          git add -A
+          git add data/
+          git add scripts/.used_keywords.json || true
           git diff --staged --quiet || git commit -m "Auto: Add daily blog post $(date +%Y-%m-%d)"
           git push
