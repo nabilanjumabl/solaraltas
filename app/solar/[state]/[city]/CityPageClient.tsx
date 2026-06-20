@@ -50,6 +50,7 @@ interface CityData {
   topInstallers: string[]
   metaTitle: string
   metaDescription: string
+  localInsight?: string
 }
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
@@ -172,6 +173,11 @@ export default function CityPageClient({ city }: { city: CityData }) {
                 {city.climateType} climate · {city.peakSunHours} peak sun hours/day ·
                 {' '}{city.installerCount} certified installers nearby
               </p>
+              {city.localInsight && (
+                <p className="text-slate-400 text-sm mb-6 max-w-2xl leading-relaxed border-l-2 border-emerald-700 pl-4">
+                  {city.localInsight}
+                </p>
+              )}
               <div className="flex flex-wrap gap-3">
                 <a href="#calculator" className="px-6 py-3 bg-emerald-600 hover:bg-emerald-500 rounded-lg font-bold transition">
                   Calculate My Savings
