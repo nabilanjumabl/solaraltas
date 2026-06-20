@@ -1,0 +1,32 @@
+name: Generate City Narratives (One-Time Batch)
+
+on:
+  workflow_dispatch:   # manual trigger only — this is NOT a recurring job like the blog
+
+jobs:
+  generate-narratives:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate narratives for all 228 cities
+        env:
+          CITY_CONTENT_API_KEY: ${{ secrets.CITY_CONTENT_API_KEY }}
+        run: node scripts/generate-city-narratives.js
+
+      - name: Commit and push enriched city-details.json
+        run: |
+          git config --global user.name "SolarAtlas Bot"
+          git config --global user.email "bot@solaraltas.com"
+          git add public/data/city-details.json
+          git diff --staged --quiet || git commit -m "Add AI-generated local narratives to all city pages"
+          git push
