@@ -10,11 +10,14 @@ export async function generateStaticParams() {
   return getAllCitySlugs() // [{ state: 'texas', city: 'houston' }, ...]
 }
 
+type CityPageParams = Promise<{ state: string; city: string }>
+
 // ─── Real per-city <title> / <meta description> for Google ────────────────
 export async function generateMetadata(
-  { params }: { params: { state: string; city: string } }
+  { params }: { params: CityPageParams }
 ): Promise<Metadata> {
-  const key = `${params.state}/${params.city}`
+  const { state, city: citySlug } = await params
+  const key = `${state}/${citySlug}`
   const city = (cityDetails as Record<string, any>)[key]
 
   if (!city) {
@@ -25,16 +28,17 @@ export async function generateMetadata(
     title: city.metaTitle,
     description: city.metaDescription,
     alternates: {
-      canonical: `https://solaraltas.vercel.app/solar/${params.state}/${params.city}`,
+      canonical: `https://solaraltas.vercel.app/solar/${state}/${citySlug}`,
     },
   }
 }
 
 // ─── Page ───────────────────────────────────────────────────────────────────
-export default function CityPage(
-  { params }: { params: { state: string; city: string } }
+export default async function CityPage(
+  { params }: { params: CityPageParams }
 ) {
-  const key = `${params.state}/${params.city}`
+  const { state, city: citySlug } = await params
+  const key = `${state}/${citySlug}`
   const city = (cityDetails as Record<string, any>)[key]
 
   // No silent fallback to Phoenix — unknown city/state combos 404 properly
