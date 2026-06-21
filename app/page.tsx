@@ -1,18 +1,23 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { Sun, DollarSign, Zap, MapPin, TrendingUp, Shield, Search, ArrowRight, Star } from 'lucide-react'
+import { Sun, DollarSign, Zap, MapPin, TrendingUp, Shield, ArrowRight, Star } from 'lucide-react'
 import Navbar from '@/components/Navbar'
-import { getTopCities, getTopStates, nationalStats } from '@/lib/data'
+import SearchBox from '@/components/SearchBox'
+import { getTopCities, getTopStates, nationalStats, allCities } from '@/lib/data'
+
+// ─── Real city count, no more leftover placeholder "24,847" ────────────────
+
+const REAL_CITY_COUNT = allCities.length
 
 // ─── Metadata ────────────────────────────────────────────────────────────────
 
 export const metadata: Metadata = {
-  title: "SolarAtlas — America's Solar Potential Database | 24,847 Cities",
+  title: `SolarAtlas — America's Solar Potential Database | ${REAL_CITY_COUNT} Cities`,
   description:
-    'Free solar potential analysis for every US city. Interactive savings calculator, NREL-powered data, installer comparison — no signup required. Find out exactly how much solar can save you.',
+    `Free solar potential analysis for ${REAL_CITY_COUNT} US cities across all 50 states. Interactive savings calculator, NREL-powered data, installer comparison — no signup required.`,
   openGraph: {
     title: "SolarAtlas — America's Solar Potential Database",
-    description: 'Solar analysis for 24,847 US cities. Free calculator, no signup.',
+    description: `Solar analysis for ${REAL_CITY_COUNT} US cities. Free calculator, no signup.`,
     images: [{ url: '/og-homepage.png', width: 1200, height: 630 }],
   },
 }
@@ -22,11 +27,17 @@ export const metadata: Metadata = {
 const TOP_CITIES  = getTopCities(12)
 const TOP_STATES  = getTopStates(10)
 
+// Real popular cities — actual stateSlug + slug pairs, not guessed from display name
+const POPULAR_CITIES = [
+  { name: 'Phoenix',    stateSlug: 'arizona',    slug: 'phoenix'    },
+  { name: 'Austin',     stateSlug: 'texas',      slug: 'austin'     },
+  { name: 'Las Vegas',  stateSlug: 'nevada',     slug: 'las-vegas'  },
+  { name: 'Miami',      stateSlug: 'florida',    slug: 'miami'      },
+  { name: 'Denver',     stateSlug: 'colorado',   slug: 'denver'     },
+]
+
 const SCORE_COLOR = (s: number) =>
   s >= 90 ? 'text-emerald-400' : s >= 75 ? 'text-yellow-400' : 'text-orange-400'
-
-const SCORE_BG = (s: number) =>
-  s >= 90 ? 'bg-emerald-900/50 border-emerald-700' : s >= 75 ? 'bg-yellow-900/50 border-yellow-700' : 'bg-orange-900/50 border-orange-700'
 
 // ─── Schema.org structured data ──────────────────────────────────────────────
 
@@ -34,8 +45,8 @@ const SCHEMA = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
   name: 'SolarAtlas US Solar Potential Database',
-  description: 'Solar potential scores, savings estimates, and payback calculations for 24,847 US cities',
-  url: 'https://solaratlas.com',
+  description: `Solar potential scores, savings estimates, and payback calculations for ${REAL_CITY_COUNT} US cities`,
+  url: 'https://solaraltas.vercel.app',
   creator: { '@type': 'Organization', name: 'SolarAtlas' },
   temporalCoverage: '2026',
   spatialCoverage: { '@type': 'Place', name: 'United States of America' },
@@ -56,7 +67,6 @@ export default function HomePage() {
       {/* ── HERO ──────────────────────────────────────────────────────────── */}
       <section className="relative overflow-hidden px-6 pt-20 pb-24 bg-gradient-to-br from-slate-900 via-slate-800 to-emerald-950">
 
-        {/* Background glow */}
         <div className="absolute inset-0 pointer-events-none">
           <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-emerald-500/5 rounded-full blur-3xl" />
         </div>
@@ -64,7 +74,7 @@ export default function HomePage() {
         <div className="relative max-w-6xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-emerald-900/60 border border-emerald-700 text-emerald-300 text-xs font-semibold px-4 py-2 rounded-full mb-6">
             <Star size={12} fill="currentColor" />
-            {nationalStats.totalCitiesAnalyzed.toLocaleString()} cities analyzed · Powered by NREL data
+            {REAL_CITY_COUNT} cities analyzed · Powered by NREL data
           </div>
 
           <h1 className="text-5xl md:text-7xl font-black leading-tight mb-6">
@@ -74,32 +84,23 @@ export default function HomePage() {
 
           <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-10">
             Find out exactly how much solar can save you — free interactive calculator,
-            installer comparison, and NREL-backed data for every US city.
+            installer comparison, and NREL-backed data for every analyzed US city.
             <span className="text-emerald-400 font-semibold"> No signup required.</span>
           </p>
 
-          {/* Search bar */}
+          {/* Working search bar with real autocomplete */}
           <div className="max-w-xl mx-auto mb-6">
-            <div className="flex items-center gap-3 bg-slate-800 border-2 border-slate-600 hover:border-emerald-500 focus-within:border-emerald-500 rounded-2xl px-5 py-4 transition">
-              <Search size={20} className="text-slate-400 shrink-0" />
-              <input
-                placeholder="Enter your city or state…"
-                className="flex-1 bg-transparent outline-none text-white placeholder-slate-400 text-lg"
-              />
-              <button className="px-5 py-2 bg-emerald-600 hover:bg-emerald-500 rounded-xl font-bold text-sm transition">
-                Search
-              </button>
-            </div>
+            <SearchBox variant="large" placeholder="Enter your city or state…" />
           </div>
 
           <p className="text-sm text-slate-500">
             Popular:{' '}
-            {['Phoenix', 'Austin', 'Las Vegas', 'Miami', 'Denver'].map((city, i) => (
-              <span key={city}>
-                <Link href={`/solar/${city.toLowerCase().replace(' ', '-')}`} className="text-slate-400 hover:text-emerald-400 transition">
-                  {city}
+            {POPULAR_CITIES.map((city, i) => (
+              <span key={city.slug}>
+                <Link href={`/solar/${city.stateSlug}/${city.slug}`} className="text-slate-400 hover:text-emerald-400 transition">
+                  {city.name}
                 </Link>
-                {i < 4 && <span className="mx-2 text-slate-700">·</span>}
+                {i < POPULAR_CITIES.length - 1 && <span className="mx-2 text-slate-700">·</span>}
               </span>
             ))}
           </p>
@@ -110,7 +111,7 @@ export default function HomePage() {
       <section className="bg-slate-800 border-y border-slate-700 px-6 py-8">
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
           {[
-            { label: 'Cities Analyzed',    value: nationalStats.totalCitiesAnalyzed.toLocaleString(), icon: <MapPin size={20} /> },
+            { label: 'Cities Analyzed',    value: REAL_CITY_COUNT.toString(), icon: <MapPin size={20} /> },
             { label: 'Avg Annual Savings', value: `$${nationalStats.avgNationalAnnualSavings.toLocaleString()}`, icon: <DollarSign size={20} /> },
             { label: 'Avg Solar Score',    value: `${nationalStats.avgNationalSolarScore}/100`, icon: <Sun size={20} /> },
             { label: 'Federal Tax Credit', value: '30%',  icon: <Shield size={20} /> },
@@ -137,7 +138,7 @@ export default function HomePage() {
                 step: '01',
                 icon: <MapPin size={28} />,
                 title: 'Find Your City',
-                desc: 'Search any of 24,847 US cities or browse by state. Each city has a dedicated analysis page with NREL-sourced solar irradiance data.',
+                desc: `Search any of ${REAL_CITY_COUNT} analyzed US cities or browse by state. Each city has a dedicated analysis page with NREL-sourced solar irradiance data.`,
               },
               {
                 step: '02',
@@ -173,8 +174,8 @@ export default function HomePage() {
               <h2 className="text-3xl font-black mb-2">Best Solar Cities in America</h2>
               <p className="text-slate-400">Ranked by solar score · Click any city for full analysis</p>
             </div>
-            <Link href="/solar" className="text-sm text-emerald-400 hover:text-emerald-300 transition hidden md:flex items-center gap-1">
-              View all 24,847 cities <ArrowRight size={14} />
+            <Link href="/cities" className="text-sm text-emerald-400 hover:text-emerald-300 transition hidden md:flex items-center gap-1">
+              View all {REAL_CITY_COUNT} cities <ArrowRight size={14} />
             </Link>
           </div>
 
@@ -197,6 +198,13 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+
+          <Link
+            href="/cities"
+            className="mt-6 w-full flex md:hidden items-center justify-center gap-1 py-3 border border-slate-600 hover:border-emerald-400 rounded-xl text-sm transition"
+          >
+            View all {REAL_CITY_COUNT} cities <ArrowRight size={14} />
+          </Link>
         </div>
       </section>
 
@@ -208,6 +216,9 @@ export default function HomePage() {
               <h2 className="text-3xl font-black mb-2">Best Solar States</h2>
               <p className="text-slate-400">State averages across all analyzed cities</p>
             </div>
+            <Link href="/states" className="text-sm text-emerald-400 hover:text-emerald-300 transition hidden md:flex items-center gap-1">
+              View all 50 states <ArrowRight size={14} />
+            </Link>
           </div>
 
           <div className="grid md:grid-cols-2 gap-4">
@@ -222,7 +233,6 @@ export default function HomePage() {
                 <div className="flex-1">
                   <div className="font-bold text-lg group-hover:text-emerald-400 transition">{state.name}</div>
                   <div className="text-sm text-slate-400">{state.climateType} · {state.cityCount.toLocaleString()} cities</div>
-                  {/* Score bar */}
                   <div className="mt-2 h-1.5 bg-slate-600 rounded-full w-48 overflow-hidden">
                     <div
                       className="h-full bg-emerald-500 rounded-full"
@@ -303,6 +313,12 @@ export default function HomePage() {
                 <div className="text-xs text-slate-400 mt-1">Full comparison →</div>
               </Link>
             ))}
+          </div>
+
+          <div className="text-center mt-8">
+            <Link href="/compare" className="text-sm text-emerald-400 hover:text-emerald-300 transition inline-flex items-center gap-1">
+              View all comparisons <ArrowRight size={14} />
+            </Link>
           </div>
         </div>
       </section>
@@ -391,13 +407,13 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/solar/arizona/phoenix"
+              href="/cities"
               className="px-8 py-4 bg-emerald-500 hover:bg-emerald-400 rounded-xl font-bold text-lg transition"
             >
               Browse Top Solar Cities
             </Link>
             <Link
-              href="/solar/arizona"
+              href="/states"
               className="px-8 py-4 border-2 border-emerald-600 text-emerald-300 hover:bg-emerald-900 rounded-xl font-bold text-lg transition"
             >
               Browse by State
@@ -419,23 +435,40 @@ export default function HomePage() {
                 <span className="font-black">Solar<span className="text-emerald-400">Atlas</span></span>
               </div>
               <p className="text-xs text-slate-500 leading-relaxed">
-                Solar potential data for every US city. NREL-powered. No ads. No signup.
+                Solar potential data for {REAL_CITY_COUNT} US cities. NREL-powered. No ads. No signup.
               </p>
             </div>
 
-            {/* Link columns */}
+            {/* Explore — all real, working links */}
+            <div>
+              <h3 className="font-bold text-white mb-3 text-sm">Explore</h3>
+              <ul className="space-y-2">
+                <li><Link href="/cities" className="text-sm text-slate-400 hover:text-white transition">Top Cities</Link></li>
+                <li><Link href="/states" className="text-sm text-slate-400 hover:text-white transition">Top States</Link></li>
+                <li><Link href="/compare" className="text-sm text-slate-400 hover:text-white transition">Compare Cities</Link></li>
+                <li><Link href="/#calculator" className="text-sm text-slate-400 hover:text-white transition">Solar Calculator</Link></li>
+              </ul>
+            </div>
+
+            {/* Learn — points to real blog, no dead anchors */}
+            <div>
+              <h3 className="font-bold text-white mb-3 text-sm">Learn</h3>
+              <ul className="space-y-2">
+                <li><Link href="/blog" className="text-sm text-slate-400 hover:text-white transition">Blog</Link></li>
+              </ul>
+            </div>
+
+            {/* Company / Connect — placeholder pages not yet built, see note below */}
             {[
-              { title: 'Explore',  links: ['Top Cities', 'Top States', 'Compare Cities', 'Solar Calculator'] },
-              { title: 'Learn',    links: ['Blog', 'Solar Guides', 'Incentives Guide', 'Installer Tips'] },
-              { title: 'Company',  links: ['About Us', 'Methodology', 'Privacy Policy', 'Terms of Service'] },
-              { title: 'Connect',  links: ['Twitter', 'LinkedIn', 'Newsletter', 'Contact'] },
+              { title: 'Company',  links: ['About Us', 'Privacy Policy', 'Terms of Service'] },
+              { title: 'Connect',  links: ['Twitter', 'LinkedIn', 'Contact'] },
             ].map(col => (
               <div key={col.title}>
                 <h3 className="font-bold text-white mb-3 text-sm">{col.title}</h3>
                 <ul className="space-y-2">
                   {col.links.map(l => (
                     <li key={l}>
-                      <a href="#" className="text-sm text-slate-400 hover:text-white transition">{l}</a>
+                      <span className="text-sm text-slate-600 cursor-not-allowed" title="Coming soon">{l}</span>
                     </li>
                   ))}
                 </ul>
