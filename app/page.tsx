@@ -458,22 +458,25 @@ export default function HomePage() {
               </ul>
             </div>
 
-            {/* Company / Connect — placeholder pages not yet built, see note below */}
-            {[
-              { title: 'Company',  links: ['About Us', 'Privacy Policy', 'Terms of Service'] },
-              { title: 'Connect',  links: ['Twitter', 'LinkedIn', 'Contact'] },
-            ].map(col => (
-              <div key={col.title}>
-                <h3 className="font-bold text-white mb-3 text-sm">{col.title}</h3>
-                <ul className="space-y-2">
-                  {col.links.map(l => (
-                    <li key={l}>
-                      <span className="text-sm text-slate-600 cursor-not-allowed" title="Coming soon">{l}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
+            {/* Company — real pages now */}
+            <div>
+              <h3 className="font-bold text-white mb-3 text-sm">Company</h3>
+              <ul className="space-y-2">
+                <li><Link href="/about" className="text-sm text-slate-400 hover:text-white transition">About Us</Link></li>
+                <li><Link href="/privacy" className="text-sm text-slate-400 hover:text-white transition">Privacy Policy</Link></li>
+                <li><Link href="/terms" className="text-sm text-slate-400 hover:text-white transition">Terms of Service</Link></li>
+              </ul>
+            </div>
+
+            {/* Connect — Contact works, socials still pending real accounts */}
+            <div>
+              <h3 className="font-bold text-white mb-3 text-sm">Connect</h3>
+              <ul className="space-y-2">
+                <li><a href="mailto:hello@solaratlas.com" className="text-sm text-slate-400 hover:text-white transition">Contact</a></li>
+                <li><span className="text-sm text-slate-600 cursor-not-allowed" title="Coming soon">Twitter</span></li>
+                <li><span className="text-sm text-slate-600 cursor-not-allowed" title="Coming soon">LinkedIn</span></li>
+              </ul>
+            </div>
           </div>
 
           <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-slate-500">
