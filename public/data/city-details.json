@@ -96,7 +96,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Phoenix, AZ | 98/100 | SolarAtlas",
-    "metaDescription": "Phoenix solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Phoenix solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Phoenix means watching your electricity bill plummet during the long, sunny days. On especially hot days, the panels can overproduce, earning excess credits that help offset the few cloudy winter mornings when the panels produce less than the air conditioning demands."
   },
   "arizona/tucson": {
     "id": 2,
@@ -195,7 +196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tucson, AZ | 97/100 | SolarAtlas",
-    "metaDescription": "Tucson solar score: 97/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tucson solar score: 97/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tucson means watching your electricity bill plummet during the long summer days. On particularly hot mornings, you might notice a brief dip in energy production as the panels heat up, a quirk unique to Tucson's scorching desert climate."
   },
   "nevada/las-vegas": {
     "id": 3,
@@ -294,7 +296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Las Vegas, NV | 96/100 | SolarAtlas",
-    "metaDescription": "Las Vegas solar score: 96/100. Save $825/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Las Vegas solar score: 96/100. Save $825/year. 6.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Las Vegas means dealing with extremely hot summers that can cause efficiency losses. The panels often require more frequent cleaning due to dust storms, which can reduce energy production by up to 10 percent."
   },
   "new-mexico/albuquerque": {
     "id": 4,
@@ -393,7 +396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Albuquerque, NM | 95/100 | SolarAtlas",
-    "metaDescription": "Albuquerque solar score: 95/100. Save $904/year. 6.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Albuquerque solar score: 95/100. Save $904/year. 6.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Albuquerque means watching your energy bills shrink due to the city's abundant sunshine. Dust storms require occasional panel cleanings to maintain efficiency, especially during spring months when they are most frequent."
   },
   "california/fresno": {
     "id": 5,
@@ -492,7 +496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fresno, CA | 94/100 | SolarAtlas",
-    "metaDescription": "Fresno solar score: 94/100. Save $2,009/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fresno solar score: 94/100. Save $2,009/year. 6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fresno means abundant energy generation during the long sunny days. The panels often require more frequent cleaning due to the dusty winds that blow through the San Joaquin Valley during the summer months."
   },
   "california/los-angeles": {
     "id": 6,
@@ -591,7 +596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Los Angeles, CA | 90/100 | SolarAtlas",
-    "metaDescription": "Los Angeles solar score: 90/100. Save $1,942/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Los Angeles solar score: 90/100. Save $1,942/year. 5.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Los Angeles means abundant energy production due to the Mediterranean climate. Morning fog often burns off by 9 am, allowing panels to generate power at peak rates for the remaining sun hours of the day."
   },
   "california/san-diego": {
     "id": 7,
@@ -690,7 +696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in San Diego, CA | 91/100 | SolarAtlas",
-    "metaDescription": "San Diego solar score: 91/100. Save $1,976/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "San Diego solar score: 91/100. Save $1,976/year. 5.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in San Diego means abundant energy production due to high sun hours. Morning fog often requires a brief delay in daily production, but panels still pay for themselves with savings on the 0.294 per kilowatt hour electricity rate."
   },
   "texas/austin": {
     "id": 8,
@@ -789,7 +796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Austin, TX | 86/100 | SolarAtlas",
-    "metaDescription": "Austin solar score: 86/100. Save $762/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Austin solar score: 86/100. Save $762/year. 5.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Austin means dealing with occasional mold growth on the panels due to high humidity. On sunny days, the panels produce excess energy, offsetting the higher electricity costs during hot summer nights when the air conditioning runs constantly."
   },
   "texas/san-antonio": {
     "id": 9,
@@ -888,7 +896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in San Antonio, TX | 85/100 | SolarAtlas",
-    "metaDescription": "San Antonio solar score: 85/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "San Antonio solar score: 85/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in San Antonio means frequent cleaning due to high humidity. Summer energy production is high, but panels are most efficient in spring and fall when temperatures are lower."
   },
   "texas/dallas": {
     "id": 10,
@@ -987,7 +996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Dallas, TX | 82/100 | SolarAtlas",
-    "metaDescription": "Dallas solar score: 82/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Dallas solar score: 82/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Dallas means dealing with intense summer heat. The panels often require more frequent cleaning due to Texas-sized thunderstorms that bring heavy dust and debris during spring and fall."
   },
   "florida/miami": {
     "id": 11,
@@ -1086,7 +1096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Miami, FL | 83/100 | SolarAtlas",
-    "metaDescription": "Miami solar score: 83/100. Save $694/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Miami solar score: 83/100. Save $694/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Miami means occasional cleaning to remove pollen and soot. High humidity requires more frequent panel inspections to prevent damage from corrosion and mold."
   },
   "florida/orlando": {
     "id": 12,
@@ -1185,7 +1196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Orlando, FL | 82/100 | SolarAtlas",
-    "metaDescription": "Orlando solar score: 82/100. Save $681/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Orlando solar score: 82/100. Save $681/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Orlando means navigating subtropical weather with high humidity. On particularly cloudy days, the panels still generate some power, often enough to offset the cost of electricity at $0.115 per kilowatt hour."
   },
   "florida/tampa": {
     "id": 13,
@@ -1284,7 +1296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tampa, FL | 81/100 | SolarAtlas",
-    "metaDescription": "Tampa solar score: 81/100. Save $668/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tampa solar score: 81/100. Save $668/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tampa means dealing with intense summer heat and high humidity. On particularly cloudy days, the panels' efficiency can drop, but the 5.1 peak sun hours per day still provide significant energy savings on the 0.115 per kilowatt hour electricity rate."
   },
   "colorado/denver": {
     "id": 14,
@@ -1383,7 +1396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Denver, CO | 87/100 | SolarAtlas",
-    "metaDescription": "Denver solar score: 87/100. Save $783/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Denver solar score: 87/100. Save $783/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Denver means moderate energy production due to the semi-arid climate. On especially sunny days, panels can overproduce, taking advantage of excess production credits from Xcel Energy to offset winter months with less sunlight."
   },
   "utah/salt-lake-city": {
     "id": 15,
@@ -1482,7 +1496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Salt Lake City, UT | 85/100 | SolarAtlas",
-    "metaDescription": "Salt Lake City solar score: 85/100. Save $596/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Salt Lake City solar score: 85/100. Save $596/year. 5.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Salt Lake City means dealing with occasional summer dust storms that reduce efficiency. The panels still produce plenty of power, with the semi-arid climate's low humidity helping to minimize energy loss from heat."
   },
   "hawaii/honolulu": {
     "id": 16,
@@ -1581,7 +1596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Honolulu, HI | 88/100 | SolarAtlas",
-    "metaDescription": "Honolulu solar score: 88/100. Save $2,512/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Honolulu solar score: 88/100. Save $2,512/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Honolulu means frequent cleaning to prevent dust buildup from trade winds. High humidity also requires checking panels regularly for mold growth, especially after the 99 cloudy days per year."
   },
   "georgia/atlanta": {
     "id": 17,
@@ -1680,7 +1696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Atlanta, GA | 75/100 | SolarAtlas",
-    "metaDescription": "Atlanta solar score: 75/100. Save $653/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Atlanta solar score: 75/100. Save $653/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Atlanta means dealing with high humidity that can reduce efficiency. On cloudy summer days, panels still generate some power, helping offset the 117 cents per kilowatt hour electricity cost."
   },
   "north-carolina/charlotte": {
     "id": 18,
@@ -1779,7 +1796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Charlotte, NC | 74/100 | SolarAtlas",
-    "metaDescription": "Charlotte solar score: 74/100. Save $634/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Charlotte solar score: 74/100. Save $634/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Charlotte means navigating high humidity and occasional cloud cover. On especially hot summer days, panels may produce less power due to heat-related inefficiencies, a consideration when sizing a system for your home."
   },
   "tennessee/nashville": {
     "id": 19,
@@ -1878,7 +1896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Nashville, TN | 68/100 | SolarAtlas",
-    "metaDescription": "Nashville solar score: 68/100. Save $533/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Nashville solar score: 68/100. Save $533/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Nashville means dealing with humidity that can reduce efficiency. On cloudy summer days, the panels still generate some power, helping to offset the high electricity costs from running air conditioning to combat the city's sweltering heat."
   },
   "oklahoma/oklahoma-city": {
     "id": 20,
@@ -1977,7 +1996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Oklahoma City, OK | 78/100 | SolarAtlas",
-    "metaDescription": "Oklahoma City solar score: 78/100. Save $615/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Oklahoma City solar score: 78/100. Save $615/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Oklahoma City means occasional summer storms reduce energy production. On cloudy days, panels still generate some power, helping offset the high summer electricity costs due to air conditioning usage during the city's humid summers."
   },
   "nevada/reno": {
     "id": 21,
@@ -2076,7 +2096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Reno, NV | 93/100 | SolarAtlas",
-    "metaDescription": "Reno solar score: 93/100. Save $786/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Reno solar score: 93/100. Save $786/year. 6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Reno means harnessing abundant desert sunlight to offset the high summer electricity bills. On extremely hot days, panels can overheat, reducing efficiency, so owners often schedule cleaning and maintenance for early morning to maximize energy production."
   },
   "arizona/scottsdale": {
     "id": 22,
@@ -2175,7 +2196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Scottsdale, AZ | 97/100 | SolarAtlas",
-    "metaDescription": "Scottsdale solar score: 97/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Scottsdale solar score: 97/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Scottsdale means watching your energy bills plummet during the sunny months. On extremely hot days, the panels can overheat, reducing efficiency, so owners often install panel cleaners to mitigate dust buildup from the frequent haboob dust storms."
   },
   "arizona/mesa": {
     "id": 23,
@@ -2274,7 +2296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Mesa, AZ | 97/100 | SolarAtlas",
-    "metaDescription": "Mesa solar score: 97/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Mesa solar score: 97/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Mesa means watching your electricity bills plummet due to abundant sunshine. On extremely hot days, panels can overheat, reducing efficiency, so local installers often recommend slightly angled installations to maximize airflow."
   },
   "nevada/henderson": {
     "id": 24,
@@ -2373,7 +2396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Henderson, NV | 96/100 | SolarAtlas",
-    "metaDescription": "Henderson solar score: 96/100. Save $825/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Henderson solar score: 96/100. Save $825/year. 6.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Henderson, Nevada, means abundant energy production due to the high peak sun hours. Panels often require more frequent cleaning to remove dust from the dry desert air, especially after the occasional intense summer dust storms."
   },
   "texas/el-paso": {
     "id": 25,
@@ -2472,7 +2496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in El Paso, TX | 93/100 | SolarAtlas",
-    "metaDescription": "El Paso solar score: 93/100. Save $862/year. 6.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "El Paso solar score: 93/100. Save $862/year. 6.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in El Paso means abundant energy production due to high peak sun hours. The dry desert air allows for efficient panel operation, but occasional spring dust storms require regular cleaning to maintain optimal performance."
   },
   "california/sacramento": {
     "id": 26,
@@ -2571,7 +2596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Sacramento, CA | 89/100 | SolarAtlas",
-    "metaDescription": "Sacramento solar score: 89/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Sacramento solar score: 89/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Sacramento means generating plenty of power due to the high number of sunny days. The dry summer months often require panel cleaning to remove dust and pollen that can reduce efficiency by up to 10 percent."
   },
   "california/san-jose": {
     "id": 27,
@@ -2670,7 +2696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in San Jose, CA | 87/100 | SolarAtlas",
-    "metaDescription": "San Jose solar score: 87/100. Save $1,842/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "San Jose solar score: 87/100. Save $1,842/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in San Jose means harnessing abundant sunshine to offset the high cost of electricity. On foggy mornings, panels may produce less energy, but by afternoon, the typical clear skies allow them to recharge, helping to mitigate the impact of the region's 102 cloudy days per year."
   },
   "florida/jacksonville": {
     "id": 28,
@@ -2769,7 +2796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Jacksonville, FL | 79/100 | SolarAtlas",
-    "metaDescription": "Jacksonville solar score: 79/100. Save $655/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Jacksonville solar score: 79/100. Save $655/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Jacksonville means navigating subtropical weather with 5 peak sun hours daily. On humid summer days, panels are more efficient in morning hours before heat builds up and reduces their performance."
   },
   "texas/houston": {
     "id": 29,
@@ -2868,7 +2896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Houston, TX | 80/100 | SolarAtlas",
-    "metaDescription": "Houston solar score: 80/100. Save $720/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Houston solar score: 80/100. Save $720/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Houston means occasional cleaning to remove pollen and debris. High humidity and 109 cloudy days per year slightly reduce efficiency, but 5.1 peak sun hours still generate significant power to offset the local 0.124 per kilowatt hour electricity rate."
   },
   "texas/fort-worth": {
     "id": 30,
@@ -2967,7 +2996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fort Worth, TX | 82/100 | SolarAtlas",
-    "metaDescription": "Fort Worth solar score: 82/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fort Worth solar score: 82/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fort Worth means abundant energy generation due to 5.2 peak sun hours per day. Summer humidity requires more frequent panel cleaning to maintain efficiency and prevent dirt buildup from the frequent thunderstorms."
   },
   "colorado/colorado-springs": {
     "id": 31,
@@ -3066,7 +3096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Colorado Springs, CO | 86/100 | SolarAtlas",
-    "metaDescription": "Colorado Springs solar score: 86/100. Save $783/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Colorado Springs solar score: 86/100. Save $783/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Colorado Springs means frequent cleaning due to semi-arid dust. On average, panels produce ample energy, but occasional intense thunderstorms bring heavy hail that requires careful panel inspection afterwards."
   },
   "kansas/kansas-city": {
     "id": 32,
@@ -3165,7 +3196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Kansas City, KS | 74/100 | SolarAtlas",
-    "metaDescription": "Kansas City solar score: 74/100. Save $629/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Kansas City solar score: 74/100. Save $629/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Kansas City, Kansas means occasional summer shutdowns due to extreme heat. The 58 percent humidity also requires more frequent panel cleaning to maintain efficiency during the 114 cloudy days per year."
   },
   "nebraska/omaha": {
     "id": 33,
@@ -3264,7 +3296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Omaha, NE | 72/100 | SolarAtlas",
-    "metaDescription": "Omaha solar score: 72/100. Save $573/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Omaha solar score: 72/100. Save $573/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Omaha means dealing with humid summers that can reduce efficiency. On partly cloudy days, panels still produce power, helping offset the 0.107 per kilowatt hour electricity cost, even on days with morning fog rolling in from the Missouri River."
   },
   "kansas/wichita": {
     "id": 34,
@@ -3363,7 +3396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Wichita, KS | 76/100 | SolarAtlas",
-    "metaDescription": "Wichita solar score: 76/100. Save $642/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Wichita solar score: 76/100. Save $642/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Wichita means occasional snow removal to maintain efficiency. Summer humidity requires more frequent panel cleaning to prevent energy loss from dirt and grime buildup."
   },
   "oklahoma/tulsa": {
     "id": 35,
@@ -3462,7 +3496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tulsa, OK | 77/100 | SolarAtlas",
-    "metaDescription": "Tulsa solar score: 77/100. Save $615/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tulsa solar score: 77/100. Save $615/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tulsa means navigating summer heat and humidity that can reduce panel efficiency. On cloudy days, which occur about 30 percent of the year, Tulsans may notice a significant drop in energy production, especially during the spring and fall seasons."
   },
   "louisiana/new-orleans": {
     "id": 36,
@@ -3561,7 +3596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in New Orleans, LA | 72/100 | SolarAtlas",
-    "metaDescription": "New Orleans solar score: 72/100. Save $519/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "New Orleans solar score: 72/100. Save $519/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in New Orleans means dealing with frequent cleaning due to high humidity and pollen from cypress trees. The 4.7 peak sun hours per day still allow for significant energy savings, especially with the city's high electricity rate of $0.097 per kilowatt hour."
   },
   "tennessee/memphis": {
     "id": 37,
@@ -3660,7 +3696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Memphis, TN | 69/100 | SolarAtlas",
-    "metaDescription": "Memphis solar score: 69/100. Save $545/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Memphis solar score: 69/100. Save $545/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Memphis means dealing with occasional heat and humidity, which can reduce efficiency. On cloudy days, panel output is lower, but on average sunny days, the 4.6 peak sun hours still help offset the relatively high electricity cost of $0.104 per kilowatt hour."
   },
   "alabama/birmingham": {
     "id": 38,
@@ -3759,7 +3796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Birmingham, AL | 70/100 | SolarAtlas",
-    "metaDescription": "Birmingham solar score: 70/100. Save $665/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Birmingham solar score: 70/100. Save $665/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Birmingham means occasional summer shutdowns due to heat. Panels produce less power on Birmingham's 118 cloudy days, but the 4.6 peak sun hours on clear days help offset this loss."
   },
   "virginia/richmond": {
     "id": 39,
@@ -3858,7 +3896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Richmond, VA | 68/100 | SolarAtlas",
-    "metaDescription": "Richmond solar score: 68/100. Save $641/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Richmond solar score: 68/100. Save $641/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Richmond means dealing with humidity that can reduce panel efficiency. On cloudy summer days, panels still generate some power, helping offset the high electricity costs from running air conditioning to combat Richmond's infamous swampy heat."
   },
   "north-carolina/raleigh": {
     "id": 40,
@@ -3957,7 +3996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Raleigh, NC | 74/100 | SolarAtlas",
-    "metaDescription": "Raleigh solar score: 74/100. Save $634/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Raleigh solar score: 74/100. Save $634/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Raleigh means planning for summer energy production to offset high humidity-driven electricity bills. Panel owners often notice a slight decrease in production during Raleigh's brief but intense spring pollen seasons, which can temporarily reduce panel efficiency."
   },
   "pennsylvania/philadelphia": {
     "id": 41,
@@ -4056,7 +4096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Philadelphia, PA | 58/100 | SolarAtlas",
-    "metaDescription": "Philadelphia solar score: 58/100. Save $635/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Philadelphia solar score: 58/100. Save $635/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Philadelphia means dealing with moderate energy output due to the city's humid continental climate. On cloudy days, panels produce less energy, but Philadelphia's high electricity rate of $0.143 per kilowatt hour makes solar a worthwhile investment despite the 130 cloudy days per year."
   },
   "maryland/baltimore": {
     "id": 42,
@@ -4155,7 +4196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Baltimore, MD | 65/100 | SolarAtlas",
-    "metaDescription": "Baltimore solar score: 65/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Baltimore solar score: 65/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Baltimore means dealing with humid summers that reduce efficiency. On cloudy days, which are common, panel production dips, but net metering helps offset the 13.9 cents per kilowatt hour utility rate."
   },
   "new-york/new-york-city": {
     "id": 43,
@@ -4254,7 +4296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in New York City, NY | 60/100 | SolarAtlas",
-    "metaDescription": "New York City solar score: 60/100. Save $980/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "New York City solar score: 60/100. Save $980/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in New York City means dealing with reduced efficiency due to high humidity. On cloudy days, which occur often, panel output is significantly lower, making net metering crucial to offset the 0.215 per kilowatt hour electricity cost."
   },
   "massachusetts/boston": {
     "id": 44,
@@ -4353,7 +4396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Boston, MA | 62/100 | SolarAtlas",
-    "metaDescription": "Boston solar score: 62/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Boston solar score: 62/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Boston means navigating frequent cloudy days and high humidity. Snow removal from panels is a necessary task during Boston's winters to maintain efficiency, especially after significant snowfalls."
   },
   "illinois/chicago": {
     "id": 45,
@@ -4452,7 +4496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Chicago, IL | 57/100 | SolarAtlas",
-    "metaDescription": "Chicago solar score: 57/100. Save $550/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Chicago solar score: 57/100. Save $550/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Chicago means dealing with reduced energy production on cloudy days, of which there are many. On hot summer afternoons, panels can be less efficient due to high humidity, which is a particular concern in Chicago's humid continental climate."
   },
   "michigan/detroit": {
     "id": 46,
@@ -4551,7 +4596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Detroit, MI | 49/100 | SolarAtlas",
-    "metaDescription": "Detroit solar score: 49/100. Save $678/year. 3.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Detroit solar score: 49/100. Save $678/year. 3.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Detroit means dealing with frequent cloudy days and high humidity. Panel efficiency can drop due to snow cover for about 30 days in winter, requiring regular clearing to maintain energy production."
   },
   "ohio/columbus": {
     "id": 47,
@@ -4650,7 +4696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Columbus, OH | 54/100 | SolarAtlas",
-    "metaDescription": "Columbus solar score: 54/100. Save $505/year. 3.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Columbus solar score: 54/100. Save $505/year. 3.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Columbus means frequent cleaning to remove pollen and debris that reduce efficiency. During Columbus's humid summers, panels produce less power on extremely hot days due to heat-related inefficiencies."
   },
   "indiana/indianapolis": {
     "id": 48,
@@ -4749,7 +4796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Indianapolis, IN | 55/100 | SolarAtlas",
-    "metaDescription": "Indianapolis solar score: 55/100. Save $502/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Indianapolis solar score: 55/100. Save $502/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Indianapolis means occasional heavy snowfall requires careful cleaning to maintain efficiency. The city's high humidity also necessitates regular inspections to prevent moisture buildup and ensure optimal performance."
   },
   "minnesota/minneapolis": {
     "id": 49,
@@ -4848,7 +4896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Minneapolis, MN | 54/100 | SolarAtlas",
-    "metaDescription": "Minneapolis solar score: 54/100. Save $552/year. 3.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Minneapolis solar score: 54/100. Save $552/year. 3.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Minneapolis means dealing with snow removal to maintain efficiency. Panels often require cleaning after spring storms to remove pollen and debris that reduce their effectiveness."
   },
   "wisconsin/milwaukee": {
     "id": 50,
@@ -4947,7 +4996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Milwaukee, WI | 52/100 | SolarAtlas",
-    "metaDescription": "Milwaukee solar score: 52/100. Save $607/year. 3.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Milwaukee solar score: 52/100. Save $607/year. 3.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Milwaukee means dealing with significant snowfall, which can temporarily reduce energy production. On partly cloudy days, production can still be decent due to the city's relatively high humidity, which helps scatter sunlight."
   },
   "washington/seattle": {
     "id": 51,
@@ -5046,7 +5096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Seattle, WA | 44/100 | SolarAtlas",
-    "metaDescription": "Seattle solar score: 44/100. Save $386/year. 3.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Seattle solar score: 44/100. Save $386/year. 3.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Seattle means frequent cleaning to maintain efficiency due to the region's high humidity. On cloudy days, which are common, panels still generate some power, often covering the cost of nighttime electricity at $0.106 per kilowatt hour."
   },
   "oregon/portland": {
     "id": 52,
@@ -5145,7 +5196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Portland, OR | 48/100 | SolarAtlas",
-    "metaDescription": "Portland solar score: 48/100. Save $438/year. 3.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Portland solar score: 48/100. Save $438/year. 3.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Portland means occasional bursts of high production on clear days, but mostly steady low output. Moss growth on the panels can be a unique maintenance issue due to the city's high humidity and frequent cloud cover."
   },
   "idaho/boise": {
     "id": 53,
@@ -5244,7 +5296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Boise, ID | 72/100 | SolarAtlas",
-    "metaDescription": "Boise solar score: 72/100. Save $482/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Boise solar score: 72/100. Save $482/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Boise means harnessing 4.7 peak sun hours daily. On cloudy days, panels still produce some power, but Boise's semi-arid climate often requires more frequent cleaning to remove dust."
   },
   "montana/billings": {
     "id": 54,
@@ -5343,7 +5396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Billings, MT | 63/100 | SolarAtlas",
-    "metaDescription": "Billings solar score: 63/100. Save $493/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Billings solar score: 63/100. Save $493/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Billings means occasional snow removal to maintain efficiency. The semi-arid climate allows for relatively low maintenance, with 32 percent humidity reducing panel corrosion concerns."
   },
   "kentucky/louisville": {
     "id": 55,
@@ -5442,7 +5496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Louisville, KY | 62/100 | SolarAtlas",
-    "metaDescription": "Louisville solar score: 62/100. Save $490/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Louisville solar score: 62/100. Save $490/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Louisville means occasional energy production dips due to the city's 126 cloudy days per year. Panel efficiency can also be affected by the region's high humidity, which may require more frequent cleaning to maintain optimal performance."
   },
   "alabama/montgomery": {
     "id": 56,
@@ -5541,7 +5596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Montgomery, AL | 73/100 | SolarAtlas",
-    "metaDescription": "Montgomery solar score: 73/100. Save $709/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Montgomery solar score: 73/100. Save $709/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Montgomery means navigating high humidity and occasional cloudy days. Summer storms can bring heavy rain, requiring occasional panel cleaning to maintain efficiency and maximize savings on the 0.127 per kilowatt hour electricity rate."
   },
   "alabama/huntsville": {
     "id": 57,
@@ -5640,7 +5696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Huntsville, AL | 71/100 | SolarAtlas",
-    "metaDescription": "Huntsville solar score: 71/100. Save $694/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Huntsville solar score: 71/100. Save $694/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Huntsville means occasional morning dew requires manual cleaning to maintain efficiency. The city's high humidity causes panels to degrade slightly faster than in drier climates, so more frequent inspections are necessary."
   },
   "alabama/mobile": {
     "id": 58,
@@ -5739,7 +5796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Mobile, AL | 74/100 | SolarAtlas",
-    "metaDescription": "Mobile solar score: 74/100. Save $723/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Mobile solar score: 74/100. Save $723/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Mobile, Alabama means frequent cleaning due to high humidity and pollen. The 5 peak sun hours per day help offset the 111 cloudy days, saving homeowners around $0.127 per kilowatt hour on their electricity bills."
   },
   "alabama/tuscaloosa": {
     "id": 59,
@@ -5838,7 +5896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tuscaloosa, AL | 71/100 | SolarAtlas",
-    "metaDescription": "Tuscaloosa solar score: 71/100. Save $694/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tuscaloosa solar score: 71/100. Save $694/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tuscaloosa means navigating a humid subtropical climate with frequent summer storms. The panels often require more frequent cleaning due to pollen from surrounding oak and pine trees."
   },
   "alaska/anchorage": {
     "id": 60,
@@ -5937,7 +5996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Anchorage, AK | 41/100 | SolarAtlas",
-    "metaDescription": "Anchorage solar score: 41/100. Save $753/year. 2.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Anchorage solar score: 41/100. Save $753/year. 2.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Anchorage means planning for low winter production due to limited sunlight. Snow must be regularly cleared from panels to maximize the already limited 2.9 peak sun hours per day."
   },
   "alaska/fairbanks": {
     "id": 61,
@@ -6036,7 +6096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fairbanks, AK | 44/100 | SolarAtlas",
-    "metaDescription": "Fairbanks solar score: 44/100. Save $805/year. 3.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fairbanks solar score: 44/100. Save $805/year. 3.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fairbanks means dealing with heavy snowfall that can block sunlight. On cloudy days, the panels produce very little power, so homeowners often rely on the grid during the 144 cloudy days per year."
   },
   "alaska/juneau": {
     "id": 62,
@@ -6135,7 +6196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Juneau, AK | 38/100 | SolarAtlas",
-    "metaDescription": "Juneau solar score: 38/100. Save $701/year. 2.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Juneau solar score: 38/100. Save $701/year. 2.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Juneau means dealing with limited sunlight and high humidity. On cloudy days, which are common, the panels produce almost no power, forcing homeowners to rely on the grid, which costs 22.8 cents per kilowatt hour."
   },
   "arizona/chandler": {
     "id": 63,
@@ -6234,7 +6296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Chandler, AZ | 98/100 | SolarAtlas",
-    "metaDescription": "Chandler solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Chandler solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Chandler, Arizona means enjoying low electricity bills due to abundant sunshine. Panel owners often notice a slight decrease in energy production during the brief but intense summer monsoon storms that bring most of the city's 85 cloudy days per year."
   },
   "arizona/glendale": {
     "id": 64,
@@ -6333,7 +6396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Glendale, AZ | 96/100 | SolarAtlas",
-    "metaDescription": "Glendale solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Glendale solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Glendale, Arizona, means abundant energy production due to the area's high peak sun hours. During the summer, panels can overheat, so owners often schedule panel cleanings in early morning to avoid damage from extreme heat."
   },
   "arizona/tempe": {
     "id": 65,
@@ -6432,7 +6496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tempe, AZ | 98/100 | SolarAtlas",
-    "metaDescription": "Tempe solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tempe solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tempe means watching your energy bill plummet due to the abundant sunshine. On extremely hot days, the panels can overheat and lose efficiency, so owners often schedule cleaning for early morning to maximize output."
   },
   "arizona/peoria": {
     "id": 66,
@@ -6531,7 +6596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Peoria, AZ | 96/100 | SolarAtlas",
-    "metaDescription": "Peoria solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Peoria solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Peoria, Arizona means enjoying low electricity bills due to abundant sunshine. The dry desert air and low humidity also reduce panel maintenance, as dust storms are the main concern rather than corrosion from moisture."
   },
   "arizona/surprise": {
     "id": 67,
@@ -6630,7 +6696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Surprise, AZ | 96/100 | SolarAtlas",
-    "metaDescription": "Surprise solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Surprise solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Surprise, Arizona means abundant energy production due to the high peak sun hours. Dust storms require occasional panel cleaning to maintain efficiency, especially during the summer months when energy demand and production are highest."
   },
   "arizona/yuma": {
     "id": 68,
@@ -6729,7 +6796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Yuma, AZ | 100/100 | SolarAtlas",
-    "metaDescription": "Yuma solar score: 100/100. Save $978/year. 7.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Yuma solar score: 100/100. Save $978/year. 7.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Yuma, Arizona means abundant energy production due to the high peak sun hours. Dust storms are a maintenance concern, requiring regular panel cleaning to optimize energy output in this extremely sunny and dry climate."
   },
   "arizona/flagstaff": {
     "id": 69,
@@ -6828,7 +6896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Flagstaff, AZ | 87/100 | SolarAtlas",
-    "metaDescription": "Flagstaff solar score: 87/100. Save $799/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Flagstaff solar score: 87/100. Save $799/year. 5.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Flagstaff means occasional snow removal to maintain efficiency. On average, panels generate significant power due to peak sun hours, offsetting the $0.121 per kilowatt hour electricity cost."
   },
   "arkansas/little-rock": {
     "id": 70,
@@ -6927,7 +6996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Little Rock, AR | 73/100 | SolarAtlas",
-    "metaDescription": "Little Rock solar score: 73/100. Save $547/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Little Rock solar score: 73/100. Save $547/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Little Rock means occasional summer shutdowns due to extreme heat. The 62 percent humidity also requires more frequent cleaning to maintain efficiency, especially after spring storms."
   },
   "arkansas/fort-smith": {
     "id": 71,
@@ -7026,7 +7096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fort Smith, AR | 71/100 | SolarAtlas",
-    "metaDescription": "Fort Smith solar score: 71/100. Save $536/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fort Smith solar score: 71/100. Save $536/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fort Smith means occasionally cleaning pollen off the panels in spring. The humidity and cloud cover require more frequent panel inspections to ensure optimal energy production."
   },
   "arkansas/fayetteville": {
     "id": 72,
@@ -7125,7 +7196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fayetteville, AR | 69/100 | SolarAtlas",
-    "metaDescription": "Fayetteville solar score: 69/100. Save $524/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fayetteville solar score: 69/100. Save $524/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fayetteville means occasional summer energy surpluses, but also regular panel cleaning due to pollen. The humid subtropical climate requires more frequent cleaning to maintain efficiency, especially during spring when oak trees shed heavily."
   },
   "california/san-francisco": {
     "id": 73,
@@ -7224,7 +7296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in San Francisco, CA | 74/100 | SolarAtlas",
-    "metaDescription": "San Francisco solar score: 74/100. Save $1,675/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "San Francisco solar score: 74/100. Save $1,675/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in San Francisco means dealing with foggy mornings that reduce energy production. On sunny days, panels can generate excess energy to offset the cloudy days, helping to mitigate the 0.294 per kilowatt hour electricity cost."
   },
   "california/long-beach": {
     "id": 74,
@@ -7323,7 +7396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Long Beach, CA | 84/100 | SolarAtlas",
-    "metaDescription": "Long Beach solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Long Beach solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Long Beach means generating most of your power during the morning, when the marine layer often burns off. On especially cloudy days, the system's production drops, but the city's relatively low humidity helps keep the panels clean and efficient."
   },
   "california/oakland": {
     "id": 75,
@@ -7422,7 +7496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Oakland, CA | 76/100 | SolarAtlas",
-    "metaDescription": "Oakland solar score: 76/100. Save $1,708/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Oakland solar score: 76/100. Save $1,708/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Oakland means generating most of your power during the dry summer months. On foggy mornings, production is lower, but the panels still generate some power, even on the 109 cloudy days per year, helping offset the high 0.294 per kilowatt hour electricity cost."
   },
   "california/bakersfield": {
     "id": 76,
@@ -7521,7 +7596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bakersfield, CA | 88/100 | SolarAtlas",
-    "metaDescription": "Bakersfield solar score: 88/100. Save $1,976/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bakersfield solar score: 88/100. Save $1,976/year. 5.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bakersfield means abundant energy production due to high peak sun hours. On hot summer days, panels can overheat, so owners often schedule cleaning for early morning to maximize efficiency and prevent dust buildup from frequent Kern County windstorms."
   },
   "california/anaheim": {
     "id": 77,
@@ -7620,7 +7696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Anaheim, CA | 84/100 | SolarAtlas",
-    "metaDescription": "Anaheim solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Anaheim solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Anaheim means moderate energy savings due to the Mediterranean climate. On particularly hot days, panels may overheat, reducing efficiency, so owners often schedule cleaning for early morning to maximize output."
   },
   "california/riverside": {
     "id": 78,
@@ -7719,7 +7796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Riverside, CA | 85/100 | SolarAtlas",
-    "metaDescription": "Riverside solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Riverside solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Riverside means generating plenty of power due to the area's high peak sun hours. On extremely hot days, the panels can overheat, reducing efficiency, so owners often schedule cleaning for early morning to maximize output."
   },
   "california/stockton": {
     "id": 79,
@@ -7818,7 +7896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Stockton, CA | 81/100 | SolarAtlas",
-    "metaDescription": "Stockton solar score: 81/100. Save $1,808/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Stockton solar score: 81/100. Save $1,808/year. 5.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Stockton means generating plenty of electricity during the sunny summer months. The dry climate also means less panel cleaning is required, about every 6 months, due to the low humidity and relatively few cloudy days."
   },
   "california/irvine": {
     "id": 80,
@@ -7917,7 +7996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Irvine, CA | 85/100 | SolarAtlas",
-    "metaDescription": "Irvine solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Irvine solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Irvine means ample energy production due to the city's high peak sun hours. On particularly hot days, panels can overproduce, allowing homeowners to sell excess energy back to the grid, offsetting the higher summer electricity rates that come with Irvine's Mediterranean climate."
   },
   "california/santa-ana": {
     "id": 81,
@@ -8016,7 +8096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Santa Ana, CA | 84/100 | SolarAtlas",
-    "metaDescription": "Santa Ana solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Santa Ana solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Santa Ana means generating most of your power during the dry summer months. The panels are most efficient when the Santa Ana winds blow, clearing the skies of the morning fog that otherwise reduces their energy output."
   },
   "california/chula-vista": {
     "id": 82,
@@ -8115,7 +8196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Chula Vista, CA | 85/100 | SolarAtlas",
-    "metaDescription": "Chula Vista solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Chula Vista solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Chula Vista means abundant energy generation due to the high number of sunny days. The panels' efficiency is slightly reduced during May and June when a cool foggy layer, known as May Gray, often covers the area."
   },
   "colorado/aurora": {
     "id": 83,
@@ -8214,7 +8296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Aurora, CO | 85/100 | SolarAtlas",
-    "metaDescription": "Aurora solar score: 85/100. Save $812/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Aurora solar score: 85/100. Save $812/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Aurora means occasional dust storms reduce efficiency. On average, panels still produce enough to save $100 monthly on the $0.125 per kWh electricity rate."
   },
   "colorado/fort-collins": {
     "id": 84,
@@ -8313,7 +8396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fort Collins, CO | 84/100 | SolarAtlas",
-    "metaDescription": "Fort Collins solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fort Collins solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fort Collins means navigating semi-arid climate quirks like panel dust buildup. On average, panels require cleaning every 2-3 months to maintain efficiency due to the area's low humidity and frequent gusts."
   },
   "colorado/boulder": {
     "id": 85,
@@ -8412,7 +8496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Boulder, CO | 84/100 | SolarAtlas",
-    "metaDescription": "Boulder solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Boulder solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Boulder means navigating semi-arid climate challenges, like panel dust buildup from low humidity. On cloudy days, homeowners can still generate some power, but low electricity costs of $0.125/kWh mitigate the impact of the 101 cloudy days per year."
   },
   "colorado/pueblo": {
     "id": 86,
@@ -8511,7 +8596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Pueblo, CO | 88/100 | SolarAtlas",
-    "metaDescription": "Pueblo solar score: 88/100. Save $840/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Pueblo solar score: 88/100. Save $840/year. 5.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Pueblo means frequent cleaning due to semi-arid dust. The 5.9 peak sun hours per day make them a good investment, despite occasional dust storms reducing efficiency."
   },
   "connecticut/bridgeport": {
     "id": 87,
@@ -8610,7 +8696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bridgeport, CT | 60/100 | SolarAtlas",
-    "metaDescription": "Bridgeport solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bridgeport solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bridgeport means dealing with humidity that can cause panels to degrade faster. On cloudy days, which are frequent, panel efficiency is reduced, making the 4.1 peak sun hours per day crucial to offset the high electricity cost of 0.231 per kWh."
   },
   "connecticut/new-haven": {
     "id": 88,
@@ -8709,7 +8796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in New Haven, CT | 60/100 | SolarAtlas",
-    "metaDescription": "New Haven solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "New Haven solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in New Haven means occasional snow removal to maintain efficiency. On cloudy days, which are frequent, panels still generate some power, helping offset the high electricity cost of 0.231 per kilowatt hour."
   },
   "connecticut/hartford": {
     "id": 89,
@@ -8808,7 +8896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Hartford, CT | 58/100 | SolarAtlas",
-    "metaDescription": "Hartford solar score: 58/100. Save $1,052/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Hartford solar score: 58/100. Save $1,052/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Hartford, Connecticut, means dealing with significant snowfall that can temporarily reduce energy production. On average, panel owners can expect to pay off their investment in about 8 years, helped by the high electricity rate of $0.231 per kilowatt hour."
   },
   "connecticut/stamford": {
     "id": 90,
@@ -8907,7 +8996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Stamford, CT | 60/100 | SolarAtlas",
-    "metaDescription": "Stamford solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Stamford solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Stamford means dealing with significant tree leaf buildup on panels in autumn. Panel owners must clean them regularly to maintain efficiency, especially after autumn storms that bring heavy leaf fall to the area."
   },
   "delaware/wilmington": {
     "id": 91,
@@ -9006,7 +9096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Wilmington, DE | 62/100 | SolarAtlas",
-    "metaDescription": "Wilmington solar score: 62/100. Save $593/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Wilmington solar score: 62/100. Save $593/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Wilmington means occasional summer shutdowns due to extreme heat. The panels still generate power on cloudy days, helping offset the high electricity costs of 0.124 per kWh during humid Delaware summers."
   },
   "florida/st-petersburg": {
     "id": 92,
@@ -9105,7 +9196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in St. Petersburg, FL | 82/100 | SolarAtlas",
-    "metaDescription": "St. Petersburg solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "St. Petersburg solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in St. Petersburg means dealing with frequent morning fog that reduces energy production. The panels still generate significant power, especially during the 263 sunny days, helping to offset the high electricity costs of 0.115 per kilowatt hour."
   },
   "florida/hialeah": {
     "id": 93,
@@ -9204,7 +9296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Hialeah, FL | 84/100 | SolarAtlas",
-    "metaDescription": "Hialeah solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Hialeah solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Hialeah means frequent cleaning due to high humidity. The 5.6 peak sun hours per day help offset the cost of electricity at $0.115 per kilowatt hour."
   },
   "florida/port-st-lucie": {
     "id": 94,
@@ -9303,7 +9396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Port St. Lucie, FL | 82/100 | SolarAtlas",
-    "metaDescription": "Port St. Lucie solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Port St. Lucie solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Port St Lucie means navigating subtropical weather patterns. On particularly humid days, panels may produce less energy due to morning fog that can linger until late morning near the Indian River Lagoon."
   },
   "florida/tallahassee": {
     "id": 95,
@@ -9402,7 +9496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tallahassee, FL | 77/100 | SolarAtlas",
-    "metaDescription": "Tallahassee solar score: 77/100. Save $681/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tallahassee solar score: 77/100. Save $681/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tallahassee means navigating frequent summer thunderstorms that can reduce daily energy output. On especially humid mornings, panels may take longer to reach peak production due to dew accumulation."
   },
   "florida/fort-lauderdale": {
     "id": 96,
@@ -9501,7 +9596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fort Lauderdale, FL | 84/100 | SolarAtlas",
-    "metaDescription": "Fort Lauderdale solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fort Lauderdale solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fort Lauderdale means dealing with high humidity that reduces panel efficiency. On especially cloudy days, residents may notice a significant drop in energy production, about 20-30% less than the average 5.6 peak sun hours per day."
   },
   "florida/cape-coral": {
     "id": 97,
@@ -9600,7 +9696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cape Coral, FL | 82/100 | SolarAtlas",
-    "metaDescription": "Cape Coral solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cape Coral solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cape Coral means frequent cleaning due to high humidity and salt air from the Gulf of Mexico. On partly cloudy days, panels still produce significant power, often covering morning energy needs before the sun reaches its peak."
   },
   "florida/pembroke-pines": {
     "id": 98,
@@ -9699,7 +9796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Pembroke Pines, FL | 84/100 | SolarAtlas",
-    "metaDescription": "Pembroke Pines solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Pembroke Pines solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Pembroke Pines means navigating subtropical storms that can reduce peak sun hours. Panel cleaning is crucial due to high humidity and frequent summer storms that leave residue and reduce efficiency."
   },
   "florida/hollywood": {
     "id": 99,
@@ -9798,7 +9896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Hollywood, FL | 84/100 | SolarAtlas",
-    "metaDescription": "Hollywood solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Hollywood solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Hollywood, Florida means dealing with high humidity that can cause panel efficiency to drop. On cloudy days, which occur about 101 times a year, the 5.6 peak sun hours per day are reduced, but savings still beat the local 0.115 per kilowatt hour electricity cost."
   },
   "florida/gainesville": {
     "id": 100,
@@ -9897,7 +9996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Gainesville, FL | 79/100 | SolarAtlas",
-    "metaDescription": "Gainesville solar score: 79/100. Save $694/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Gainesville solar score: 79/100. Save $694/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Gainesville means navigating occasional mold growth on the panels due to the humid subtropical climate. The 5.3 peak sun hours per day generally offset the 106 cloudy days per year, saving homeowners around $0.115 per kilowatt hour on their electricity bills."
   },
   "georgia/augusta": {
     "id": 101,
@@ -9996,7 +10096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Augusta, GA | 76/100 | SolarAtlas",
-    "metaDescription": "Augusta solar score: 76/100. Save $680/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Augusta solar score: 76/100. Save $680/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Augusta means occasional summer shutdowns due to heat. The 62 percent humidity also requires more frequent cleaning to maintain efficiency and prevent energy losses."
   },
   "georgia/columbus": {
     "id": 102,
@@ -10095,7 +10196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Columbus, GA | 74/100 | SolarAtlas",
-    "metaDescription": "Columbus solar score: 74/100. Save $666/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Columbus solar score: 74/100. Save $666/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Columbus means dealing with frequent summer storms that can reduce electricity production. The area's high humidity also requires more frequent cleaning of panels to maintain efficiency, especially during the 111 cloudy days per year."
   },
   "georgia/savannah": {
     "id": 103,
@@ -10194,7 +10296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Savannah, GA | 77/100 | SolarAtlas",
-    "metaDescription": "Savannah solar score: 77/100. Save $693/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Savannah solar score: 77/100. Save $693/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Savannah means navigating high humidity and occasional cloudy days. Panel efficiency may decrease during summer heatwaves, when the city's notorious Spanish moss can also shade parts of your roof."
   },
   "georgia/macon": {
     "id": 104,
@@ -10293,7 +10396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Macon, GA | 76/100 | SolarAtlas",
-    "metaDescription": "Macon solar score: 76/100. Save $680/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Macon solar score: 76/100. Save $680/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Macon, Georgia means frequent cleaning to remove pollen and humidity-induced grime. On partly cloudy days, the panels still generate significant power, helping to offset the 0.117 per kilowatt hour electricity cost."
   },
   "hawaii/pearl-city": {
     "id": 105,
@@ -10392,7 +10496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Pearl City, HI | 90/100 | SolarAtlas",
-    "metaDescription": "Pearl City solar score: 90/100. Save $2,644/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Pearl City solar score: 90/100. Save $2,644/year. 6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Pearl City means navigating high humidity and occasional cloud cover. On especially sunny days, the 6 peak sun hours can help offset the expensive $0.387 per kilowatt hour electricity cost, but frequent morning haze requires regular panel cleaning."
   },
   "hawaii/hilo": {
     "id": 106,
@@ -10491,7 +10596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Hilo, HI | 76/100 | SolarAtlas",
-    "metaDescription": "Hilo solar score: 76/100. Save $2,248/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Hilo solar score: 76/100. Save $2,248/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Hilo means occasional cleaning to remove volcanic ash. High humidity requires more frequent inspections to prevent mold growth on the panels."
   },
   "idaho/nampa": {
     "id": 107,
@@ -10590,7 +10696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Nampa, ID | 77/100 | SolarAtlas",
-    "metaDescription": "Nampa solar score: 77/100. Save $533/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Nampa solar score: 77/100. Save $533/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Nampa means dealing with occasional dust storms that reduce efficiency. On average days, the 5.2 peak sun hours generate significant power, helping to offset the $0.09 per kilowatt hour electricity costs."
   },
   "idaho/idaho-falls": {
     "id": 108,
@@ -10689,7 +10796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Idaho Falls, ID | 74/100 | SolarAtlas",
-    "metaDescription": "Idaho Falls solar score: 74/100. Save $513/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Idaho Falls solar score: 74/100. Save $513/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Idaho Falls means dealing with semi-arid climate extremes. On cloudy days, panels still generate some power, but the 5 peak sun hours per day help offset the 111 cloudy days per year, especially when selling excess back to the grid at $0.09 per kWh."
   },
   "illinois/aurora": {
     "id": 109,
@@ -10788,7 +10896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Aurora, IL | 62/100 | SolarAtlas",
-    "metaDescription": "Aurora solar score: 62/100. Save $608/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Aurora solar score: 62/100. Save $608/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Aurora, Illinois means dealing with decreased efficiency on humid summer days. On cloudy days, which occur about one-third of the year, panel production slows, but savings still add up against the local 0.127 per kilowatt hour rate."
   },
   "illinois/joliet": {
     "id": 110,
@@ -10887,7 +10996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Joliet, IL | 62/100 | SolarAtlas",
-    "metaDescription": "Joliet solar score: 62/100. Save $608/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Joliet solar score: 62/100. Save $608/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Joliet means dealing with occasional heavy snowfall that requires panel clearing. On partly cloudy days, the 4.2 peak sun hours still generate significant power, helping offset the high summer electricity rates."
   },
   "illinois/rockford": {
     "id": 111,
@@ -10986,7 +11096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Rockford, IL | 60/100 | SolarAtlas",
-    "metaDescription": "Rockford solar score: 60/100. Save $593/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Rockford solar score: 60/100. Save $593/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Rockford means dealing with reduced energy production on humid summer days. On average, panels produce less energy on cloudy days, of which Rockford has 126 per year, affecting overall energy output and savings on the $0.127 per kilowatt hour electricity rate."
   },
   "illinois/springfield": {
     "id": 112,
@@ -11085,7 +11196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Springfield, IL | 65/100 | SolarAtlas",
-    "metaDescription": "Springfield solar score: 65/100. Save $637/year. 4.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Springfield solar score: 65/100. Save $637/year. 4.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Springfield means occasional summer energy surpluses. On humid days with partial cloud cover, panels still produce about 70% of their capacity, helping offset the 0.127 per kilowatt hour electricity cost."
   },
   "illinois/peoria": {
     "id": 113,
@@ -11184,7 +11296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Peoria, IL | 63/100 | SolarAtlas",
-    "metaDescription": "Peoria solar score: 63/100. Save $622/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Peoria solar score: 63/100. Save $622/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Peoria means adapting to humid summers and cloudy winters. On particularly humid days, panels may produce less power, so homeowners often prioritize energy storage to compensate for the 58% average humidity."
   },
   "indiana/fort-wayne": {
     "id": 114,
@@ -11283,7 +11396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fort Wayne, IN | 62/100 | SolarAtlas",
-    "metaDescription": "Fort Wayne solar score: 62/100. Save $555/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fort Wayne solar score: 62/100. Save $555/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fort Wayne means occasional snow removal to maintain efficiency. On cloudy days, which are common, panels still generate some power, helping to offset the high electricity costs during humid summer months."
   },
   "indiana/evansville": {
     "id": 115,
@@ -11382,7 +11496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Evansville, IN | 66/100 | SolarAtlas",
-    "metaDescription": "Evansville solar score: 66/100. Save $594/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Evansville solar score: 66/100. Save $594/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Evansville means occasional summer shutdowns due to high temperatures. The panels still generate significant power on cloudy days, helping offset the 0.116 per kWh electricity cost during humid Indiana summers."
   },
   "indiana/south-bend": {
     "id": 116,
@@ -11481,7 +11596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in South Bend, IN | 60/100 | SolarAtlas",
-    "metaDescription": "South Bend solar score: 60/100. Save $541/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "South Bend solar score: 60/100. Save $541/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in South Bend means occasional snow removal to maintain efficiency. On cloudy days, the panels still generate some power, helping offset the high summer electricity costs driven by 58 percent humidity."
   },
   "iowa/des-moines": {
     "id": 117,
@@ -11580,7 +11696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Des Moines, IA | 68/100 | SolarAtlas",
-    "metaDescription": "Des Moines solar score: 68/100. Save $550/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Des Moines solar score: 68/100. Save $550/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Des Moines means navigating 118 cloudy days per year. On humid summer mornings, panels may produce less power due to morning dew lingering on surfaces until late morning."
   },
   "iowa/cedar-rapids": {
     "id": 118,
@@ -11679,7 +11796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cedar Rapids, IA | 66/100 | SolarAtlas",
-    "metaDescription": "Cedar Rapids solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cedar Rapids solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cedar Rapids means navigating humidity that can reduce efficiency, especially during summer months. On cloudy days, which occur about one-third of the year, panels still generate some power, helping to offset the 10.5 cents per kilowatt-hour electricity cost."
   },
   "iowa/davenport": {
     "id": 119,
@@ -11778,7 +11896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Davenport, IA | 66/100 | SolarAtlas",
-    "metaDescription": "Davenport solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Davenport solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Davenport means occasional summer maintenance to clean pollen from panels. The region's high humidity requires more frequent checks for mold and rust on panel mounts and wiring."
   },
   "kansas/overland-park": {
     "id": 120,
@@ -11877,7 +11996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Overland Park, KS | 74/100 | SolarAtlas",
-    "metaDescription": "Overland Park solar score: 74/100. Save $655/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Overland Park solar score: 74/100. Save $655/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Overland Park means navigating humidity that can reduce efficiency. On cloudy days, which occur about 111 times a year, panels still generate some power, helping offset the $0.115 per kWh electricity cost."
   },
   "kentucky/lexington": {
     "id": 121,
@@ -11976,7 +12096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lexington, KY | 66/100 | SolarAtlas",
-    "metaDescription": "Lexington solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lexington solar score: 66/100. Save $538/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lexington means occasionally cleaning pollen off the panels in spring. The humid climate requires more frequent cleaning to maintain efficiency, especially during the 120 cloudy days per year."
   },
   "kentucky/bowling-green": {
     "id": 122,
@@ -12075,7 +12196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bowling Green, KY | 68/100 | SolarAtlas",
-    "metaDescription": "Bowling Green solar score: 68/100. Save $550/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bowling Green solar score: 68/100. Save $550/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bowling Green means occasional summer energy surpluses. Panels may require more frequent cleaning due to humid summers and 58 percent average humidity."
   },
   "louisiana/baton-rouge": {
     "id": 123,
@@ -12174,7 +12296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Baton Rouge, LA | 74/100 | SolarAtlas",
-    "metaDescription": "Baton Rouge solar score: 74/100. Save $553/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Baton Rouge solar score: 74/100. Save $553/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Baton Rouge means dealing with frequent summer storms that can reduce energy production. Local residents often have to clean panels more frequently due to the high humidity and pollen from surrounding cypress trees."
   },
   "louisiana/shreveport": {
     "id": 124,
@@ -12273,7 +12396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Shreveport, LA | 74/100 | SolarAtlas",
-    "metaDescription": "Shreveport solar score: 74/100. Save $553/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Shreveport solar score: 74/100. Save $553/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Shreveport means occasional cleaning to remove pollen and debris. The city's humid subtropical climate requires more frequent panel checks due to summer storms and high humidity levels."
   },
   "louisiana/lafayette": {
     "id": 125,
@@ -12372,7 +12496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lafayette, LA | 76/100 | SolarAtlas",
-    "metaDescription": "Lafayette solar score: 76/100. Save $563/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lafayette solar score: 76/100. Save $563/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lafayette means occasional cleaning to remove pollen and mildew that thrive in the humid subtropical climate. The 5.1 peak sun hours per day and relatively low electricity cost of $0.097 per kilowatt hour make solar panels a worthwhile investment despite the frequent cloudy days."
   },
   "maine/portland": {
     "id": 126,
@@ -12471,7 +12596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Portland, ME | 58/100 | SolarAtlas",
-    "metaDescription": "Portland solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Portland solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Portland, Maine means dealing with frequent snow removal to maintain efficiency. The region's high humidity also requires more frequent cleaning to prevent dirt buildup and optimize the 4 peak sun hours available daily."
   },
   "maine/lewiston": {
     "id": 127,
@@ -12570,7 +12696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lewiston, ME | 57/100 | SolarAtlas",
-    "metaDescription": "Lewiston solar score: 57/100. Save $777/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lewiston solar score: 57/100. Save $777/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lewiston means frequent snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the 0.175 per kilowatt hour electricity cost, even during Maine's humid winters."
   },
   "maryland/frederick": {
     "id": 128,
@@ -12669,7 +12796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Frederick, MD | 63/100 | SolarAtlas",
-    "metaDescription": "Frederick solar score: 63/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Frederick solar score: 63/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Frederick, Maryland means dealing with humid summers that reduce efficiency. On cloudy days, panel output can drop significantly, making the 123 cloudy days per year a notable consideration for homeowners."
   },
   "maryland/rockville": {
     "id": 129,
@@ -12768,7 +12896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Rockville, MD | 63/100 | SolarAtlas",
-    "metaDescription": "Rockville solar score: 63/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Rockville solar score: 63/100. Save $681/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Rockville, Maryland means dealing with humidity that can reduce panel efficiency. On cloudy days, which occur about one-third of the year, panels may produce less power, but homeowners can still save money on their $0.139 per kilowatt hour electricity bills."
   },
   "massachusetts/worcester": {
     "id": 130,
@@ -12867,7 +12996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Worcester, MA | 58/100 | SolarAtlas",
-    "metaDescription": "Worcester solar score: 58/100. Save $1,052/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Worcester solar score: 58/100. Save $1,052/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Worcester means dealing with reduced efficiency on humid summer days. Panel owners often notice a spike in energy production after spring snowmelt, when rooftops are cleared of snow and ice."
   },
   "massachusetts/springfield": {
     "id": 131,
@@ -12966,7 +13096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Springfield, MA | 60/100 | SolarAtlas",
-    "metaDescription": "Springfield solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Springfield solar score: 60/100. Save $1,078/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Springfield means managing humidity's impact on efficiency. On cloudy days, panels still generate some power, helping offset the 0.231 per kilowatt hour electricity cost, even in winter's shorter days."
   },
   "michigan/grand-rapids": {
     "id": 132,
@@ -13065,7 +13196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Grand Rapids, MI | 58/100 | SolarAtlas",
-    "metaDescription": "Grand Rapids solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Grand Rapids solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Grand Rapids means dealing with reduced energy production on frequent cloudy days. Panel owners often notice a spike in energy output during brief morning sun windows before humidity and clouds roll in over Lake Michigan."
   },
   "michigan/warren": {
     "id": 133,
@@ -13164,7 +13296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Warren, MI | 58/100 | SolarAtlas",
-    "metaDescription": "Warren solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Warren solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Warren, Michigan means dealing with significant snowfall in winter, which can reduce energy production. On cloudy days, panels still generate some power, helping to offset the high electricity costs of $0.175 per kilowatt hour."
   },
   "michigan/ann-arbor": {
     "id": 134,
@@ -13263,7 +13396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Ann Arbor, MI | 58/100 | SolarAtlas",
-    "metaDescription": "Ann Arbor solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Ann Arbor solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Ann Arbor means dealing with frequent snow cover in winter, which reduces energy production. On cloudy summer days, panels still generate some power, helping to offset the high humidity-driven electricity costs of running air conditioning at $0.175 per kilowatt hour."
   },
   "michigan/lansing": {
     "id": 135,
@@ -13362,7 +13496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lansing, MI | 58/100 | SolarAtlas",
-    "metaDescription": "Lansing solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lansing solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lansing means dealing with snow cover for several winter months, reducing energy production. On cloudy days, the panels still produce some energy, helping offset the 0.175 per kilowatt hour electricity cost."
   },
   "minnesota/st-paul": {
     "id": 136,
@@ -13461,7 +13596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in St. Paul, MN | 66/100 | SolarAtlas",
-    "metaDescription": "St. Paul solar score: 66/100. Save $671/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "St. Paul solar score: 66/100. Save $671/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in St. Paul means occasional snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the 13 cents per kilowatt-hour electricity cost."
   },
   "minnesota/rochester": {
     "id": 137,
@@ -13560,7 +13696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Rochester, MN | 66/100 | SolarAtlas",
-    "metaDescription": "Rochester solar score: 66/100. Save $671/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Rochester solar score: 66/100. Save $671/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Rochester, Minnesota means dealing with significant snowfall and humidity. Panels may need more frequent cleaning due to moisture and dirt accumulation from nearby Zumbro River valley fog."
   },
   "mississippi/jackson": {
     "id": 138,
@@ -13659,7 +13796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Jackson, MS | 74/100 | SolarAtlas",
-    "metaDescription": "Jackson solar score: 74/100. Save $644/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Jackson solar score: 74/100. Save $644/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Jackson, Mississippi means dealing with high humidity that can reduce panel efficiency. On cloudy summer days, the 5 peak sun hours are often limited by afternoon thunderstorms that bring heavy rain and temporary shading."
   },
   "mississippi/gulfport": {
     "id": 139,
@@ -13758,7 +13896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Gulfport, MS | 76/100 | SolarAtlas",
-    "metaDescription": "Gulfport solar score: 76/100. Save $656/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Gulfport solar score: 76/100. Save $656/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Gulfport means dealing with humidity that can cause panel efficiency to drop. On especially cloudy days, residents often notice a significant decrease in energy production, around 20-30 percent, due to the frequent summer storms that bring overcast skies."
   },
   "missouri/kansas-city": {
     "id": 140,
@@ -13857,7 +13996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Kansas City, MO | 74/100 | SolarAtlas",
-    "metaDescription": "Kansas City solar score: 74/100. Save $632/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Kansas City solar score: 74/100. Save $632/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Kansas City means dealing with humidity that can cause panels to produce less energy on hot summer days. On cloudy days, which occur about 30 percent of the year, panels may produce significantly less energy, such as on the 111 cloudy days annually."
   },
   "missouri/st-louis": {
     "id": 141,
@@ -13956,7 +14096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in St. Louis, MO | 69/100 | SolarAtlas",
-    "metaDescription": "St. Louis solar score: 69/100. Save $594/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "St. Louis solar score: 69/100. Save $594/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in St. Louis means occasional snow and ice removal to maintain efficiency. Summer humidity can reduce panel performance, so St. Louis homeowners often install panels with a slight tilt to help rainwater run off."
   },
   "missouri/springfield": {
     "id": 142,
@@ -14055,7 +14196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Springfield, MO | 73/100 | SolarAtlas",
-    "metaDescription": "Springfield solar score: 73/100. Save $619/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Springfield solar score: 73/100. Save $619/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Springfield, Missouri means occasional summer shutdowns due to extreme heat. The region's high humidity also requires more frequent panel cleaning to maintain efficiency and optimize the 4.9 peak sun hours per day."
   },
   "missouri/columbia": {
     "id": 143,
@@ -14154,7 +14296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Columbia, MO | 71/100 | SolarAtlas",
-    "metaDescription": "Columbia solar score: 71/100. Save $607/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Columbia solar score: 71/100. Save $607/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Columbia, Missouri means occasional summer energy surpluses. Heavy spring storms sometimes require panel cleaning to maintain efficiency after pollen and debris accumulate."
   },
   "montana/missoula": {
     "id": 144,
@@ -14253,7 +14396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Missoula, MT | 66/100 | SolarAtlas",
-    "metaDescription": "Missoula solar score: 66/100. Save $528/year. 4.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Missoula solar score: 66/100. Save $528/year. 4.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Missoula means occasional snow removal to maintain efficiency. The semi-arid climate allows for relatively low maintenance, with an average of 120 cloudy days per year having minimal impact on overall energy production."
   },
   "montana/great-falls": {
     "id": 145,
@@ -14352,7 +14496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Great Falls, MT | 71/100 | SolarAtlas",
-    "metaDescription": "Great Falls solar score: 71/100. Save $563/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Great Falls solar score: 71/100. Save $563/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Great Falls means occasional snow removal to maintain efficiency. Panels produce well despite semi-arid climate limitations, with winter's low humidity helping to prevent panel degradation from moisture buildup."
   },
   "nebraska/lincoln": {
     "id": 146,
@@ -14451,7 +14596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lincoln, NE | 74/100 | SolarAtlas",
-    "metaDescription": "Lincoln solar score: 74/100. Save $609/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lincoln solar score: 74/100. Save $609/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lincoln means dealing with humidity that can reduce efficiency. On partly cloudy days, panels still generate power, helping offset the 0.107 per kWh electricity cost during Nebraska's hot summers."
   },
   "nevada/north-las-vegas": {
     "id": 147,
@@ -14550,7 +14696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in North Las Vegas, NV | 96/100 | SolarAtlas",
-    "metaDescription": "North Las Vegas solar score: 96/100. Save $838/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "North Las Vegas solar score: 96/100. Save $838/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in North Las Vegas means abundant energy production due to the high peak sun hours. Dust storms require occasional panel cleaning to maintain efficiency in this desert climate."
   },
   "new-hampshire/manchester": {
     "id": 148,
@@ -14649,7 +14796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Manchester, NH | 58/100 | SolarAtlas",
-    "metaDescription": "Manchester solar score: 58/100. Save $925/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Manchester solar score: 58/100. Save $925/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Manchester means occasional snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the 0.203 per kilowatt hour electricity cost."
   },
   "new-hampshire/nashua": {
     "id": 149,
@@ -14748,7 +14896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Nashua, NH | 58/100 | SolarAtlas",
-    "metaDescription": "Nashua solar score: 58/100. Save $925/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Nashua solar score: 58/100. Save $925/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Nashua means adapting to a humid continental climate with limited peak sun hours. Snowy winters require regular panel clearing to maintain efficiency and maximize the limited 4 peak sun hours available daily."
   },
   "new-jersey/newark": {
     "id": 150,
@@ -14847,7 +14996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Newark, NJ | 62/100 | SolarAtlas",
-    "metaDescription": "Newark solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Newark solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Newark means navigating humidity that can cause panel efficiency to drop. On cloudy days, which are frequent, panels may not produce enough power to offset the high cost of 0.172 per kilowatt hour electricity from the local grid."
   },
   "new-jersey/jersey-city": {
     "id": 151,
@@ -14946,7 +15096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Jersey City, NJ | 62/100 | SolarAtlas",
-    "metaDescription": "Jersey City solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Jersey City solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Jersey City means planning for reduced energy output on the 125 cloudy days per year. The coastal humidity also requires more frequent cleaning to prevent salt buildup on the panels."
   },
   "new-jersey/paterson": {
     "id": 152,
@@ -15045,7 +15196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Paterson, NJ | 62/100 | SolarAtlas",
-    "metaDescription": "Paterson solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Paterson solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Paterson, New Jersey means dealing with reduced energy production on the 125 cloudy days per year. On hot summer days, panels can overheat due to the high humidity, causing a slight decrease in efficiency, especially during the peak sun hours."
   },
   "new-jersey/elizabeth": {
     "id": 153,
@@ -15144,7 +15296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Elizabeth, NJ | 62/100 | SolarAtlas",
-    "metaDescription": "Elizabeth solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Elizabeth solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Elizabeth, New Jersey means dealing with humidity that can cause panel efficiency to drop. On cloudy days, which are frequent, panel output is significantly reduced, making it essential to monitor energy production closely to maximize savings on the 0.172 per kilowatt hour electricity rate."
   },
   "new-jersey/trenton": {
     "id": 154,
@@ -15243,7 +15396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Trenton, NJ | 62/100 | SolarAtlas",
-    "metaDescription": "Trenton solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Trenton solar score: 62/100. Save $823/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Trenton means dealing with humidity that can shorten their lifespan. On cloudy days, which are frequent, panel efficiency drops, but the 4.2 peak sun hours on clear days help offset this, especially when selling excess energy back to the grid at $0.172 per kWh."
   },
   "new-mexico/las-cruces": {
     "id": 155,
@@ -15342,7 +15496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Las Cruces, NM | 100/100 | SolarAtlas",
-    "metaDescription": "Las Cruces solar score: 100/100. Save $976/year. 6.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Las Cruces solar score: 100/100. Save $976/year. 6.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Las Cruces means enjoying abundant energy production due to the arid climate. Dust storms require occasional panel cleaning to maintain efficiency, especially after strong winds from the Organ Mountains."
   },
   "new-mexico/santa-fe": {
     "id": 156,
@@ -15441,7 +15596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Santa Fe, NM | 95/100 | SolarAtlas",
-    "metaDescription": "Santa Fe solar score: 95/100. Save $919/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Santa Fe solar score: 95/100. Save $919/year. 6.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Santa Fe means abundant energy production due to the arid climate and high peak sun hours. Dust storms require occasional panel cleaning to maintain efficiency, a unique consideration in this region."
   },
   "new-york/buffalo": {
     "id": 157,
@@ -15540,7 +15696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Buffalo, NY | 55/100 | SolarAtlas",
-    "metaDescription": "Buffalo solar score: 55/100. Save $931/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Buffalo solar score: 55/100. Save $931/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Buffalo means dealing with significant snowfall, which can block sunlight for weeks. On cloudy days, panels produce less power, but the 0.215 per kilowatt hour savings still help offset high winter electricity bills."
   },
   "new-york/rochester": {
     "id": 158,
@@ -15639,7 +15796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Rochester, NY | 57/100 | SolarAtlas",
-    "metaDescription": "Rochester solar score: 57/100. Save $955/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Rochester solar score: 57/100. Save $955/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Rochester means dealing with significant snowfall, which can temporarily reduce energy production. On cloudy days, panels still generate some power, helping offset the high electricity cost of 0.215 per kilowatt hour."
   },
   "new-york/yonkers": {
     "id": 159,
@@ -15738,7 +15896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Yonkers, NY | 60/100 | SolarAtlas",
-    "metaDescription": "Yonkers solar score: 60/100. Save $1,004/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Yonkers solar score: 60/100. Save $1,004/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Yonkers means dealing with occasional snowfall that can temporarily reduce energy production. On cloudy days, which are common, panel efficiency is reduced, but the 4.1 peak sun hours on clear days help offset this loss."
   },
   "new-york/syracuse": {
     "id": 160,
@@ -15837,7 +15996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Syracuse, NY | 55/100 | SolarAtlas",
-    "metaDescription": "Syracuse solar score: 55/100. Save $931/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Syracuse solar score: 55/100. Save $931/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Syracuse means frequent snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the high electricity costs during humid summers."
   },
   "new-york/albany": {
     "id": 161,
@@ -15936,7 +16096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Albany, NY | 57/100 | SolarAtlas",
-    "metaDescription": "Albany solar score: 57/100. Save $955/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Albany solar score: 57/100. Save $955/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Albany means dealing with significant snowfall, which can temporarily reduce energy production. On cloudy days, the panels still generate some power, helping to offset the high electricity costs of 0.215 per kilowatt hour."
   },
   "north-carolina/greensboro": {
     "id": 162,
@@ -16035,7 +16196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Greensboro, NC | 73/100 | SolarAtlas",
-    "metaDescription": "Greensboro solar score: 73/100. Save $647/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Greensboro solar score: 73/100. Save $647/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Greensboro means occasional summer storms can boost energy production after clearing morning haze. Local residents often schedule panel cleanings after spring pollen season to maximize output during peak sun hours."
   },
   "north-carolina/durham": {
     "id": 163,
@@ -16134,7 +16296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Durham, NC | 74/100 | SolarAtlas",
-    "metaDescription": "Durham solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Durham solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Durham means occasional morning dew requires manual cleaning to maintain efficiency. Durham's high humidity leads to more frequent panel cleaning, about every 2-3 months, to remove dirt and grime that reduces energy output."
   },
   "north-carolina/winston-salem": {
     "id": 164,
@@ -16233,7 +16396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Winston-Salem, NC | 73/100 | SolarAtlas",
-    "metaDescription": "Winston-Salem solar score: 73/100. Save $647/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Winston-Salem solar score: 73/100. Save $647/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Winston-Salem means occasional summer energy surpluses. Local pollen storms can temporarily reduce panel efficiency, especially in spring."
   },
   "north-carolina/fayetteville": {
     "id": 165,
@@ -16332,7 +16496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fayetteville, NC | 74/100 | SolarAtlas",
-    "metaDescription": "Fayetteville solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fayetteville solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fayetteville means navigating humid summers that reduce panel efficiency. On cloudy days, which are common in Fayetteville, panel production drops significantly, making net metering crucial to offset winter electricity bills."
   },
   "north-carolina/cary": {
     "id": 166,
@@ -16431,7 +16596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cary, NC | 74/100 | SolarAtlas",
-    "metaDescription": "Cary solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cary solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cary means occasional summer cleaning to remove pollen buildup. With 5 peak sun hours daily, the panels still generate sufficient power despite the humid subtropical climate."
   },
   "north-dakota/fargo": {
     "id": 167,
@@ -16530,7 +16696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Fargo, ND | 68/100 | SolarAtlas",
-    "metaDescription": "Fargo solar score: 68/100. Save $508/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Fargo solar score: 68/100. Save $508/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Fargo means dealing with snowy winters that reduce energy production. Panels often need clearing after heavy snowfalls to maximize the limited 4.6 peak sun hours available each day."
   },
   "north-dakota/bismarck": {
     "id": 168,
@@ -16629,7 +16796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bismarck, ND | 71/100 | SolarAtlas",
-    "metaDescription": "Bismarck solar score: 71/100. Save $530/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bismarck solar score: 71/100. Save $530/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bismarck means occasional snow removal to maintain efficiency. Panels often accumulate ice in winter, requiring careful scraping to ensure optimal energy production during limited peak sun hours."
   },
   "ohio/cleveland": {
     "id": 169,
@@ -16728,7 +16896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cleveland, OH | 57/100 | SolarAtlas",
-    "metaDescription": "Cleveland solar score: 57/100. Save $533/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cleveland solar score: 57/100. Save $533/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cleveland means dealing with significant snowfall, which can reduce energy output for several months. On cloudy days, panels still produce some energy, but the region's high humidity and 130 cloudy days per year impact overall efficiency."
   },
   "ohio/cincinnati": {
     "id": 170,
@@ -16827,7 +16996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cincinnati, OH | 63/100 | SolarAtlas",
-    "metaDescription": "Cincinnati solar score: 63/100. Save $588/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cincinnati solar score: 63/100. Save $588/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cincinnati means occasional summer shutdowns due to extreme heat and humidity. The 123 cloudy days per year reduce energy production, but panels still save owners around $600 annually on their $0.12 per kilowatt hour electricity bills."
   },
   "ohio/toledo": {
     "id": 171,
@@ -16926,7 +17096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Toledo, OH | 58/100 | SolarAtlas",
-    "metaDescription": "Toledo solar score: 58/100. Save $547/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Toledo solar score: 58/100. Save $547/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Toledo means dealing with humid summers that reduce efficiency. On cloudy days, which are common, panel output is lower, but the $0.12 per kWh savings still helps offset high summer electricity bills."
   },
   "ohio/akron": {
     "id": 172,
@@ -17025,7 +17196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Akron, OH | 58/100 | SolarAtlas",
-    "metaDescription": "Akron solar score: 58/100. Save $547/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Akron solar score: 58/100. Save $547/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Akron means dealing with significant snowfall, which can temporarily reduce energy production. On average, panels need to be cleared of snow about 10 times a year to maintain optimal performance."
   },
   "ohio/dayton": {
     "id": 173,
@@ -17124,7 +17296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Dayton, OH | 62/100 | SolarAtlas",
-    "metaDescription": "Dayton solar score: 62/100. Save $574/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Dayton solar score: 62/100. Save $574/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Dayton, Ohio means dealing with significant seasonal variation in energy production. On cloudy winter days, panels may produce less than 10% of their summer capacity, making net metering crucial to offset higher winter electricity bills."
   },
   "oklahoma/norman": {
     "id": 174,
@@ -17223,7 +17396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Norman, OK | 79/100 | SolarAtlas",
-    "metaDescription": "Norman solar score: 79/100. Save $652/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Norman solar score: 79/100. Save $652/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Norman means occasional cleaning to remove Oklahoma's infamous red dirt. On cloudy days, which occur about 29 percent of the year, panels still generate some power, helping offset the 10.8 cents per kilowatt hour electricity cost."
   },
   "oregon/salem": {
     "id": 175,
@@ -17322,7 +17496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Salem, OR | 58/100 | SolarAtlas",
-    "metaDescription": "Salem solar score: 58/100. Save $515/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Salem solar score: 58/100. Save $515/year. 4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Salem means dealing with frequent cloudy days. On especially humid mornings, panels may produce less power due to morning fog that lingers over the Willamette Valley."
   },
   "oregon/eugene": {
     "id": 176,
@@ -17421,7 +17596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Eugene, OR | 57/100 | SolarAtlas",
-    "metaDescription": "Eugene solar score: 57/100. Save $502/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Eugene solar score: 57/100. Save $502/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Eugene means occasional mold issues due to high humidity. On cloudy days, which are common, panels still generate some power, helping offset the 11.3 cents per kilowatt hour electricity cost."
   },
   "oregon/bend": {
     "id": 177,
@@ -17520,7 +17696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bend, OR | 76/100 | SolarAtlas",
-    "metaDescription": "Bend solar score: 76/100. Save $656/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bend solar score: 76/100. Save $656/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bend means occasional snow cover reduces energy production. On cloudy days, the Deschutes River fog can linger, but panels still produce some energy due to the high number of partial sun hours."
   },
   "pennsylvania/pittsburgh": {
     "id": 178,
@@ -17619,7 +17796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Pittsburgh, PA | 57/100 | SolarAtlas",
-    "metaDescription": "Pittsburgh solar score: 57/100. Save $635/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Pittsburgh solar score: 57/100. Save $635/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Pittsburgh means dealing with moderate energy output due to the city's cloudy days. Panel efficiency is also reduced by humidity, which can lead to more frequent cleaning, especially after summer storms that bring heavy rainfall and debris."
   },
   "pennsylvania/allentown": {
     "id": 179,
@@ -17718,7 +17896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Allentown, PA | 60/100 | SolarAtlas",
-    "metaDescription": "Allentown solar score: 60/100. Save $668/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Allentown solar score: 60/100. Save $668/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Allentown means occasional snow removal to maintain efficiency. Allentown's humid summers require panel cleaning every few months to remove dirt and pollen that can reduce energy production."
   },
   "pennsylvania/erie": {
     "id": 180,
@@ -17817,7 +17996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Erie, PA | 55/100 | SolarAtlas",
-    "metaDescription": "Erie solar score: 55/100. Save $619/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Erie solar score: 55/100. Save $619/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Erie means occasional snow removal to maintain efficiency. The region's high humidity and frequent cloud cover require more panels to meet energy needs, with the $0.143 per kWh savings helping offset this added upfront cost."
   },
   "rhode-island/providence": {
     "id": 181,
@@ -17916,7 +18096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Providence, RI | 60/100 | SolarAtlas",
-    "metaDescription": "Providence solar score: 60/100. Save $1,102/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Providence solar score: 60/100. Save $1,102/year. 4.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Providence means navigating a humid continental climate with significant cloud cover. Local homeowners often notice panel efficiency dips during summer humidity spikes, particularly in August when the air is especially thick with moisture."
   },
   "south-carolina/columbia": {
     "id": 182,
@@ -18015,7 +18196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Columbia, SC | 76/100 | SolarAtlas",
-    "metaDescription": "Columbia solar score: 76/100. Save $749/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Columbia solar score: 76/100. Save $749/year. 5.1 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Columbia, South Carolina means navigating a humid subtropical climate with frequent summer storms. On cloudy days, panels still produce some power, but morning dew can reduce efficiency until it evaporates, usually by late morning."
   },
   "south-carolina/charleston": {
     "id": 183,
@@ -18114,7 +18296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Charleston, SC | 77/100 | SolarAtlas",
-    "metaDescription": "Charleston solar score: 77/100. Save $764/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Charleston solar score: 77/100. Save $764/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Charleston means occasional energy losses due to morning fog. Panel cleaning is crucial to maintain efficiency, especially after summer storms that bring high humidity and pollen."
   },
   "south-carolina/north-charleston": {
     "id": 184,
@@ -18213,7 +18396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in North Charleston, SC | 77/100 | SolarAtlas",
-    "metaDescription": "North Charleston solar score: 77/100. Save $764/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "North Charleston solar score: 77/100. Save $764/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in North Charleston means dealing with occasional mold growth on panels due to high humidity. The 5.2 peak sun hours per day still allow for significant energy generation, despite the city's relatively high number of cloudy days."
   },
   "south-carolina/greenville": {
     "id": 185,
@@ -18312,7 +18496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Greenville, SC | 74/100 | SolarAtlas",
-    "metaDescription": "Greenville solar score: 74/100. Save $735/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Greenville solar score: 74/100. Save $735/year. 5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Greenville means occasional cleaning to remove pollen buildup. The humid subtropical climate leads to more frequent panel inspections due to summer storm debris."
   },
   "south-dakota/sioux-falls": {
     "id": 186,
@@ -18411,7 +18596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Sioux Falls, SD | 73/100 | SolarAtlas",
-    "metaDescription": "Sioux Falls solar score: 73/100. Save $608/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Sioux Falls solar score: 73/100. Save $608/year. 4.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Sioux Falls means occasional snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the 0.109 per kilowatt hour electricity cost."
   },
   "south-dakota/rapid-city": {
     "id": 187,
@@ -18510,7 +18696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Rapid City, SD | 77/100 | SolarAtlas",
-    "metaDescription": "Rapid City solar score: 77/100. Save $645/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Rapid City solar score: 77/100. Save $645/year. 5.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Rapid City means occasional snow cleanup to maintain efficiency. The region's low humidity helps reduce panel degradation, despite the area's relatively few peak sun hours."
   },
   "tennessee/knoxville": {
     "id": 188,
@@ -18609,7 +18796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Knoxville, TN | 69/100 | SolarAtlas",
-    "metaDescription": "Knoxville solar score: 69/100. Save $557/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Knoxville solar score: 69/100. Save $557/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Knoxville means occasional summer shutdowns for thunderstorm safety. The region's high humidity requires more frequent panel cleaning to maintain efficiency, especially after spring pollen seasons."
   },
   "tennessee/chattanooga": {
     "id": 189,
@@ -18708,7 +18896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Chattanooga, TN | 71/100 | SolarAtlas",
-    "metaDescription": "Chattanooga solar score: 71/100. Save $569/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Chattanooga solar score: 71/100. Save $569/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Chattanooga means dealing with humidity that can reduce efficiency. On cloudy days, which occur frequently, the panels still produce some power, often enough to offset the cost of electricity at $0.104 per kilowatt hour."
   },
   "tennessee/clarksville": {
     "id": 190,
@@ -18807,7 +18996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Clarksville, TN | 71/100 | SolarAtlas",
-    "metaDescription": "Clarksville solar score: 71/100. Save $569/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Clarksville solar score: 71/100. Save $569/year. 4.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Clarksville means occasional summer power outages due to storms. On humid days, panels may produce less energy, so owners often clean them after heavy spring pollen seasons to maximize the 4.8 peak sun hours available daily."
   },
   "texas/arlington": {
     "id": 191,
@@ -18906,7 +19096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Arlington, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Arlington solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Arlington solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Arlington, Texas means occasional summer energy surpluses. The 60% humidity requires more frequent cleaning to maintain efficiency."
   },
   "texas/corpus-christi": {
     "id": 192,
@@ -19005,7 +19196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Corpus Christi, TX | 85/100 | SolarAtlas",
-    "metaDescription": "Corpus Christi solar score: 85/100. Save $805/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Corpus Christi solar score: 85/100. Save $805/year. 5.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Corpus Christi means dealing with occasional salty air corrosion from the Gulf of Mexico. The city's low number of cloudy days and high peak sun hours make solar panels a viable option despite the intense summer heat."
   },
   "texas/plano": {
     "id": 193,
@@ -19104,7 +19296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Plano, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Plano solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Plano solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Plano means navigating a subtropical climate with high humidity. On particularly hot and cloudy days, the panels may produce less energy, but the city's relatively low 106 cloudy days per year helps minimize this impact."
   },
   "texas/laredo": {
     "id": 194,
@@ -19203,7 +19396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Laredo, TX | 90/100 | SolarAtlas",
-    "metaDescription": "Laredo solar score: 90/100. Save $847/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Laredo solar score: 90/100. Save $847/year. 6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Laredo means frequent cleaning due to dusty winds. Panels produce well with six peak sun hours daily, but summer humidity requires careful system monitoring to prevent overheating issues."
   },
   "texas/lubbock": {
     "id": 195,
@@ -19302,7 +19496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Lubbock, TX | 90/100 | SolarAtlas",
-    "metaDescription": "Lubbock solar score: 90/100. Save $847/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Lubbock solar score: 90/100. Save $847/year. 6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Lubbock means generating plenty of power due to high sun hours. The low humidity during winter allows for efficient energy production even on cooler days when other systems might struggle."
   },
   "texas/garland": {
     "id": 196,
@@ -19401,7 +19596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Garland, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Garland solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Garland solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Garland, Texas means occasional intense summer heat requires more frequent cleaning to maintain efficiency. The city's relatively low humidity during winter months helps reduce panel degradation, but summer storms can bring unexpected energy production fluctuations."
   },
   "texas/irving": {
     "id": 197,
@@ -19500,7 +19696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Irving, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Irving solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Irving solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Irving, Texas means contending with intense summer heat, which can reduce panel efficiency. On particularly humid days, the panels may produce less power due to morning fog that lingers over the nearby Trinity River."
   },
   "texas/amarillo": {
     "id": 198,
@@ -19599,7 +19796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Amarillo, TX | 88/100 | SolarAtlas",
-    "metaDescription": "Amarillo solar score: 88/100. Save $833/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Amarillo solar score: 88/100. Save $833/year. 5.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Amarillo means frequent cleaning due to blowing dust. The 5.9 peak sun hours per day often offset the relatively low electricity cost of $0.124 per kilowatt hour."
   },
   "texas/mckinney": {
     "id": 199,
@@ -19698,7 +19896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in McKinney, TX | 79/100 | SolarAtlas",
-    "metaDescription": "McKinney solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "McKinney solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in McKinney, Texas, means occasional panel cleaning is necessary due to spring pollen storms. The 5.3 peak sun hours per day help offset the higher summer electricity costs of $0.124 per kilowatt hour."
   },
   "texas/frisco": {
     "id": 200,
@@ -19797,7 +19996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Frisco, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Frisco solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Frisco solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Frisco means adapting to the subtropical climate's intense summer sun. On especially humid days, the panels' efficiency can drop, but the 5.3 peak sun hours per day help offset this loss during the remaining 259 mostly sunny days."
   },
   "texas/brownsville": {
     "id": 201,
@@ -19896,7 +20096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Brownsville, TX | 87/100 | SolarAtlas",
-    "metaDescription": "Brownsville solar score: 87/100. Save $819/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Brownsville solar score: 87/100. Save $819/year. 5.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Brownsville means frequent cleaning due to high humidity. On cloudy days, which are relatively rare, the 5.8 peak sun hours still help offset the 0.124 per kilowatt hour electricity cost."
   },
   "texas/grand-prairie": {
     "id": 202,
@@ -19995,7 +20196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Grand Prairie, TX | 79/100 | SolarAtlas",
-    "metaDescription": "Grand Prairie solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Grand Prairie solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Grand Prairie means dealing with intense summer heat that can reduce efficiency. On cloudy days, the panels still produce some energy, which helps offset the high summer electricity costs when the air conditioning runs constantly to combat the 60% humidity."
   },
   "texas/killeen": {
     "id": 203,
@@ -20094,7 +20296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Killeen, TX | 82/100 | SolarAtlas",
-    "metaDescription": "Killeen solar score: 82/100. Save $777/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Killeen solar score: 82/100. Save $777/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Killeen means frequent cleaning due to spring storms. Summer humidity requires more panel maintenance to maximize the 5.5 peak sun hours per day."
   },
   "texas/midland": {
     "id": 204,
@@ -20193,7 +20396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Midland, TX | 95/100 | SolarAtlas",
-    "metaDescription": "Midland solar score: 95/100. Save $890/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Midland solar score: 95/100. Save $890/year. 6.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Midland, Texas, means abundant energy from the subtropical sun. On especially hot days, panels may shut down temporarily due to overheating, a common issue in West Texas summers with extreme heat and low humidity."
   },
   "utah/west-valley-city": {
     "id": 205,
@@ -20292,7 +20496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in West Valley City, UT | 84/100 | SolarAtlas",
-    "metaDescription": "West Valley City solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "West Valley City solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in West Valley City means navigating semi-arid climate challenges. Panel owners must clean dust from panels regularly due to the area's low humidity and frequent gusts."
   },
   "utah/provo": {
     "id": 206,
@@ -20391,7 +20596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Provo, UT | 84/100 | SolarAtlas",
-    "metaDescription": "Provo solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Provo solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Provo means navigating semi-arid climate specifics. Provo's low humidity allows panels to run efficiently, even when temperatures soar, but owners must still clean panels regularly to remove dust from the frequent gusts."
   },
   "utah/west-jordan": {
     "id": 207,
@@ -20490,7 +20696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in West Jordan, UT | 84/100 | SolarAtlas",
-    "metaDescription": "West Jordan solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "West Jordan solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in West Jordan, Utah means frequent cleaning due to dust storms. The semi-arid climate also causes panels to overheat, reducing efficiency, especially during summer months with low humidity."
   },
   "utah/st-george": {
     "id": 208,
@@ -20589,7 +20796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in St. George, UT | 96/100 | SolarAtlas",
-    "metaDescription": "St. George solar score: 96/100. Save $707/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "St. George solar score: 96/100. Save $707/year. 6.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in St. George means frequent cleaning due to red sandstorms. The region's low humidity and abundant sunshine make it ideal, with panels often producing more energy than expected on clear days."
   },
   "vermont/burlington": {
     "id": 209,
@@ -20688,7 +20896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Burlington, VT | 57/100 | SolarAtlas",
-    "metaDescription": "Burlington solar score: 57/100. Save $848/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Burlington solar score: 57/100. Save $848/year. 3.9 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Burlington means navigating frequent cloudy days and humid summers. The region's heavy snowfall requires panel owners to clear snow regularly, especially in February when peak energy demand often coincides with significant snow cover."
   },
   "virginia/virginia-beach": {
     "id": 210,
@@ -20787,7 +20996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Virginia Beach, VA | 69/100 | SolarAtlas",
-    "metaDescription": "Virginia Beach solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Virginia Beach solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Virginia Beach means occasional saltwater corrosion checks due to the coastal humidity. With 4.7 peak sun hours daily, panels generate substantial power despite the humid subtropical climate's 116 cloudy days yearly."
   },
   "virginia/norfolk": {
     "id": 211,
@@ -20886,7 +21096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Norfolk, VA | 69/100 | SolarAtlas",
-    "metaDescription": "Norfolk solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Norfolk solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Norfolk means dealing with high humidity that can lead to panel degradation. Summer storms bring heavy cloud cover, but Norfolk's relatively low electricity cost of $0.125 per kilowatt hour makes solar panels a worthwhile investment despite the region's 116 cloudy days per year."
   },
   "virginia/chesapeake": {
     "id": 212,
@@ -20985,7 +21196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Chesapeake, VA | 69/100 | SolarAtlas",
-    "metaDescription": "Chesapeake solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Chesapeake solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Chesapeake, Virginia means dealing with occasional mold growth on the panels due to high humidity. The region's 116 cloudy days per year can impact energy production, but the 4.7 peak sun hours on clear days help offset this."
   },
   "virginia/newport-news": {
     "id": 213,
@@ -21084,7 +21296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Newport News, VA | 69/100 | SolarAtlas",
-    "metaDescription": "Newport News solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Newport News solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Newport News means occasional cleaning to remove humidity-induced mold. Panel efficiency is reduced on the 116 cloudy days, but peak sun hours still help offset the 0.125 per kWh electricity cost."
   },
   "virginia/alexandria": {
     "id": 214,
@@ -21183,7 +21396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Alexandria, VA | 65/100 | SolarAtlas",
-    "metaDescription": "Alexandria solar score: 65/100. Save $627/year. 4.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Alexandria solar score: 65/100. Save $627/year. 4.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Alexandria means occasional energy production dips due to humidity. Summer storms bring cloudy days, but panels still generate some power on partially sunny days, helping offset the 0.125 per kilowatt hour electricity cost."
   },
   "virginia/roanoke": {
     "id": 215,
@@ -21282,7 +21496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Roanoke, VA | 68/100 | SolarAtlas",
-    "metaDescription": "Roanoke solar score: 68/100. Save $655/year. 4.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Roanoke solar score: 68/100. Save $655/year. 4.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Roanoke means dealing with occasional mold buildup due to high humidity. Panel efficiency is optimized by regular cleaning, especially after summer storms that bring heavy rainfall and cloudy days."
   },
   "washington/spokane": {
     "id": 216,
@@ -21381,7 +21596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Spokane, WA | 65/100 | SolarAtlas",
-    "metaDescription": "Spokane solar score: 65/100. Save $531/year. 4.4 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Spokane solar score: 65/100. Save $531/year. 4.4 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Spokane means occasional snow cover reduces energy production. On cloudy days, panels still generate some power, helping offset the 0.106 per kilowatt hour electricity cost."
   },
   "washington/tacoma": {
     "id": 217,
@@ -21480,7 +21696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Tacoma, WA | 52/100 | SolarAtlas",
-    "metaDescription": "Tacoma solar score: 52/100. Save $435/year. 3.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Tacoma solar score: 52/100. Save $435/year. 3.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Tacoma means adapting to frequent cloudy days. On clear days, panels produce a lot of power, especially during summer when humidity is higher and electricity rates are lower at $0.106 per kilowatt hour."
   },
   "washington/vancouver": {
     "id": 218,
@@ -21579,7 +21796,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Vancouver, WA | 55/100 | SolarAtlas",
-    "metaDescription": "Vancouver solar score: 55/100. Save $459/year. 3.8 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Vancouver solar score: 55/100. Save $459/year. 3.8 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Vancouver means frequent cleaning due to heavy rainfall. On cloudy days, panels still generate some power, helping offset the 0.106 per kilowatt hour electricity cost."
   },
   "washington/bellevue": {
     "id": 219,
@@ -21678,7 +21896,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Bellevue, WA | 51/100 | SolarAtlas",
-    "metaDescription": "Bellevue solar score: 51/100. Save $422/year. 3.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Bellevue solar score: 51/100. Save $422/year. 3.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Bellevue means occasional moss growth on the panels due to high humidity. On cloudy days, production is predictably low, but on rare clear winter mornings, panels can produce a surprising amount of power."
   },
   "washington/kent": {
     "id": 220,
@@ -21777,7 +21996,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Kent, WA | 52/100 | SolarAtlas",
-    "metaDescription": "Kent solar score: 52/100. Save $435/year. 3.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Kent solar score: 52/100. Save $435/year. 3.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Kent, Washington means occasional misty mornings reduce energy production. The region's 135 cloudy days per year are partially offset by the relatively low electricity cost of $0.106 per kilowatt hour."
   },
   "west-virginia/charleston": {
     "id": 221,
@@ -21876,7 +22096,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Charleston, WV | 62/100 | SolarAtlas",
-    "metaDescription": "Charleston solar score: 62/100. Save $445/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Charleston solar score: 62/100. Save $445/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Charleston means occasional mold cleaning due to high humidity. The 125 cloudy days per year affect energy production, but lower winter electricity bills help offset this issue."
   },
   "west-virginia/huntington": {
     "id": 222,
@@ -21975,7 +22196,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Huntington, WV | 62/100 | SolarAtlas",
-    "metaDescription": "Huntington solar score: 62/100. Save $445/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Huntington solar score: 62/100. Save $445/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Huntington means dealing with humidity that can cause efficiency losses, especially during summer months. On cloudy days, which occur about one-third of the year, panel production is significantly reduced, making net metering crucial to offset winter electricity bills."
   },
   "wisconsin/madison": {
     "id": 223,
@@ -22074,7 +22296,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Madison, WI | 63/100 | SolarAtlas",
-    "metaDescription": "Madison solar score: 63/100. Save $725/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Madison solar score: 63/100. Save $725/year. 4.3 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Madison means occasional snow removal to maintain efficiency. On cloudy days, panels still generate some power, helping offset the 0.148 per kilowatt hour electricity cost."
   },
   "wisconsin/green-bay": {
     "id": 224,
@@ -22173,7 +22396,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Green Bay, WI | 62/100 | SolarAtlas",
-    "metaDescription": "Green Bay solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Green Bay solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Green Bay means occasional snow removal to maintain efficiency. On cloudy days, which are common, panels still generate some power, helping offset the 0.148 per kilowatt hour electricity cost."
   },
   "wisconsin/kenosha": {
     "id": 225,
@@ -22272,7 +22496,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Kenosha, WI | 62/100 | SolarAtlas",
-    "metaDescription": "Kenosha solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Kenosha solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Kenosha means occasional snow removal to maintain efficiency. The region's 125 cloudy days per year require careful system sizing to meet your energy needs during winter months."
   },
   "wisconsin/racine": {
     "id": 226,
@@ -22371,7 +22596,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Racine, WI | 62/100 | SolarAtlas",
-    "metaDescription": "Racine solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Racine solar score: 62/100. Save $708/year. 4.2 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Racine, Wisconsin means occasional snow removal to maintain efficiency. On cloudy days, excess energy is stored for later use, often during summer humidity spikes when air conditioning demand is high."
   },
   "wyoming/cheyenne": {
     "id": 227,
@@ -22470,7 +22696,8 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Cheyenne, WY | 84/100 | SolarAtlas",
-    "metaDescription": "Cheyenne solar score: 84/100. Save $631/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Cheyenne solar score: 84/100. Save $631/year. 5.6 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Cheyenne means occasional snow removal to maintain efficiency. On average, panels produce more power on clear days, but 101 cloudy days per year can impact overall energy output."
   },
   "wyoming/casper": {
     "id": 228,
@@ -22569,6 +22796,7 @@
       "Sunnova"
     ],
     "metaTitle": "Solar Potential in Casper, WY | 82/100 | SolarAtlas",
-    "metaDescription": "Casper solar score: 82/100. Save $620/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+    "metaDescription": "Casper solar score: 82/100. Save $620/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
+    "localInsight": "Owning solar panels in Casper means navigating semi-arid climate extremes. Local snowload requirements dictate thicker panel mounts to withstand heavy winter snows that occasionally follow the 102 cloudy days per year."
   }
 }
