@@ -3,6 +3,9 @@ name: Generate City Narratives (One-Time Batch)
 on:
   workflow_dispatch:   # manual trigger only — this is NOT a recurring job like the blog
 
+permissions:
+  contents: write
+
 jobs:
   generate-narratives:
     runs-on: ubuntu-latest
@@ -12,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

@@ -1,0 +1,6956 @@
+{
+  "arizona": {
+    "id": 1,
+    "name": "Arizona",
+    "slug": "arizona",
+    "abbreviation": "AZ",
+    "avgSolarScore": 97,
+    "avgSunHours": 6.5,
+    "avgAnnualSavings": 943,
+    "avgPaybackYears": 12.8,
+    "cityCount": 11,
+    "climateType": "Hot Desert",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 85,
+    "rainyDaysPerYear": 36,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Yuma",
+        "slug": "yuma",
+        "solarScore": 100,
+        "annualSavings": 1881
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix",
+        "solarScore": 98,
+        "annualSavings": 936
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler",
+        "solarScore": 98,
+        "annualSavings": 1722
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe",
+        "solarScore": 98,
+        "annualSavings": 1722
+      },
+      {
+        "name": "Tucson",
+        "slug": "tucson",
+        "solarScore": 97,
+        "annualSavings": 923
+      },
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale",
+        "solarScore": 97,
+        "annualSavings": 936
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa",
+        "solarScore": 97,
+        "annualSavings": 936
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "solarScore": 96,
+        "annualSavings": 1696
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "solarScore": 96,
+        "annualSavings": 1696
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "solarScore": 96,
+        "annualSavings": 1696
+      }
+    ],
+    "installerCount": 534,
+    "rating": 5,
+    "pros": [
+      "97/100 average solar score across 11 analyzed cities",
+      "6.5 peak sun hours/day on average",
+      "$943/year average homeowner savings",
+      "280 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined Arizona incentives",
+      "534+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "12.8-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4.9,
+        "avgKwh": 462,
+        "savings": 56
+      },
+      {
+        "month": "Feb",
+        "sunHours": 5.1,
+        "avgKwh": 483,
+        "savings": 58
+      },
+      {
+        "month": "Mar",
+        "sunHours": 5.7,
+        "avgKwh": 539,
+        "savings": 65
+      },
+      {
+        "month": "Apr",
+        "sunHours": 6.5,
+        "avgKwh": 617,
+        "savings": 75
+      },
+      {
+        "month": "May",
+        "sunHours": 7.3,
+        "avgKwh": 695,
+        "savings": 84
+      },
+      {
+        "month": "Jun",
+        "sunHours": 7.9,
+        "avgKwh": 751,
+        "savings": 91
+      },
+      {
+        "month": "Jul",
+        "sunHours": 8.1,
+        "avgKwh": 772,
+        "savings": 93
+      },
+      {
+        "month": "Aug",
+        "sunHours": 7.9,
+        "avgKwh": 751,
+        "savings": 91
+      },
+      {
+        "month": "Sep",
+        "sunHours": 7.3,
+        "avgKwh": 695,
+        "savings": 84
+      },
+      {
+        "month": "Oct",
+        "sunHours": 6.5,
+        "avgKwh": 617,
+        "savings": 75
+      },
+      {
+        "month": "Nov",
+        "sunHours": 5.7,
+        "avgKwh": 539,
+        "savings": 65
+      },
+      {
+        "month": "Dec",
+        "sunHours": 5.1,
+        "avgKwh": 483,
+        "savings": 58
+      }
+    ],
+    "metaTitle": "Arizona Solar Potential | 11 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Arizona solar: avg score 97/100. $943/yr savings. Full breakdown for all 11 analyzed cities."
+  },
+  "nevada": {
+    "id": 2,
+    "name": "Nevada",
+    "slug": "nevada",
+    "abbreviation": "NV",
+    "avgSolarScore": 96,
+    "avgSunHours": 6.3,
+    "avgAnnualSavings": 828,
+    "avgPaybackYears": 14.5,
+    "cityCount": 4,
+    "climateType": "Hot Desert",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 88,
+    "rainyDaysPerYear": 46,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "solarScore": 96,
+        "annualSavings": 828
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson",
+        "solarScore": 96,
+        "annualSavings": 828
+      },
+      {
+        "name": "North Las Vegas",
+        "slug": "north-las-vegas",
+        "solarScore": 96,
+        "annualSavings": 1612
+      },
+      {
+        "name": "Reno",
+        "slug": "reno",
+        "solarScore": 93,
+        "annualSavings": 792
+      }
+    ],
+    "installerCount": 192,
+    "rating": 5,
+    "pros": [
+      "96/100 average solar score across 4 analyzed cities",
+      "6.3 peak sun hours/day on average",
+      "$828/year average homeowner savings",
+      "277 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Nevada incentives",
+      "192+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "14.5-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4.4,
+        "avgKwh": 422,
+        "savings": 49
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 51
+      },
+      {
+        "month": "Mar",
+        "sunHours": 5.4,
+        "avgKwh": 510,
+        "savings": 59
+      },
+      {
+        "month": "Apr",
+        "sunHours": 6.3,
+        "avgKwh": 598,
+        "savings": 69
+      },
+      {
+        "month": "May",
+        "sunHours": 7.2,
+        "avgKwh": 686,
+        "savings": 79
+      },
+      {
+        "month": "Jun",
+        "sunHours": 7.9,
+        "avgKwh": 750,
+        "savings": 86
+      },
+      {
+        "month": "Jul",
+        "sunHours": 8.2,
+        "avgKwh": 774,
+        "savings": 89
+      },
+      {
+        "month": "Aug",
+        "sunHours": 7.9,
+        "avgKwh": 750,
+        "savings": 86
+      },
+      {
+        "month": "Sep",
+        "sunHours": 7.2,
+        "avgKwh": 686,
+        "savings": 79
+      },
+      {
+        "month": "Oct",
+        "sunHours": 6.3,
+        "avgKwh": 598,
+        "savings": 69
+      },
+      {
+        "month": "Nov",
+        "sunHours": 5.4,
+        "avgKwh": 510,
+        "savings": 59
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 51
+      }
+    ],
+    "metaTitle": "Nevada Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Nevada solar: avg score 96/100. $828/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "new-mexico": {
+    "id": 3,
+    "name": "New Mexico",
+    "slug": "new-mexico",
+    "abbreviation": "NM",
+    "avgSolarScore": 94,
+    "avgSunHours": 6.2,
+    "avgAnnualSavings": 804,
+    "avgPaybackYears": 14.9,
+    "cityCount": 3,
+    "climateType": "Arid",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 90,
+    "rainyDaysPerYear": 51,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Las Cruces",
+        "slug": "las-cruces",
+        "solarScore": 100,
+        "annualSavings": 1878
+      },
+      {
+        "name": "Albuquerque",
+        "slug": "albuquerque",
+        "solarScore": 95,
+        "annualSavings": 804
+      },
+      {
+        "name": "Santa Fe",
+        "slug": "santa-fe",
+        "solarScore": 95,
+        "annualSavings": 1766
+      }
+    ],
+    "installerCount": 146,
+    "rating": 5,
+    "pros": [
+      "94/100 average solar score across 3 analyzed cities",
+      "6.2 peak sun hours/day on average",
+      "$804/year average homeowner savings",
+      "275 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined New Mexico incentives",
+      "146+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "14.9-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4.6,
+        "avgKwh": 434,
+        "savings": 56
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4.8,
+        "avgKwh": 454,
+        "savings": 58
+      },
+      {
+        "month": "Mar",
+        "sunHours": 5.4,
+        "avgKwh": 511,
+        "savings": 65
+      },
+      {
+        "month": "Apr",
+        "sunHours": 6.2,
+        "avgKwh": 588,
+        "savings": 75
+      },
+      {
+        "month": "May",
+        "sunHours": 7,
+        "avgKwh": 665,
+        "savings": 85
+      },
+      {
+        "month": "Jun",
+        "sunHours": 7.6,
+        "avgKwh": 722,
+        "savings": 92
+      },
+      {
+        "month": "Jul",
+        "sunHours": 7.8,
+        "avgKwh": 742,
+        "savings": 95
+      },
+      {
+        "month": "Aug",
+        "sunHours": 7.6,
+        "avgKwh": 722,
+        "savings": 92
+      },
+      {
+        "month": "Sep",
+        "sunHours": 7,
+        "avgKwh": 665,
+        "savings": 85
+      },
+      {
+        "month": "Oct",
+        "sunHours": 6.2,
+        "avgKwh": 588,
+        "savings": 75
+      },
+      {
+        "month": "Nov",
+        "sunHours": 5.4,
+        "avgKwh": 511,
+        "savings": 65
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4.8,
+        "avgKwh": 454,
+        "savings": 58
+      }
+    ],
+    "metaTitle": "New Mexico Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "New Mexico solar: avg score 94/100. $804/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "california": {
+    "id": 4,
+    "name": "California",
+    "slug": "california",
+    "abbreviation": "CA",
+    "avgSolarScore": 89,
+    "avgSunHours": 5.8,
+    "avgAnnualSavings": 1104,
+    "avgPaybackYears": 11,
+    "cityCount": 15,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 97,
+    "rainyDaysPerYear": 70,
+    "stateIncentives": {
+      "propertyTaxExemption": 1500,
+      "energyTaxCredit": 1500,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Fresno",
+        "slug": "fresno",
+        "solarScore": 94,
+        "annualSavings": 1056
+      },
+      {
+        "name": "San Diego",
+        "slug": "san-diego",
+        "solarScore": 91,
+        "annualSavings": 1140
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "solarScore": 90,
+        "annualSavings": 1200
+      },
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "solarScore": 89,
+        "annualSavings": 1080
+      },
+      {
+        "name": "Bakersfield",
+        "slug": "bakersfield",
+        "solarScore": 88,
+        "annualSavings": 3799
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "solarScore": 87,
+        "annualSavings": 1200
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "solarScore": 85,
+        "annualSavings": 3670
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "solarScore": 85,
+        "annualSavings": 3670
+      },
+      {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "solarScore": 85,
+        "annualSavings": 3670
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "solarScore": 84,
+        "annualSavings": 3606
+      }
+    ],
+    "installerCount": 656,
+    "rating": 4,
+    "pros": [
+      "89/100 average solar score across 15 analyzed cities",
+      "5.8 peak sun hours/day on average",
+      "$1,104/year average homeowner savings",
+      "268 sunny days per year",
+      "Federal 30% tax credit plus $2,500 in combined California incentives",
+      "656+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "11-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4.2,
+        "avgKwh": 399,
+        "savings": 117
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4.4,
+        "avgKwh": 419,
+        "savings": 123
+      },
+      {
+        "month": "Mar",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 140
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.8,
+        "avgKwh": 550,
+        "savings": 162
+      },
+      {
+        "month": "May",
+        "sunHours": 6.6,
+        "avgKwh": 625,
+        "savings": 184
+      },
+      {
+        "month": "Jun",
+        "sunHours": 7.2,
+        "avgKwh": 681,
+        "savings": 200
+      },
+      {
+        "month": "Jul",
+        "sunHours": 7.4,
+        "avgKwh": 701,
+        "savings": 206
+      },
+      {
+        "month": "Aug",
+        "sunHours": 7.2,
+        "avgKwh": 681,
+        "savings": 200
+      },
+      {
+        "month": "Sep",
+        "sunHours": 6.6,
+        "avgKwh": 625,
+        "savings": 184
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.8,
+        "avgKwh": 550,
+        "savings": 162
+      },
+      {
+        "month": "Nov",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 140
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4.4,
+        "avgKwh": 419,
+        "savings": 123
+      }
+    ],
+    "metaTitle": "California Solar Potential | 15 Cities Analyzed | SolarAtlas",
+    "metaDescription": "California solar: avg score 89/100. $1104/yr savings. Full breakdown for all 15 analyzed cities."
+  },
+  "colorado": {
+    "id": 5,
+    "name": "Colorado",
+    "slug": "colorado",
+    "abbreviation": "CO",
+    "avgSolarScore": 86,
+    "avgSunHours": 5.5,
+    "avgAnnualSavings": 720,
+    "avgPaybackYears": 13.2,
+    "cityCount": 6,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "stateIncentives": {
+      "propertyTaxExemption": 1100,
+      "energyTaxCredit": 900,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Pueblo",
+        "slug": "pueblo",
+        "solarScore": 88,
+        "annualSavings": 1615
+      },
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "solarScore": 87,
+        "annualSavings": 720
+      },
+      {
+        "name": "Colorado Springs",
+        "slug": "colorado-springs",
+        "solarScore": 86,
+        "annualSavings": 708
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "solarScore": 85,
+        "annualSavings": 1560
+      },
+      {
+        "name": "Fort Collins",
+        "slug": "fort-collins",
+        "solarScore": 84,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Boulder",
+        "slug": "boulder",
+        "solarScore": 84,
+        "annualSavings": 1533
+      }
+    ],
+    "installerCount": 263,
+    "rating": 4,
+    "pros": [
+      "86/100 average solar score across 6 analyzed cities",
+      "5.5 peak sun hours/day on average",
+      "$720/year average homeowner savings",
+      "263 sunny days per year",
+      "Federal 30% tax credit plus $1,500 in combined Colorado incentives",
+      "263+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "13.2-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.7,
+        "avgKwh": 353,
+        "savings": 44
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4,
+        "avgKwh": 375,
+        "savings": 47
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 55
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.5,
+        "avgKwh": 522,
+        "savings": 65
+      },
+      {
+        "month": "May",
+        "sunHours": 6.4,
+        "avgKwh": 607,
+        "savings": 76
+      },
+      {
+        "month": "Jun",
+        "sunHours": 7,
+        "avgKwh": 669,
+        "savings": 84
+      },
+      {
+        "month": "Jul",
+        "sunHours": 7.3,
+        "avgKwh": 691,
+        "savings": 86
+      },
+      {
+        "month": "Aug",
+        "sunHours": 7,
+        "avgKwh": 669,
+        "savings": 84
+      },
+      {
+        "month": "Sep",
+        "sunHours": 6.4,
+        "avgKwh": 607,
+        "savings": 76
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.5,
+        "avgKwh": 522,
+        "savings": 65
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 55
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4,
+        "avgKwh": 375,
+        "savings": 47
+      }
+    ],
+    "metaTitle": "Colorado Solar Potential | 6 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Colorado solar: avg score 86/100. $720/yr savings. Full breakdown for all 6 analyzed cities."
+  },
+  "utah": {
+    "id": 6,
+    "name": "Utah",
+    "slug": "utah",
+    "abbreviation": "UT",
+    "avgSolarScore": 85,
+    "avgSunHours": 5.4,
+    "avgAnnualSavings": 696,
+    "avgPaybackYears": 13.7,
+    "cityCount": 5,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 104,
+    "rainyDaysPerYear": 90,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "St. George",
+        "slug": "st-george",
+        "solarScore": 96,
+        "annualSavings": 1360
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city",
+        "solarScore": 85,
+        "annualSavings": 696
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city",
+        "solarScore": 84,
+        "annualSavings": 1190
+      },
+      {
+        "name": "Provo",
+        "slug": "provo",
+        "solarScore": 84,
+        "annualSavings": 1190
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan",
+        "solarScore": 84,
+        "annualSavings": 1190
+      }
+    ],
+    "installerCount": 222,
+    "rating": 4,
+    "pros": [
+      "85/100 average solar score across 5 analyzed cities",
+      "5.4 peak sun hours/day on average",
+      "$696/year average homeowner savings",
+      "261 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Utah incentives",
+      "222+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "13.7-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.6,
+        "avgKwh": 344,
+        "savings": 33
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.9,
+        "avgKwh": 366,
+        "savings": 36
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.5,
+        "avgKwh": 428,
+        "savings": 42
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.4,
+        "avgKwh": 512,
+        "savings": 50
+      },
+      {
+        "month": "May",
+        "sunHours": 6.3,
+        "avgKwh": 596,
+        "savings": 58
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.9,
+        "avgKwh": 658,
+        "savings": 64
+      },
+      {
+        "month": "Jul",
+        "sunHours": 7.2,
+        "avgKwh": 680,
+        "savings": 66
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.9,
+        "avgKwh": 658,
+        "savings": 64
+      },
+      {
+        "month": "Sep",
+        "sunHours": 6.3,
+        "avgKwh": 596,
+        "savings": 58
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.4,
+        "avgKwh": 512,
+        "savings": 50
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.5,
+        "avgKwh": 428,
+        "savings": 42
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.9,
+        "avgKwh": 366,
+        "savings": 36
+      }
+    ],
+    "metaTitle": "Utah Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Utah solar: avg score 85/100. $696/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "texas": {
+    "id": 7,
+    "name": "Texas",
+    "slug": "texas",
+    "abbreviation": "TX",
+    "avgSolarScore": 82,
+    "avgSunHours": 5.2,
+    "avgAnnualSavings": 712,
+    "avgPaybackYears": 16.8,
+    "cityCount": 20,
+    "climateType": "Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 107,
+    "rainyDaysPerYear": 100,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "solarScore": 95,
+        "annualSavings": 1711
+      },
+      {
+        "name": "El Paso",
+        "slug": "el-paso",
+        "solarScore": 93,
+        "annualSavings": 780
+      },
+      {
+        "name": "Laredo",
+        "slug": "laredo",
+        "solarScore": 90,
+        "annualSavings": 1629
+      },
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "solarScore": 90,
+        "annualSavings": 1629
+      },
+      {
+        "name": "Amarillo",
+        "slug": "amarillo",
+        "solarScore": 88,
+        "annualSavings": 1602
+      },
+      {
+        "name": "Brownsville",
+        "slug": "brownsville",
+        "solarScore": 87,
+        "annualSavings": 1575
+      },
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "solarScore": 86,
+        "annualSavings": 696
+      },
+      {
+        "name": "San Antonio",
+        "slug": "san-antonio",
+        "solarScore": 85,
+        "annualSavings": 684
+      },
+      {
+        "name": "Corpus Christi",
+        "slug": "corpus-christi",
+        "solarScore": 85,
+        "annualSavings": 1548
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "solarScore": 82,
+        "annualSavings": 672
+      }
+    ],
+    "installerCount": 865,
+    "rating": 4,
+    "pros": [
+      "82/100 average solar score across 20 analyzed cities",
+      "5.2 peak sun hours/day on average",
+      "$712/year average homeowner savings",
+      "258 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Texas incentives",
+      "865+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.8-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 47
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4.2,
+        "avgKwh": 396,
+        "savings": 49
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 54
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.2,
+        "avgKwh": 493,
+        "savings": 61
+      },
+      {
+        "month": "May",
+        "sunHours": 5.8,
+        "avgKwh": 549,
+        "savings": 68
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 590,
+        "savings": 73
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.4,
+        "avgKwh": 606,
+        "savings": 75
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 590,
+        "savings": 73
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.8,
+        "avgKwh": 549,
+        "savings": 68
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.2,
+        "avgKwh": 493,
+        "savings": 61
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 54
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4.2,
+        "avgKwh": 396,
+        "savings": 49
+      }
+    ],
+    "metaTitle": "Texas Solar Potential | 20 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Texas solar: avg score 82/100. $712/yr savings. Full breakdown for all 20 analyzed cities."
+  },
+  "florida": {
+    "id": 8,
+    "name": "Florida",
+    "slug": "florida",
+    "abbreviation": "FL",
+    "avgSolarScore": 80,
+    "avgSunHours": 5.1,
+    "avgAnnualSavings": 916,
+    "avgPaybackYears": 13.1,
+    "cityCount": 13,
+    "climateType": "Subtropical",
+    "avgTemperature": 78,
+    "cloudyDaysPerYear": 109,
+    "rainyDaysPerYear": 105,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Hialeah",
+        "slug": "hialeah",
+        "solarScore": 84,
+        "annualSavings": 1410
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "solarScore": 84,
+        "annualSavings": 1410
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines",
+        "solarScore": 84,
+        "annualSavings": 1410
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood",
+        "solarScore": 84,
+        "annualSavings": 1410
+      },
+      {
+        "name": "Miami",
+        "slug": "miami",
+        "solarScore": 83,
+        "annualSavings": 972
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando",
+        "solarScore": 82,
+        "annualSavings": 948
+      },
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg",
+        "solarScore": 82,
+        "annualSavings": 1385
+      },
+      {
+        "name": "Port St. Lucie",
+        "slug": "port-st-lucie",
+        "solarScore": 82,
+        "annualSavings": 1385
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral",
+        "solarScore": 82,
+        "annualSavings": 1385
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa",
+        "solarScore": 81,
+        "annualSavings": 924
+      }
+    ],
+    "installerCount": 550,
+    "rating": 4,
+    "pros": [
+      "80/100 average solar score across 13 analyzed cities",
+      "5.1 peak sun hours/day on average",
+      "$916/year average homeowner savings",
+      "256 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Florida incentives",
+      "550+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "13.1-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 4.2,
+        "avgKwh": 397,
+        "savings": 46
+      },
+      {
+        "month": "Feb",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 47
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.6,
+        "avgKwh": 440,
+        "savings": 51
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.1,
+        "avgKwh": 484,
+        "savings": 56
+      },
+      {
+        "month": "May",
+        "sunHours": 5.6,
+        "avgKwh": 528,
+        "savings": 61
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.9,
+        "avgKwh": 560,
+        "savings": 64
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6,
+        "avgKwh": 571,
+        "savings": 66
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.9,
+        "avgKwh": 560,
+        "savings": 64
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.6,
+        "avgKwh": 528,
+        "savings": 61
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.1,
+        "avgKwh": 484,
+        "savings": 56
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.6,
+        "avgKwh": 440,
+        "savings": 51
+      },
+      {
+        "month": "Dec",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 47
+      }
+    ],
+    "metaTitle": "Florida Solar Potential | 13 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Florida solar: avg score 80/100. $916/yr savings. Full breakdown for all 13 analyzed cities."
+  },
+  "hawaii": {
+    "id": 9,
+    "name": "Hawaii",
+    "slug": "hawaii",
+    "abbreviation": "HI",
+    "avgSolarScore": 88,
+    "avgSunHours": 5.7,
+    "avgAnnualSavings": 1788,
+    "avgPaybackYears": 8.4,
+    "cityCount": 3,
+    "climateType": "Tropical",
+    "avgTemperature": 78,
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city",
+        "solarScore": 90,
+        "annualSavings": 5085
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu",
+        "solarScore": 88,
+        "annualSavings": 1788
+      },
+      {
+        "name": "Hilo",
+        "slug": "hilo",
+        "solarScore": 76,
+        "annualSavings": 4322
+      }
+    ],
+    "installerCount": 131,
+    "rating": 4,
+    "pros": [
+      "88/100 average solar score across 3 analyzed cities",
+      "5.7 peak sun hours/day on average",
+      "$1,788/year average homeowner savings",
+      "266 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined Hawaii incentives",
+      "131+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "8.4-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 5.1,
+        "avgKwh": 487,
+        "savings": 188
+      },
+      {
+        "month": "Feb",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 191
+      },
+      {
+        "month": "Mar",
+        "sunHours": 5.4,
+        "avgKwh": 514,
+        "savings": 199
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 209
+      },
+      {
+        "month": "May",
+        "sunHours": 6,
+        "avgKwh": 568,
+        "savings": 220
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 588,
+        "savings": 228
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.3,
+        "avgKwh": 595,
+        "savings": 230
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 588,
+        "savings": 228
+      },
+      {
+        "month": "Sep",
+        "sunHours": 6,
+        "avgKwh": 568,
+        "savings": 220
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 209
+      },
+      {
+        "month": "Nov",
+        "sunHours": 5.4,
+        "avgKwh": 514,
+        "savings": 199
+      },
+      {
+        "month": "Dec",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 191
+      }
+    ],
+    "metaTitle": "Hawaii Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Hawaii solar: avg score 88/100. $1788/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "georgia": {
+    "id": 10,
+    "name": "Georgia",
+    "slug": "georgia",
+    "abbreviation": "GA",
+    "avgSolarScore": 75,
+    "avgSunHours": 4.9,
+    "avgAnnualSavings": 636,
+    "avgPaybackYears": 15.1,
+    "cityCount": 5,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 113,
+    "rainyDaysPerYear": 115,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Savannah",
+        "slug": "savannah",
+        "solarScore": 77,
+        "annualSavings": 1332
+      },
+      {
+        "name": "Augusta",
+        "slug": "augusta",
+        "solarScore": 76,
+        "annualSavings": 1307
+      },
+      {
+        "name": "Macon",
+        "slug": "macon",
+        "solarScore": 76,
+        "annualSavings": 1307
+      },
+      {
+        "name": "Atlanta",
+        "slug": "atlanta",
+        "solarScore": 75,
+        "annualSavings": 636
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus",
+        "solarScore": 74,
+        "annualSavings": 1281
+      }
+    ],
+    "installerCount": 199,
+    "rating": 4,
+    "pros": [
+      "75/100 average solar score across 5 analyzed cities",
+      "4.9 peak sun hours/day on average",
+      "$636/year average homeowner savings",
+      "252 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Georgia incentives",
+      "199+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "15.1-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 41
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.9,
+        "avgKwh": 366,
+        "savings": 43
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 48
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 54
+      },
+      {
+        "month": "May",
+        "sunHours": 5.5,
+        "avgKwh": 522,
+        "savings": 61
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.9,
+        "avgKwh": 564,
+        "savings": 66
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.1,
+        "avgKwh": 579,
+        "savings": 68
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.9,
+        "avgKwh": 564,
+        "savings": 66
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.5,
+        "avgKwh": 522,
+        "savings": 61
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 54
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 48
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.9,
+        "avgKwh": 366,
+        "savings": 43
+      }
+    ],
+    "metaTitle": "Georgia Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Georgia solar: avg score 75/100. $636/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "north-carolina": {
+    "id": 11,
+    "name": "North Carolina",
+    "slug": "north-carolina",
+    "abbreviation": "NC",
+    "avgSolarScore": 74,
+    "avgSunHours": 4.8,
+    "avgAnnualSavings": 624,
+    "avgPaybackYears": 15.4,
+    "cityCount": 7,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 114,
+    "rainyDaysPerYear": 119,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte",
+        "solarScore": 74,
+        "annualSavings": 624
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh",
+        "solarScore": 74,
+        "annualSavings": 624
+      },
+      {
+        "name": "Durham",
+        "slug": "durham",
+        "solarScore": 74,
+        "annualSavings": 1270
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville",
+        "solarScore": 74,
+        "annualSavings": 1270
+      },
+      {
+        "name": "Cary",
+        "slug": "cary",
+        "solarScore": 74,
+        "annualSavings": 1270
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro",
+        "solarScore": 73,
+        "annualSavings": 1245
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem",
+        "solarScore": 73,
+        "annualSavings": 1245
+      }
+    ],
+    "installerCount": 274,
+    "rating": 3,
+    "pros": [
+      "74/100 average solar score across 7 analyzed cities",
+      "4.8 peak sun hours/day on average",
+      "$624/year average homeowner savings",
+      "251 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined North Carolina incentives",
+      "274+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "15.4-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.5,
+        "avgKwh": 329,
+        "savings": 38
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.6,
+        "avgKwh": 346,
+        "savings": 40
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 45
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 53
+      },
+      {
+        "month": "May",
+        "sunHours": 5.5,
+        "avgKwh": 520,
+        "savings": 60
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6,
+        "avgKwh": 566,
+        "savings": 66
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.1,
+        "avgKwh": 583,
+        "savings": 68
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6,
+        "avgKwh": 566,
+        "savings": 66
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.5,
+        "avgKwh": 520,
+        "savings": 60
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 53
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 45
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.6,
+        "avgKwh": 346,
+        "savings": 40
+      }
+    ],
+    "metaTitle": "North Carolina Solar Potential | 7 Cities Analyzed | SolarAtlas",
+    "metaDescription": "North Carolina solar: avg score 74/100. $624/yr savings. Full breakdown for all 7 analyzed cities."
+  },
+  "south-carolina": {
+    "id": 12,
+    "name": "South Carolina",
+    "slug": "south-carolina",
+    "abbreviation": "SC",
+    "avgSolarScore": 73,
+    "avgSunHours": 4.8,
+    "avgAnnualSavings": 612,
+    "avgPaybackYears": 15.7,
+    "cityCount": 4,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 114,
+    "rainyDaysPerYear": 119,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Charleston",
+        "slug": "charleston",
+        "solarScore": 77,
+        "annualSavings": 1469
+      },
+      {
+        "name": "North Charleston",
+        "slug": "north-charleston",
+        "solarScore": 77,
+        "annualSavings": 1469
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia",
+        "solarScore": 76,
+        "annualSavings": 1441
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville",
+        "solarScore": 74,
+        "annualSavings": 1413
+      }
+    ],
+    "installerCount": 160,
+    "rating": 3,
+    "pros": [
+      "73/100 average solar score across 4 analyzed cities",
+      "4.8 peak sun hours/day on average",
+      "$612/year average homeowner savings",
+      "251 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined South Carolina incentives",
+      "160+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "15.7-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.6,
+        "avgKwh": 340,
+        "savings": 44
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.7,
+        "avgKwh": 356,
+        "savings": 46
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.2,
+        "avgKwh": 398,
+        "savings": 51
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 59
+      },
+      {
+        "month": "May",
+        "sunHours": 5.4,
+        "avgKwh": 514,
+        "savings": 66
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.9,
+        "avgKwh": 556,
+        "savings": 72
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6,
+        "avgKwh": 572,
+        "savings": 74
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.9,
+        "avgKwh": 556,
+        "savings": 72
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.4,
+        "avgKwh": 514,
+        "savings": 66
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 59
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.2,
+        "avgKwh": 398,
+        "savings": 51
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.7,
+        "avgKwh": 356,
+        "savings": 46
+      }
+    ],
+    "metaTitle": "South Carolina Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "South Carolina solar: avg score 73/100. $612/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "oklahoma": {
+    "id": 13,
+    "name": "Oklahoma",
+    "slug": "oklahoma",
+    "abbreviation": "OK",
+    "avgSolarScore": 78,
+    "avgSunHours": 5,
+    "avgAnnualSavings": 648,
+    "avgPaybackYears": 14.6,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Norman",
+        "slug": "norman",
+        "solarScore": 79,
+        "annualSavings": 1254
+      },
+      {
+        "name": "Oklahoma City",
+        "slug": "oklahoma-city",
+        "solarScore": 78,
+        "annualSavings": 648
+      },
+      {
+        "name": "Tulsa",
+        "slug": "tulsa",
+        "solarScore": 77,
+        "annualSavings": 636
+      }
+    ],
+    "installerCount": 122,
+    "rating": 4,
+    "pros": [
+      "78/100 average solar score across 3 analyzed cities",
+      "5 peak sun hours/day on average",
+      "$648/year average homeowner savings",
+      "254 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Oklahoma incentives",
+      "122+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "14.6-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.6,
+        "avgKwh": 343,
+        "savings": 37
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 39
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.3,
+        "avgKwh": 409,
+        "savings": 44
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 51
+      },
+      {
+        "month": "May",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 58
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 589,
+        "savings": 64
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.4,
+        "avgKwh": 607,
+        "savings": 66
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 589,
+        "savings": 64
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 58
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 51
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.3,
+        "avgKwh": 409,
+        "savings": 44
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 39
+      }
+    ],
+    "metaTitle": "Oklahoma Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Oklahoma solar: avg score 78/100. $648/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "kansas": {
+    "id": 14,
+    "name": "Kansas",
+    "slug": "kansas",
+    "abbreviation": "KS",
+    "avgSolarScore": 76,
+    "avgSunHours": 4.9,
+    "avgAnnualSavings": 636,
+    "avgPaybackYears": 15.7,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 113,
+    "rainyDaysPerYear": 115,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Wichita",
+        "slug": "wichita",
+        "solarScore": 76,
+        "annualSavings": 636
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city",
+        "solarScore": 74,
+        "annualSavings": 612
+      },
+      {
+        "name": "Overland Park",
+        "slug": "overland-park",
+        "solarScore": 74,
+        "annualSavings": 1259
+      }
+    ],
+    "installerCount": 118,
+    "rating": 4,
+    "pros": [
+      "76/100 average solar score across 3 analyzed cities",
+      "4.9 peak sun hours/day on average",
+      "$636/year average homeowner savings",
+      "252 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Kansas incentives",
+      "118+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "15.7-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.4,
+        "avgKwh": 319,
+        "savings": 37
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.6,
+        "avgKwh": 339,
+        "savings": 39
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 45
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 53
+      },
+      {
+        "month": "May",
+        "sunHours": 5.7,
+        "avgKwh": 538,
+        "savings": 62
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 591,
+        "savings": 68
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.4,
+        "avgKwh": 611,
+        "savings": 70
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 591,
+        "savings": 68
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.7,
+        "avgKwh": 538,
+        "savings": 62
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 53
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 45
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.6,
+        "avgKwh": 339,
+        "savings": 39
+      }
+    ],
+    "metaTitle": "Kansas Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Kansas solar: avg score 76/100. $636/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "nebraska": {
+    "id": 15,
+    "name": "Nebraska",
+    "slug": "nebraska",
+    "abbreviation": "NE",
+    "avgSolarScore": 74,
+    "avgSunHours": 4.8,
+    "avgAnnualSavings": 624,
+    "avgPaybackYears": 16.1,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 114,
+    "rainyDaysPerYear": 119,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln",
+        "solarScore": 74,
+        "annualSavings": 1172
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha",
+        "solarScore": 72,
+        "annualSavings": 600
+      }
+    ],
+    "installerCount": 78,
+    "rating": 3,
+    "pros": [
+      "74/100 average solar score across 2 analyzed cities",
+      "4.8 peak sun hours/day on average",
+      "$624/year average homeowner savings",
+      "251 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Nebraska incentives",
+      "78+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.1-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.2,
+        "avgKwh": 300,
+        "savings": 32
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.4,
+        "avgKwh": 321,
+        "savings": 34
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4,
+        "avgKwh": 378,
+        "savings": 40
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 49
+      },
+      {
+        "month": "May",
+        "sunHours": 5.6,
+        "avgKwh": 534,
+        "savings": 57
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 591,
+        "savings": 63
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.4,
+        "avgKwh": 612,
+        "savings": 65
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 591,
+        "savings": 63
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.6,
+        "avgKwh": 534,
+        "savings": 57
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.8,
+        "avgKwh": 456,
+        "savings": 49
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4,
+        "avgKwh": 378,
+        "savings": 40
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.4,
+        "avgKwh": 321,
+        "savings": 34
+      }
+    ],
+    "metaTitle": "Nebraska Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Nebraska solar: avg score 74/100. $624/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "iowa": {
+    "id": 16,
+    "name": "Iowa",
+    "slug": "iowa",
+    "abbreviation": "IA",
+    "avgSolarScore": 68,
+    "avgSunHours": 4.5,
+    "avgAnnualSavings": 588,
+    "avgPaybackYears": 17.3,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 120,
+    "rainyDaysPerYear": 134,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Des Moines",
+        "slug": "des-moines",
+        "solarScore": 68,
+        "annualSavings": 1058
+      },
+      {
+        "name": "Cedar Rapids",
+        "slug": "cedar-rapids",
+        "solarScore": 66,
+        "annualSavings": 1035
+      },
+      {
+        "name": "Davenport",
+        "slug": "davenport",
+        "solarScore": 66,
+        "annualSavings": 1035
+      }
+    ],
+    "installerCount": 108,
+    "rating": 3,
+    "pros": [
+      "68/100 average solar score across 3 analyzed cities",
+      "4.5 peak sun hours/day on average",
+      "$588/year average homeowner savings",
+      "245 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Iowa incentives",
+      "108+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.3-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.9,
+        "avgKwh": 277,
+        "savings": 29
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.1,
+        "avgKwh": 297,
+        "savings": 31
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.7,
+        "avgKwh": 352,
+        "savings": 37
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 45
+      },
+      {
+        "month": "May",
+        "sunHours": 5.3,
+        "avgKwh": 502,
+        "savings": 53
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.9,
+        "avgKwh": 557,
+        "savings": 58
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.1,
+        "avgKwh": 577,
+        "savings": 61
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.9,
+        "avgKwh": 557,
+        "savings": 58
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.3,
+        "avgKwh": 502,
+        "savings": 53
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 45
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.7,
+        "avgKwh": 352,
+        "savings": 37
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.1,
+        "avgKwh": 297,
+        "savings": 31
+      }
+    ],
+    "metaTitle": "Iowa Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Iowa solar: avg score 68/100. $588/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "missouri": {
+    "id": 17,
+    "name": "Missouri",
+    "slug": "missouri",
+    "abbreviation": "MO",
+    "avgSolarScore": 69,
+    "avgSunHours": 4.5,
+    "avgAnnualSavings": 588,
+    "avgPaybackYears": 17.2,
+    "cityCount": 4,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 120,
+    "rainyDaysPerYear": 134,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city",
+        "solarScore": 74,
+        "annualSavings": 1215
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield",
+        "solarScore": 73,
+        "annualSavings": 1191
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia",
+        "solarScore": 71,
+        "annualSavings": 1167
+      },
+      {
+        "name": "St. Louis",
+        "slug": "st-louis",
+        "solarScore": 69,
+        "annualSavings": 1143
+      }
+    ],
+    "installerCount": 153,
+    "rating": 3,
+    "pros": [
+      "69/100 average solar score across 4 analyzed cities",
+      "4.5 peak sun hours/day on average",
+      "$588/year average homeowner savings",
+      "245 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Missouri incentives",
+      "153+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.2-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.1,
+        "avgKwh": 294,
+        "savings": 33
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.3,
+        "avgKwh": 312,
+        "savings": 35
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.8,
+        "avgKwh": 360,
+        "savings": 40
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 47
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 55
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.7,
+        "avgKwh": 542,
+        "savings": 60
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.9,
+        "avgKwh": 560,
+        "savings": 62
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.7,
+        "avgKwh": 542,
+        "savings": 60
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 55
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 47
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.8,
+        "avgKwh": 360,
+        "savings": 40
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.3,
+        "avgKwh": 312,
+        "savings": 35
+      }
+    ],
+    "metaTitle": "Missouri Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Missouri solar: avg score 69/100. $588/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "tennessee": {
+    "id": 18,
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "abbreviation": "TN",
+    "avgSolarScore": 68,
+    "avgSunHours": 4.5,
+    "avgAnnualSavings": 576,
+    "avgPaybackYears": 17.5,
+    "cityCount": 5,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 120,
+    "rainyDaysPerYear": 134,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Chattanooga",
+        "slug": "chattanooga",
+        "solarScore": 71,
+        "annualSavings": 1093
+      },
+      {
+        "name": "Clarksville",
+        "slug": "clarksville",
+        "solarScore": 71,
+        "annualSavings": 1093
+      },
+      {
+        "name": "Memphis",
+        "slug": "memphis",
+        "solarScore": 69,
+        "annualSavings": 588
+      },
+      {
+        "name": "Knoxville",
+        "slug": "knoxville",
+        "solarScore": 69,
+        "annualSavings": 1070
+      },
+      {
+        "name": "Nashville",
+        "slug": "nashville",
+        "solarScore": 68,
+        "annualSavings": 576
+      }
+    ],
+    "installerCount": 186,
+    "rating": 3,
+    "pros": [
+      "68/100 average solar score across 5 analyzed cities",
+      "4.5 peak sun hours/day on average",
+      "$576/year average homeowner savings",
+      "245 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Tennessee incentives",
+      "186+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.5-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.2,
+        "avgKwh": 308,
+        "savings": 32
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.4,
+        "avgKwh": 324,
+        "savings": 34
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.9,
+        "avgKwh": 367,
+        "savings": 38
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 44
+      },
+      {
+        "month": "May",
+        "sunHours": 5.1,
+        "avgKwh": 487,
+        "savings": 51
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.6,
+        "avgKwh": 530,
+        "savings": 55
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.8,
+        "avgKwh": 546,
+        "savings": 57
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.6,
+        "avgKwh": 530,
+        "savings": 55
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.1,
+        "avgKwh": 487,
+        "savings": 51
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 44
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.9,
+        "avgKwh": 367,
+        "savings": 38
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.4,
+        "avgKwh": 324,
+        "savings": 34
+      }
+    ],
+    "metaTitle": "Tennessee Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Tennessee solar: avg score 68/100. $576/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "alabama": {
+    "id": 19,
+    "name": "Alabama",
+    "slug": "alabama",
+    "abbreviation": "AL",
+    "avgSolarScore": 70,
+    "avgSunHours": 4.6,
+    "avgAnnualSavings": 600,
+    "avgPaybackYears": 16.8,
+    "cityCount": 5,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 118,
+    "rainyDaysPerYear": 129,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Mobile",
+        "slug": "mobile",
+        "solarScore": 74,
+        "annualSavings": 1391
+      },
+      {
+        "name": "Montgomery",
+        "slug": "montgomery",
+        "solarScore": 73,
+        "annualSavings": 1363
+      },
+      {
+        "name": "Huntsville",
+        "slug": "huntsville",
+        "solarScore": 71,
+        "annualSavings": 1335
+      },
+      {
+        "name": "Tuscaloosa",
+        "slug": "tuscaloosa",
+        "solarScore": 71,
+        "annualSavings": 1335
+      },
+      {
+        "name": "Birmingham",
+        "slug": "birmingham",
+        "solarScore": 70,
+        "annualSavings": 600
+      }
+    ],
+    "installerCount": 192,
+    "rating": 3,
+    "pros": [
+      "70/100 average solar score across 5 analyzed cities",
+      "4.6 peak sun hours/day on average",
+      "$600/year average homeowner savings",
+      "247 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Alabama incentives",
+      "192+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.8-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.5,
+        "avgKwh": 330,
+        "savings": 42
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.6,
+        "avgKwh": 344,
+        "savings": 44
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4,
+        "avgKwh": 384,
+        "savings": 49
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 55
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 490,
+        "savings": 62
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.6,
+        "avgKwh": 530,
+        "savings": 67
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.7,
+        "avgKwh": 544,
+        "savings": 69
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.6,
+        "avgKwh": 530,
+        "savings": 67
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 490,
+        "savings": 62
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 55
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4,
+        "avgKwh": 384,
+        "savings": 49
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.6,
+        "avgKwh": 344,
+        "savings": 44
+      }
+    ],
+    "metaTitle": "Alabama Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Alabama solar: avg score 70/100. $600/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "mississippi": {
+    "id": 20,
+    "name": "Mississippi",
+    "slug": "mississippi",
+    "abbreviation": "MS",
+    "avgSolarScore": 71,
+    "avgSunHours": 4.7,
+    "avgAnnualSavings": 612,
+    "avgPaybackYears": 16.5,
+    "cityCount": 2,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 116,
+    "rainyDaysPerYear": 124,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Gulfport",
+        "slug": "gulfport",
+        "solarScore": 76,
+        "annualSavings": 1262
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson",
+        "solarScore": 74,
+        "annualSavings": 1237
+      }
+    ],
+    "installerCount": 79,
+    "rating": 3,
+    "pros": [
+      "71/100 average solar score across 2 analyzed cities",
+      "4.7 peak sun hours/day on average",
+      "$612/year average homeowner savings",
+      "249 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Mississippi incentives",
+      "79+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.5-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.6,
+        "avgKwh": 345,
+        "savings": 39
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.8,
+        "avgKwh": 359,
+        "savings": 41
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.2,
+        "avgKwh": 396,
+        "savings": 45
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 50
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 496,
+        "savings": 56
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.6,
+        "avgKwh": 533,
+        "savings": 60
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.8,
+        "avgKwh": 547,
+        "savings": 62
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.6,
+        "avgKwh": 533,
+        "savings": 60
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 496,
+        "savings": 56
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 50
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.2,
+        "avgKwh": 396,
+        "savings": 45
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.8,
+        "avgKwh": 359,
+        "savings": 41
+      }
+    ],
+    "metaTitle": "Mississippi Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Mississippi solar: avg score 71/100. $612/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "arkansas": {
+    "id": 21,
+    "name": "Arkansas",
+    "slug": "arkansas",
+    "abbreviation": "AR",
+    "avgSolarScore": 70,
+    "avgSunHours": 4.6,
+    "avgAnnualSavings": 600,
+    "avgPaybackYears": 16.8,
+    "cityCount": 3,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 118,
+    "rainyDaysPerYear": 129,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Little Rock",
+        "slug": "little-rock",
+        "solarScore": 73,
+        "annualSavings": 1052
+      },
+      {
+        "name": "Fort Smith",
+        "slug": "fort-smith",
+        "solarScore": 71,
+        "annualSavings": 1030
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville",
+        "solarScore": 69,
+        "annualSavings": 1009
+      }
+    ],
+    "installerCount": 114,
+    "rating": 3,
+    "pros": [
+      "70/100 average solar score across 3 analyzed cities",
+      "4.6 peak sun hours/day on average",
+      "$600/year average homeowner savings",
+      "247 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Arkansas incentives",
+      "114+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.8-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.3,
+        "avgKwh": 317,
+        "savings": 31
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.5,
+        "avgKwh": 333,
+        "savings": 33
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4,
+        "avgKwh": 377,
+        "savings": 37
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 43
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 497,
+        "savings": 49
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 53
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.9,
+        "avgKwh": 557,
+        "savings": 55
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 53
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 497,
+        "savings": 49
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.6,
+        "avgKwh": 437,
+        "savings": 43
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4,
+        "avgKwh": 377,
+        "savings": 37
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.5,
+        "avgKwh": 333,
+        "savings": 33
+      }
+    ],
+    "metaTitle": "Arkansas Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Arkansas solar: avg score 70/100. $600/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "louisiana": {
+    "id": 22,
+    "name": "Louisiana",
+    "slug": "louisiana",
+    "abbreviation": "LA",
+    "avgSolarScore": 72,
+    "avgSunHours": 4.7,
+    "avgAnnualSavings": 612,
+    "avgPaybackYears": 16.4,
+    "cityCount": 4,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 116,
+    "rainyDaysPerYear": 124,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Lafayette",
+        "slug": "lafayette",
+        "solarScore": 76,
+        "annualSavings": 1083
+      },
+      {
+        "name": "Baton Rouge",
+        "slug": "baton-rouge",
+        "solarScore": 74,
+        "annualSavings": 1062
+      },
+      {
+        "name": "Shreveport",
+        "slug": "shreveport",
+        "solarScore": 74,
+        "annualSavings": 1062
+      },
+      {
+        "name": "New Orleans",
+        "slug": "new-orleans",
+        "solarScore": 72,
+        "annualSavings": 612
+      }
+    ],
+    "installerCount": 157,
+    "rating": 3,
+    "pros": [
+      "72/100 average solar score across 4 analyzed cities",
+      "4.7 peak sun hours/day on average",
+      "$612/year average homeowner savings",
+      "249 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Louisiana incentives",
+      "157+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.4-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.7,
+        "avgKwh": 348,
+        "savings": 34
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 35
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.2,
+        "avgKwh": 397,
+        "savings": 39
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 43
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 495,
+        "savings": 48
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.6,
+        "avgKwh": 531,
+        "savings": 52
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.7,
+        "avgKwh": 544,
+        "savings": 53
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.6,
+        "avgKwh": 531,
+        "savings": 52
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 495,
+        "savings": 48
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 43
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.2,
+        "avgKwh": 397,
+        "savings": 39
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 35
+      }
+    ],
+    "metaTitle": "Louisiana Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Louisiana solar: avg score 72/100. $612/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "virginia": {
+    "id": 23,
+    "name": "Virginia",
+    "slug": "virginia",
+    "abbreviation": "VA",
+    "avgSolarScore": 68,
+    "avgSunHours": 4.5,
+    "avgAnnualSavings": 576,
+    "avgPaybackYears": 17.5,
+    "cityCount": 7,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 120,
+    "rainyDaysPerYear": 134,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Virginia Beach",
+        "slug": "virginia-beach",
+        "solarScore": 69,
+        "annualSavings": 1287
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk",
+        "solarScore": 69,
+        "annualSavings": 1287
+      },
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake",
+        "solarScore": 69,
+        "annualSavings": 1287
+      },
+      {
+        "name": "Newport News",
+        "slug": "newport-news",
+        "solarScore": 69,
+        "annualSavings": 1287
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond",
+        "solarScore": 68,
+        "annualSavings": 576
+      },
+      {
+        "name": "Roanoke",
+        "slug": "roanoke",
+        "solarScore": 68,
+        "annualSavings": 1259
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria",
+        "solarScore": 65,
+        "annualSavings": 1205
+      }
+    ],
+    "installerCount": 255,
+    "rating": 3,
+    "pros": [
+      "68/100 average solar score across 7 analyzed cities",
+      "4.5 peak sun hours/day on average",
+      "$576/year average homeowner savings",
+      "245 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Virginia incentives",
+      "255+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.5-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.2,
+        "avgKwh": 300,
+        "savings": 38
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.3,
+        "avgKwh": 317,
+        "savings": 40
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.8,
+        "avgKwh": 363,
+        "savings": 45
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 53
+      },
+      {
+        "month": "May",
+        "sunHours": 5.2,
+        "avgKwh": 491,
+        "savings": 61
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.7,
+        "avgKwh": 537,
+        "savings": 67
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.8,
+        "avgKwh": 554,
+        "savings": 69
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.7,
+        "avgKwh": 537,
+        "savings": 67
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.2,
+        "avgKwh": 491,
+        "savings": 61
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 53
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.8,
+        "avgKwh": 363,
+        "savings": 45
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.3,
+        "avgKwh": 317,
+        "savings": 40
+      }
+    ],
+    "metaTitle": "Virginia Solar Potential | 7 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Virginia solar: avg score 68/100. $576/yr savings. Full breakdown for all 7 analyzed cities."
+  },
+  "maryland": {
+    "id": 24,
+    "name": "Maryland",
+    "slug": "maryland",
+    "abbreviation": "MD",
+    "avgSolarScore": 67,
+    "avgSunHours": 4.4,
+    "avgAnnualSavings": 564,
+    "avgPaybackYears": 17.9,
+    "cityCount": 3,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 121,
+    "rainyDaysPerYear": 139,
+    "stateIncentives": {
+      "propertyTaxExemption": 1100,
+      "energyTaxCredit": 900,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Baltimore",
+        "slug": "baltimore",
+        "solarScore": 65,
+        "annualSavings": 588
+      },
+      {
+        "name": "Frederick",
+        "slug": "frederick",
+        "solarScore": 63,
+        "annualSavings": 1309
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville",
+        "solarScore": 63,
+        "annualSavings": 1309
+      }
+    ],
+    "installerCount": 104,
+    "rating": 3,
+    "pros": [
+      "67/100 average solar score across 3 analyzed cities",
+      "4.4 peak sun hours/day on average",
+      "$564/year average homeowner savings",
+      "244 sunny days per year",
+      "Federal 30% tax credit plus $1,500 in combined Maryland incentives",
+      "104+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.9-year average payback period requires a long-term outlook",
+      "121 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3,
+        "avgKwh": 284,
+        "savings": 39
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.2,
+        "avgKwh": 302,
+        "savings": 42
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 49
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.4,
+        "avgKwh": 418,
+        "savings": 58
+      },
+      {
+        "month": "May",
+        "sunHours": 5.1,
+        "avgKwh": 485,
+        "savings": 67
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.6,
+        "avgKwh": 534,
+        "savings": 74
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.8,
+        "avgKwh": 552,
+        "savings": 77
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.6,
+        "avgKwh": 534,
+        "savings": 74
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.1,
+        "avgKwh": 485,
+        "savings": 67
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.4,
+        "avgKwh": 418,
+        "savings": 58
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 49
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.2,
+        "avgKwh": 302,
+        "savings": 42
+      }
+    ],
+    "metaTitle": "Maryland Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Maryland solar: avg score 67/100. $564/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "delaware": {
+    "id": 25,
+    "name": "Delaware",
+    "slug": "delaware",
+    "abbreviation": "DE",
+    "avgSolarScore": 65,
+    "avgSunHours": 4.3,
+    "avgAnnualSavings": 552,
+    "avgPaybackYears": 18.2,
+    "cityCount": 1,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 123,
+    "rainyDaysPerYear": 144,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Wilmington",
+        "slug": "wilmington",
+        "solarScore": 62,
+        "annualSavings": 1141
+      }
+    ],
+    "installerCount": 34,
+    "rating": 3,
+    "pros": [
+      "65/100 average solar score across 1 analyzed cities",
+      "4.3 peak sun hours/day on average",
+      "$552/year average homeowner savings",
+      "242 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Delaware incentives",
+      "34+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18.2-year average payback period requires a long-term outlook",
+      "123 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.9,
+        "avgKwh": 275,
+        "savings": 34
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.1,
+        "avgKwh": 293,
+        "savings": 36
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.6,
+        "avgKwh": 341,
+        "savings": 42
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 51
+      },
+      {
+        "month": "May",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 59
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.5,
+        "avgKwh": 523,
+        "savings": 65
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 67
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.5,
+        "avgKwh": 523,
+        "savings": 65
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 59
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.3,
+        "avgKwh": 408,
+        "savings": 51
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.6,
+        "avgKwh": 341,
+        "savings": 42
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.1,
+        "avgKwh": 293,
+        "savings": 36
+      }
+    ],
+    "metaTitle": "Delaware Solar Potential | 1 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Delaware solar: avg score 65/100. $552/yr savings. Full breakdown for all 1 analyzed cities."
+  },
+  "new-jersey": {
+    "id": 26,
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "abbreviation": "NJ",
+    "avgSolarScore": 63,
+    "avgSunHours": 4.2,
+    "avgAnnualSavings": 828,
+    "avgPaybackYears": 12.2,
+    "cityCount": 5,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 125,
+    "rainyDaysPerYear": 149,
+    "stateIncentives": {
+      "propertyTaxExemption": 1300,
+      "energyTaxCredit": 1200,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Newark",
+        "slug": "newark",
+        "solarScore": 62,
+        "annualSavings": 1582
+      },
+      {
+        "name": "Jersey City",
+        "slug": "jersey-city",
+        "solarScore": 62,
+        "annualSavings": 1582
+      },
+      {
+        "name": "Paterson",
+        "slug": "paterson",
+        "solarScore": 62,
+        "annualSavings": 1582
+      },
+      {
+        "name": "Elizabeth",
+        "slug": "elizabeth",
+        "solarScore": 62,
+        "annualSavings": 1582
+      },
+      {
+        "name": "Trenton",
+        "slug": "trenton",
+        "solarScore": 62,
+        "annualSavings": 1582
+      }
+    ],
+    "installerCount": 170,
+    "rating": 3,
+    "pros": [
+      "63/100 average solar score across 5 analyzed cities",
+      "4.2 peak sun hours/day on average",
+      "$828/year average homeowner savings",
+      "240 sunny days per year",
+      "Federal 30% tax credit plus $2,000 in combined New Jersey incentives",
+      "170+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "12.2-year average payback period requires a long-term outlook",
+      "125 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.8,
+        "avgKwh": 264,
+        "savings": 45
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3,
+        "avgKwh": 282,
+        "savings": 49
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.5,
+        "avgKwh": 332,
+        "savings": 57
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.2,
+        "avgKwh": 399,
+        "savings": 69
+      },
+      {
+        "month": "May",
+        "sunHours": 4.9,
+        "avgKwh": 466,
+        "savings": 80
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.4,
+        "avgKwh": 516,
+        "savings": 89
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.6,
+        "avgKwh": 534,
+        "savings": 92
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.4,
+        "avgKwh": 516,
+        "savings": 89
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.9,
+        "avgKwh": 466,
+        "savings": 80
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.2,
+        "avgKwh": 399,
+        "savings": 69
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.5,
+        "avgKwh": 332,
+        "savings": 57
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3,
+        "avgKwh": 282,
+        "savings": 49
+      }
+    ],
+    "metaTitle": "New Jersey Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "New Jersey solar: avg score 63/100. $828/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "new-york": {
+    "id": 27,
+    "name": "New York",
+    "slug": "new-york",
+    "abbreviation": "NY",
+    "avgSolarScore": 60,
+    "avgSunHours": 4,
+    "avgAnnualSavings": 912,
+    "avgPaybackYears": 13.2,
+    "cityCount": 6,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 1700,
+      "energyTaxCredit": 1800,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "New York City",
+        "slug": "new-york-city",
+        "solarScore": 60,
+        "annualSavings": 1080
+      },
+      {
+        "name": "Yonkers",
+        "slug": "yonkers",
+        "solarScore": 60,
+        "annualSavings": 1930
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester",
+        "solarScore": 57,
+        "annualSavings": 1836
+      },
+      {
+        "name": "Albany",
+        "slug": "albany",
+        "solarScore": 57,
+        "annualSavings": 1836
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo",
+        "solarScore": 55,
+        "annualSavings": 1789
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse",
+        "solarScore": 55,
+        "annualSavings": 1789
+      }
+    ],
+    "installerCount": 193,
+    "rating": 3,
+    "pros": [
+      "60/100 average solar score across 6 analyzed cities",
+      "4 peak sun hours/day on average",
+      "$912/year average homeowner savings",
+      "237 sunny days per year",
+      "Federal 30% tax credit plus $3,000 in combined New York incentives",
+      "193+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "13.2-year average payback period requires a long-term outlook",
+      "128 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 244,
+        "savings": 52
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 263,
+        "savings": 57
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.3,
+        "avgKwh": 312,
+        "savings": 67
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 82
+      },
+      {
+        "month": "May",
+        "sunHours": 4.7,
+        "avgKwh": 448,
+        "savings": 96
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.2,
+        "avgKwh": 497,
+        "savings": 107
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.4,
+        "avgKwh": 516,
+        "savings": 111
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.2,
+        "avgKwh": 497,
+        "savings": 107
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.7,
+        "avgKwh": 448,
+        "savings": 96
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 82
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.3,
+        "avgKwh": 312,
+        "savings": 67
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 263,
+        "savings": 57
+      }
+    ],
+    "metaTitle": "New York Solar Potential | 6 Cities Analyzed | SolarAtlas",
+    "metaDescription": "New York solar: avg score 60/100. $912/yr savings. Full breakdown for all 6 analyzed cities."
+  },
+  "massachusetts": {
+    "id": 28,
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "abbreviation": "MA",
+    "avgSolarScore": 62,
+    "avgSunHours": 4.1,
+    "avgAnnualSavings": 1032,
+    "avgPaybackYears": 11.7,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 126,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 1500,
+      "energyTaxCredit": 1500,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Boston",
+        "slug": "boston",
+        "solarScore": 62,
+        "annualSavings": 1032
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield",
+        "solarScore": 60,
+        "annualSavings": 2074
+      },
+      {
+        "name": "Worcester",
+        "slug": "worcester",
+        "solarScore": 58,
+        "annualSavings": 2024
+      }
+    ],
+    "installerCount": 100,
+    "rating": 3,
+    "pros": [
+      "62/100 average solar score across 3 analyzed cities",
+      "4.1 peak sun hours/day on average",
+      "$1,032/year average homeowner savings",
+      "239 sunny days per year",
+      "Federal 30% tax credit plus $2,500 in combined Massachusetts incentives",
+      "100+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "11.7-year average payback period requires a long-term outlook",
+      "126 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 250,
+        "savings": 58
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 269,
+        "savings": 62
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.4,
+        "avgKwh": 320,
+        "savings": 74
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.1,
+        "avgKwh": 389,
+        "savings": 90
+      },
+      {
+        "month": "May",
+        "sunHours": 4.8,
+        "avgKwh": 458,
+        "savings": 106
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.4,
+        "avgKwh": 509,
+        "savings": 118
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.6,
+        "avgKwh": 528,
+        "savings": 122
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.4,
+        "avgKwh": 509,
+        "savings": 118
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.8,
+        "avgKwh": 458,
+        "savings": 106
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.1,
+        "avgKwh": 389,
+        "savings": 90
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.4,
+        "avgKwh": 320,
+        "savings": 74
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 269,
+        "savings": 62
+      }
+    ],
+    "metaTitle": "Massachusetts Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Massachusetts solar: avg score 62/100. $1032/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "connecticut": {
+    "id": 29,
+    "name": "Connecticut",
+    "slug": "connecticut",
+    "abbreviation": "CT",
+    "avgSolarScore": 61,
+    "avgSunHours": 4,
+    "avgAnnualSavings": 984,
+    "avgPaybackYears": 12.1,
+    "cityCount": 4,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 1100,
+      "energyTaxCredit": 900,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport",
+        "solarScore": 60,
+        "annualSavings": 2074
+      },
+      {
+        "name": "New Haven",
+        "slug": "new-haven",
+        "solarScore": 60,
+        "annualSavings": 2074
+      },
+      {
+        "name": "Stamford",
+        "slug": "stamford",
+        "solarScore": 60,
+        "annualSavings": 2074
+      },
+      {
+        "name": "Hartford",
+        "slug": "hartford",
+        "solarScore": 58,
+        "annualSavings": 2024
+      }
+    ],
+    "installerCount": 132,
+    "rating": 3,
+    "pros": [
+      "61/100 average solar score across 4 analyzed cities",
+      "4 peak sun hours/day on average",
+      "$984/year average homeowner savings",
+      "237 sunny days per year",
+      "Federal 30% tax credit plus $1,500 in combined Connecticut incentives",
+      "132+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "12.1-year average payback period requires a long-term outlook",
+      "128 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 249,
+        "savings": 58
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 266,
+        "savings": 61
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.3,
+        "avgKwh": 314,
+        "savings": 73
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 88
+      },
+      {
+        "month": "May",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 103
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 114
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.4,
+        "avgKwh": 511,
+        "savings": 118
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.2,
+        "avgKwh": 494,
+        "savings": 114
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 103
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 88
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.3,
+        "avgKwh": 314,
+        "savings": 73
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 266,
+        "savings": 61
+      }
+    ],
+    "metaTitle": "Connecticut Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Connecticut solar: avg score 61/100. $984/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "rhode-island": {
+    "id": 30,
+    "name": "Rhode Island",
+    "slug": "rhode-island",
+    "abbreviation": "RI",
+    "avgSolarScore": 60,
+    "avgSunHours": 4,
+    "avgAnnualSavings": 960,
+    "avgPaybackYears": 12.4,
+    "cityCount": 1,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 1100,
+      "energyTaxCredit": 900,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Providence",
+        "slug": "providence",
+        "solarScore": 60,
+        "annualSavings": 2119
+      }
+    ],
+    "installerCount": 33,
+    "rating": 3,
+    "pros": [
+      "60/100 average solar score across 1 analyzed cities",
+      "4 peak sun hours/day on average",
+      "$960/year average homeowner savings",
+      "237 sunny days per year",
+      "Federal 30% tax credit plus $1,500 in combined Rhode Island incentives",
+      "33+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "12.4-year average payback period requires a long-term outlook",
+      "128 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 246,
+        "savings": 58
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 264,
+        "savings": 62
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.3,
+        "avgKwh": 313,
+        "savings": 74
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 90
+      },
+      {
+        "month": "May",
+        "sunHours": 4.7,
+        "avgKwh": 447,
+        "savings": 105
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.2,
+        "avgKwh": 496,
+        "savings": 117
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.4,
+        "avgKwh": 514,
+        "savings": 121
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.2,
+        "avgKwh": 496,
+        "savings": 117
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.7,
+        "avgKwh": 447,
+        "savings": 105
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 90
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.3,
+        "avgKwh": 313,
+        "savings": 74
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 264,
+        "savings": 62
+      }
+    ],
+    "metaTitle": "Rhode Island Solar Potential | 1 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Rhode Island solar: avg score 60/100. $960/yr savings. Full breakdown for all 1 analyzed cities."
+  },
+  "pennsylvania": {
+    "id": 31,
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "abbreviation": "PA",
+    "avgSolarScore": 58,
+    "avgSunHours": 3.9,
+    "avgAnnualSavings": 576,
+    "avgPaybackYears": 17.5,
+    "cityCount": 4,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 130,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Allentown",
+        "slug": "allentown",
+        "solarScore": 60,
+        "annualSavings": 1284
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia",
+        "solarScore": 58,
+        "annualSavings": 576
+      },
+      {
+        "name": "Pittsburgh",
+        "slug": "pittsburgh",
+        "solarScore": 57,
+        "annualSavings": 1221
+      },
+      {
+        "name": "Erie",
+        "slug": "erie",
+        "solarScore": 55,
+        "annualSavings": 1190
+      }
+    ],
+    "installerCount": 129,
+    "rating": 2,
+    "pros": [
+      "58/100 average solar score across 4 analyzed cities",
+      "3.9 peak sun hours/day on average",
+      "$576/year average homeowner savings",
+      "235 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Pennsylvania incentives",
+      "129+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.5-year average payback period requires a long-term outlook",
+      "130 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 244,
+        "savings": 35
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 261,
+        "savings": 37
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.2,
+        "avgKwh": 307,
+        "savings": 44
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.9,
+        "avgKwh": 370,
+        "savings": 53
+      },
+      {
+        "month": "May",
+        "sunHours": 4.6,
+        "avgKwh": 433,
+        "savings": 62
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5,
+        "avgKwh": 479,
+        "savings": 68
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.2,
+        "avgKwh": 496,
+        "savings": 71
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5,
+        "avgKwh": 479,
+        "savings": 68
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.6,
+        "avgKwh": 433,
+        "savings": 62
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.9,
+        "avgKwh": 370,
+        "savings": 53
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.2,
+        "avgKwh": 307,
+        "savings": 44
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 261,
+        "savings": 37
+      }
+    ],
+    "metaTitle": "Pennsylvania Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Pennsylvania solar: avg score 58/100. $576/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "ohio": {
+    "id": 32,
+    "name": "Ohio",
+    "slug": "ohio",
+    "abbreviation": "OH",
+    "avgSolarScore": 54,
+    "avgSunHours": 3.7,
+    "avgAnnualSavings": 528,
+    "avgPaybackYears": 19.1,
+    "cityCount": 6,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 133,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Cincinnati",
+        "slug": "cincinnati",
+        "solarScore": 63,
+        "annualSavings": 1130
+      },
+      {
+        "name": "Dayton",
+        "slug": "dayton",
+        "solarScore": 62,
+        "annualSavings": 1104
+      },
+      {
+        "name": "Toledo",
+        "slug": "toledo",
+        "solarScore": 58,
+        "annualSavings": 1051
+      },
+      {
+        "name": "Akron",
+        "slug": "akron",
+        "solarScore": 58,
+        "annualSavings": 1051
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland",
+        "solarScore": 57,
+        "annualSavings": 1025
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus",
+        "solarScore": 54,
+        "annualSavings": 528
+      }
+    ],
+    "installerCount": 196,
+    "rating": 2,
+    "pros": [
+      "54/100 average solar score across 6 analyzed cities",
+      "3.7 peak sun hours/day on average",
+      "$528/year average homeowner savings",
+      "232 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Ohio incentives",
+      "196+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "19.1-year average payback period requires a long-term outlook",
+      "133 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.5,
+        "avgKwh": 233,
+        "savings": 28
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.6,
+        "avgKwh": 249,
+        "savings": 30
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.1,
+        "avgKwh": 292,
+        "savings": 35
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 42
+      },
+      {
+        "month": "May",
+        "sunHours": 4.3,
+        "avgKwh": 410,
+        "savings": 49
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.8,
+        "avgKwh": 453,
+        "savings": 54
+      },
+      {
+        "month": "Jul",
+        "sunHours": 4.9,
+        "avgKwh": 469,
+        "savings": 56
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.8,
+        "avgKwh": 453,
+        "savings": 54
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.3,
+        "avgKwh": 410,
+        "savings": 49
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 42
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.1,
+        "avgKwh": 292,
+        "savings": 35
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.6,
+        "avgKwh": 249,
+        "savings": 30
+      }
+    ],
+    "metaTitle": "Ohio Solar Potential | 6 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Ohio solar: avg score 54/100. $528/yr savings. Full breakdown for all 6 analyzed cities."
+  },
+  "indiana": {
+    "id": 33,
+    "name": "Indiana",
+    "slug": "indiana",
+    "abbreviation": "IN",
+    "avgSolarScore": 55,
+    "avgSunHours": 3.8,
+    "avgAnnualSavings": 540,
+    "avgPaybackYears": 18.7,
+    "cityCount": 4,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 132,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Evansville",
+        "slug": "evansville",
+        "solarScore": 66,
+        "annualSavings": 1143
+      },
+      {
+        "name": "Fort Wayne",
+        "slug": "fort-wayne",
+        "solarScore": 62,
+        "annualSavings": 1067
+      },
+      {
+        "name": "South Bend",
+        "slug": "south-bend",
+        "solarScore": 60,
+        "annualSavings": 1042
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis",
+        "solarScore": 55,
+        "annualSavings": 540
+      }
+    ],
+    "installerCount": 134,
+    "rating": 2,
+    "pros": [
+      "55/100 average solar score across 4 analyzed cities",
+      "3.8 peak sun hours/day on average",
+      "$540/year average homeowner savings",
+      "233 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Indiana incentives",
+      "134+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18.7-year average payback period requires a long-term outlook",
+      "132 cloudy days/year can reduce output during parts of the year",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.5,
+        "avgKwh": 241,
+        "savings": 28
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.7,
+        "avgKwh": 257,
+        "savings": 30
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.2,
+        "avgKwh": 301,
+        "savings": 35
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 42
+      },
+      {
+        "month": "May",
+        "sunHours": 4.4,
+        "avgKwh": 421,
+        "savings": 49
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 54
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.1,
+        "avgKwh": 481,
+        "savings": 56
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 54
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.4,
+        "avgKwh": 421,
+        "savings": 49
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 42
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.2,
+        "avgKwh": 301,
+        "savings": 35
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.7,
+        "avgKwh": 257,
+        "savings": 30
+      }
+    ],
+    "metaTitle": "Indiana Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Indiana solar: avg score 55/100. $540/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "illinois": {
+    "id": 34,
+    "name": "Illinois",
+    "slug": "illinois",
+    "abbreviation": "IL",
+    "avgSolarScore": 57,
+    "avgSunHours": 3.8,
+    "avgAnnualSavings": 552,
+    "avgPaybackYears": 18.3,
+    "cityCount": 6,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 132,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Springfield",
+        "slug": "springfield",
+        "solarScore": 65,
+        "annualSavings": 1224
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "solarScore": 63,
+        "annualSavings": 1196
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "solarScore": 62,
+        "annualSavings": 1168
+      },
+      {
+        "name": "Joliet",
+        "slug": "joliet",
+        "solarScore": 62,
+        "annualSavings": 1168
+      },
+      {
+        "name": "Rockford",
+        "slug": "rockford",
+        "solarScore": 60,
+        "annualSavings": 1140
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago",
+        "solarScore": 57,
+        "annualSavings": 552
+      }
+    ],
+    "installerCount": 203,
+    "rating": 2,
+    "pros": [
+      "57/100 average solar score across 6 analyzed cities",
+      "3.8 peak sun hours/day on average",
+      "$552/year average homeowner savings",
+      "233 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined Illinois incentives",
+      "203+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18.3-year average payback period requires a long-term outlook",
+      "132 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.5,
+        "avgKwh": 236,
+        "savings": 30
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.7,
+        "avgKwh": 253,
+        "savings": 32
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.1,
+        "avgKwh": 299,
+        "savings": 38
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 46
+      },
+      {
+        "month": "May",
+        "sunHours": 4.5,
+        "avgKwh": 423,
+        "savings": 54
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.9,
+        "avgKwh": 469,
+        "savings": 60
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.1,
+        "avgKwh": 486,
+        "savings": 62
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.9,
+        "avgKwh": 469,
+        "savings": 60
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.5,
+        "avgKwh": 423,
+        "savings": 54
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 46
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.1,
+        "avgKwh": 299,
+        "savings": 38
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.7,
+        "avgKwh": 253,
+        "savings": 32
+      }
+    ],
+    "metaTitle": "Illinois Solar Potential | 6 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Illinois solar: avg score 57/100. $552/yr savings. Full breakdown for all 6 analyzed cities."
+  },
+  "michigan": {
+    "id": 35,
+    "name": "Michigan",
+    "slug": "michigan",
+    "abbreviation": "MI",
+    "avgSolarScore": 50,
+    "avgSunHours": 3.5,
+    "avgAnnualSavings": 504,
+    "avgPaybackYears": 20.2,
+    "cityCount": 5,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 137,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids",
+        "solarScore": 58,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Warren",
+        "slug": "warren",
+        "solarScore": 58,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Ann Arbor",
+        "slug": "ann-arbor",
+        "solarScore": 58,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Lansing",
+        "slug": "lansing",
+        "solarScore": 58,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Detroit",
+        "slug": "detroit",
+        "solarScore": 49,
+        "annualSavings": 492
+      }
+    ],
+    "installerCount": 158,
+    "rating": 2,
+    "pros": [
+      "50/100 average solar score across 5 analyzed cities",
+      "3.5 peak sun hours/day on average",
+      "$504/year average homeowner savings",
+      "228 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Michigan incentives",
+      "158+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "20.2-year average payback period requires a long-term outlook",
+      "137 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.2,
+        "avgKwh": 212,
+        "savings": 37
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.4,
+        "avgKwh": 228,
+        "savings": 40
+      },
+      {
+        "month": "Mar",
+        "sunHours": 2.9,
+        "avgKwh": 272,
+        "savings": 48
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.5,
+        "avgKwh": 332,
+        "savings": 58
+      },
+      {
+        "month": "May",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 69
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.6,
+        "avgKwh": 436,
+        "savings": 76
+      },
+      {
+        "month": "Jul",
+        "sunHours": 4.8,
+        "avgKwh": 452,
+        "savings": 79
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.6,
+        "avgKwh": 436,
+        "savings": 76
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.1,
+        "avgKwh": 392,
+        "savings": 69
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.5,
+        "avgKwh": 332,
+        "savings": 58
+      },
+      {
+        "month": "Nov",
+        "sunHours": 2.9,
+        "avgKwh": 272,
+        "savings": 48
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.4,
+        "avgKwh": 228,
+        "savings": 40
+      }
+    ],
+    "metaTitle": "Michigan Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Michigan solar: avg score 50/100. $504/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "wisconsin": {
+    "id": 36,
+    "name": "Wisconsin",
+    "slug": "wisconsin",
+    "abbreviation": "WI",
+    "avgSolarScore": 52,
+    "avgSunHours": 3.6,
+    "avgAnnualSavings": 516,
+    "avgPaybackYears": 19.6,
+    "cityCount": 5,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 135,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Madison",
+        "slug": "madison",
+        "solarScore": 63,
+        "annualSavings": 1394
+      },
+      {
+        "name": "Green Bay",
+        "slug": "green-bay",
+        "solarScore": 62,
+        "annualSavings": 1361
+      },
+      {
+        "name": "Kenosha",
+        "slug": "kenosha",
+        "solarScore": 62,
+        "annualSavings": 1361
+      },
+      {
+        "name": "Racine",
+        "slug": "racine",
+        "solarScore": 62,
+        "annualSavings": 1361
+      },
+      {
+        "name": "Milwaukee",
+        "slug": "milwaukee",
+        "solarScore": 52,
+        "annualSavings": 516
+      }
+    ],
+    "installerCount": 166,
+    "rating": 2,
+    "pros": [
+      "52/100 average solar score across 5 analyzed cities",
+      "3.6 peak sun hours/day on average",
+      "$516/year average homeowner savings",
+      "230 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Wisconsin incentives",
+      "166+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "19.6-year average payback period requires a long-term outlook",
+      "135 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.3,
+        "avgKwh": 216,
+        "savings": 32
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.5,
+        "avgKwh": 233,
+        "savings": 34
+      },
+      {
+        "month": "Mar",
+        "sunHours": 2.9,
+        "avgKwh": 279,
+        "savings": 41
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.6,
+        "avgKwh": 342,
+        "savings": 51
+      },
+      {
+        "month": "May",
+        "sunHours": 4.3,
+        "avgKwh": 405,
+        "savings": 60
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.7,
+        "avgKwh": 451,
+        "savings": 67
+      },
+      {
+        "month": "Jul",
+        "sunHours": 4.9,
+        "avgKwh": 468,
+        "savings": 69
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.7,
+        "avgKwh": 451,
+        "savings": 67
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.3,
+        "avgKwh": 405,
+        "savings": 60
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.6,
+        "avgKwh": 342,
+        "savings": 51
+      },
+      {
+        "month": "Nov",
+        "sunHours": 2.9,
+        "avgKwh": 279,
+        "savings": 41
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.5,
+        "avgKwh": 233,
+        "savings": 34
+      }
+    ],
+    "metaTitle": "Wisconsin Solar Potential | 5 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Wisconsin solar: avg score 52/100. $516/yr savings. Full breakdown for all 5 analyzed cities."
+  },
+  "minnesota": {
+    "id": 37,
+    "name": "Minnesota",
+    "slug": "minnesota",
+    "abbreviation": "MN",
+    "avgSolarScore": 54,
+    "avgSunHours": 3.7,
+    "avgAnnualSavings": 528,
+    "avgPaybackYears": 19.1,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 133,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "St. Paul",
+        "slug": "st-paul",
+        "solarScore": 66,
+        "annualSavings": 1291
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester",
+        "solarScore": 66,
+        "annualSavings": 1291
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis",
+        "solarScore": 54,
+        "annualSavings": 528
+      }
+    ],
+    "installerCount": 102,
+    "rating": 2,
+    "pros": [
+      "54/100 average solar score across 3 analyzed cities",
+      "3.7 peak sun hours/day on average",
+      "$528/year average homeowner savings",
+      "232 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined Minnesota incentives",
+      "102+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "19.1-year average payback period requires a long-term outlook",
+      "133 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.3,
+        "avgKwh": 216,
+        "savings": 28
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.5,
+        "avgKwh": 234,
+        "savings": 31
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3,
+        "avgKwh": 283,
+        "savings": 37
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 46
+      },
+      {
+        "month": "May",
+        "sunHours": 4.4,
+        "avgKwh": 419,
+        "savings": 55
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.9,
+        "avgKwh": 468,
+        "savings": 61
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.1,
+        "avgKwh": 486,
+        "savings": 64
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.9,
+        "avgKwh": 468,
+        "savings": 61
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.4,
+        "avgKwh": 419,
+        "savings": 55
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 46
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3,
+        "avgKwh": 283,
+        "savings": 37
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.5,
+        "avgKwh": 234,
+        "savings": 31
+      }
+    ],
+    "metaTitle": "Minnesota Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Minnesota solar: avg score 54/100. $528/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "north-dakota": {
+    "id": 38,
+    "name": "North Dakota",
+    "slug": "north-dakota",
+    "abbreviation": "ND",
+    "avgSolarScore": 58,
+    "avgSunHours": 3.9,
+    "avgAnnualSavings": 540,
+    "avgPaybackYears": 18.5,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 130,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Bismarck",
+        "slug": "bismarck",
+        "solarScore": 71,
+        "annualSavings": 1020
+      },
+      {
+        "name": "Fargo",
+        "slug": "fargo",
+        "solarScore": 68,
+        "annualSavings": 977
+      }
+    ],
+    "installerCount": 74,
+    "rating": 2,
+    "pros": [
+      "58/100 average solar score across 2 analyzed cities",
+      "3.9 peak sun hours/day on average",
+      "$540/year average homeowner savings",
+      "235 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined North Dakota incentives",
+      "74+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18.5-year average payback period requires a long-term outlook",
+      "130 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.3,
+        "avgKwh": 218,
+        "savings": 21
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.5,
+        "avgKwh": 238,
+        "savings": 23
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.1,
+        "avgKwh": 294,
+        "savings": 29
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.9,
+        "avgKwh": 370,
+        "savings": 36
+      },
+      {
+        "month": "May",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 43
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.3,
+        "avgKwh": 502,
+        "savings": 49
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.5,
+        "avgKwh": 522,
+        "savings": 51
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.3,
+        "avgKwh": 502,
+        "savings": 49
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 43
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.9,
+        "avgKwh": 370,
+        "savings": 36
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.1,
+        "avgKwh": 294,
+        "savings": 29
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.5,
+        "avgKwh": 238,
+        "savings": 23
+      }
+    ],
+    "metaTitle": "North Dakota Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "North Dakota solar: avg score 58/100. $540/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "south-dakota": {
+    "id": 39,
+    "name": "South Dakota",
+    "slug": "south-dakota",
+    "abbreviation": "SD",
+    "avgSolarScore": 60,
+    "avgSunHours": 4,
+    "avgAnnualSavings": 552,
+    "avgPaybackYears": 18,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Rapid City",
+        "slug": "rapid-city",
+        "solarScore": 77,
+        "annualSavings": 1241
+      },
+      {
+        "name": "Sioux Falls",
+        "slug": "sioux-falls",
+        "solarScore": 73,
+        "annualSavings": 1170
+      }
+    ],
+    "installerCount": 79,
+    "rating": 3,
+    "pros": [
+      "60/100 average solar score across 2 analyzed cities",
+      "4 peak sun hours/day on average",
+      "$552/year average homeowner savings",
+      "237 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined South Dakota incentives",
+      "79+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18-year average payback period requires a long-term outlook",
+      "128 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.5,
+        "avgKwh": 237,
+        "savings": 26
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.7,
+        "avgKwh": 256,
+        "savings": 28
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.2,
+        "avgKwh": 309,
+        "savings": 34
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 41
+      },
+      {
+        "month": "May",
+        "sunHours": 4.8,
+        "avgKwh": 451,
+        "savings": 49
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.3,
+        "avgKwh": 504,
+        "savings": 55
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.5,
+        "avgKwh": 523,
+        "savings": 57
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.3,
+        "avgKwh": 504,
+        "savings": 55
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.8,
+        "avgKwh": 451,
+        "savings": 49
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4,
+        "avgKwh": 380,
+        "savings": 41
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.2,
+        "avgKwh": 309,
+        "savings": 34
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.7,
+        "avgKwh": 256,
+        "savings": 28
+      }
+    ],
+    "metaTitle": "South Dakota Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "South Dakota solar: avg score 60/100. $552/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "montana": {
+    "id": 40,
+    "name": "Montana",
+    "slug": "montana",
+    "abbreviation": "MT",
+    "avgSolarScore": 63,
+    "avgSunHours": 4.2,
+    "avgAnnualSavings": 564,
+    "avgPaybackYears": 17.7,
+    "cityCount": 3,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 125,
+    "rainyDaysPerYear": 149,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Great Falls",
+        "slug": "great-falls",
+        "solarScore": 71,
+        "annualSavings": 1083
+      },
+      {
+        "name": "Missoula",
+        "slug": "missoula",
+        "solarScore": 66,
+        "annualSavings": 1015
+      },
+      {
+        "name": "Billings",
+        "slug": "billings",
+        "solarScore": 63,
+        "annualSavings": 564
+      }
+    ],
+    "installerCount": 108,
+    "rating": 3,
+    "pros": [
+      "63/100 average solar score across 3 analyzed cities",
+      "4.2 peak sun hours/day on average",
+      "$564/year average homeowner savings",
+      "240 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Montana incentives",
+      "108+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.7-year average payback period requires a long-term outlook",
+      "125 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.5,
+        "avgKwh": 235,
+        "savings": 24
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.7,
+        "avgKwh": 257,
+        "savings": 26
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.3,
+        "avgKwh": 317,
+        "savings": 33
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.2,
+        "avgKwh": 399,
+        "savings": 41
+      },
+      {
+        "month": "May",
+        "sunHours": 5.1,
+        "avgKwh": 481,
+        "savings": 50
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 56
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.9,
+        "avgKwh": 563,
+        "savings": 58
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.7,
+        "avgKwh": 541,
+        "savings": 56
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.1,
+        "avgKwh": 481,
+        "savings": 50
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.2,
+        "avgKwh": 399,
+        "savings": 41
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.3,
+        "avgKwh": 317,
+        "savings": 33
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.7,
+        "avgKwh": 257,
+        "savings": 26
+      }
+    ],
+    "metaTitle": "Montana Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Montana solar: avg score 63/100. $564/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "idaho": {
+    "id": 41,
+    "name": "Idaho",
+    "slug": "idaho",
+    "abbreviation": "ID",
+    "avgSolarScore": 71,
+    "avgSunHours": 4.7,
+    "avgAnnualSavings": 612,
+    "avgPaybackYears": 16.4,
+    "cityCount": 3,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 116,
+    "rainyDaysPerYear": 124,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Nampa",
+        "slug": "nampa",
+        "solarScore": 77,
+        "annualSavings": 1025
+      },
+      {
+        "name": "Idaho Falls",
+        "slug": "idaho-falls",
+        "solarScore": 74,
+        "annualSavings": 986
+      },
+      {
+        "name": "Boise",
+        "slug": "boise",
+        "solarScore": 72,
+        "annualSavings": 612
+      }
+    ],
+    "installerCount": 118,
+    "rating": 3,
+    "pros": [
+      "71/100 average solar score across 3 analyzed cities",
+      "4.7 peak sun hours/day on average",
+      "$612/year average homeowner savings",
+      "249 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Idaho incentives",
+      "118+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.4-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.9,
+        "avgKwh": 280,
+        "savings": 25
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.2,
+        "avgKwh": 302,
+        "savings": 27
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.8,
+        "avgKwh": 363,
+        "savings": 33
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 40
+      },
+      {
+        "month": "May",
+        "sunHours": 5.6,
+        "avgKwh": 529,
+        "savings": 48
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.2,
+        "avgKwh": 590,
+        "savings": 53
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.5,
+        "avgKwh": 612,
+        "savings": 55
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.2,
+        "avgKwh": 590,
+        "savings": 53
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.6,
+        "avgKwh": 529,
+        "savings": 48
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.7,
+        "avgKwh": 446,
+        "savings": 40
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.8,
+        "avgKwh": 363,
+        "savings": 33
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.2,
+        "avgKwh": 302,
+        "savings": 27
+      }
+    ],
+    "metaTitle": "Idaho Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Idaho solar: avg score 71/100. $612/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "wyoming": {
+    "id": 42,
+    "name": "Wyoming",
+    "slug": "wyoming",
+    "abbreviation": "WY",
+    "avgSolarScore": 75,
+    "avgSunHours": 5,
+    "avgAnnualSavings": 636,
+    "avgPaybackYears": 15.8,
+    "cityCount": 2,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Fair"
+    },
+    "topCities": [
+      {
+        "name": "Cheyenne",
+        "slug": "cheyenne",
+        "solarScore": 84,
+        "annualSavings": 1214
+      },
+      {
+        "name": "Casper",
+        "slug": "casper",
+        "solarScore": 82,
+        "annualSavings": 1192
+      }
+    ],
+    "installerCount": 86,
+    "rating": 4,
+    "pros": [
+      "75/100 average solar score across 2 analyzed cities",
+      "5 peak sun hours/day on average",
+      "$636/year average homeowner savings",
+      "254 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Wyoming incentives",
+      "86+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "15.8-year average payback period requires a long-term outlook",
+      "Seasonal sun-hour swings mean winter output is lower than summer",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 3.2,
+        "avgKwh": 307,
+        "savings": 30
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3.5,
+        "avgKwh": 329,
+        "savings": 33
+      },
+      {
+        "month": "Mar",
+        "sunHours": 4.1,
+        "avgKwh": 391,
+        "savings": 39
+      },
+      {
+        "month": "Apr",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 47
+      },
+      {
+        "month": "May",
+        "sunHours": 5.9,
+        "avgKwh": 559,
+        "savings": 55
+      },
+      {
+        "month": "Jun",
+        "sunHours": 6.5,
+        "avgKwh": 621,
+        "savings": 61
+      },
+      {
+        "month": "Jul",
+        "sunHours": 6.8,
+        "avgKwh": 643,
+        "savings": 64
+      },
+      {
+        "month": "Aug",
+        "sunHours": 6.5,
+        "avgKwh": 621,
+        "savings": 61
+      },
+      {
+        "month": "Sep",
+        "sunHours": 5.9,
+        "avgKwh": 559,
+        "savings": 55
+      },
+      {
+        "month": "Oct",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 47
+      },
+      {
+        "month": "Nov",
+        "sunHours": 4.1,
+        "avgKwh": 391,
+        "savings": 39
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3.5,
+        "avgKwh": 329,
+        "savings": 33
+      }
+    ],
+    "metaTitle": "Wyoming Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Wyoming solar: avg score 75/100. $636/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "washington": {
+    "id": 43,
+    "name": "Washington",
+    "slug": "washington",
+    "abbreviation": "WA",
+    "avgSolarScore": 44,
+    "avgSunHours": 3.2,
+    "avgAnnualSavings": 468,
+    "avgPaybackYears": 21.5,
+    "cityCount": 6,
+    "climateType": "Oceanic",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 142,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Spokane",
+        "slug": "spokane",
+        "solarScore": 65,
+        "annualSavings": 1021
+      },
+      {
+        "name": "Vancouver",
+        "slug": "vancouver",
+        "solarScore": 55,
+        "annualSavings": 882
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma",
+        "solarScore": 52,
+        "annualSavings": 836
+      },
+      {
+        "name": "Kent",
+        "slug": "kent",
+        "solarScore": 52,
+        "annualSavings": 836
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "solarScore": 51,
+        "annualSavings": 812
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle",
+        "solarScore": 44,
+        "annualSavings": 468
+      }
+    ],
+    "installerCount": 182,
+    "rating": 1,
+    "pros": [
+      "44/100 average solar score across 6 analyzed cities",
+      "3.2 peak sun hours/day on average",
+      "$468/year average homeowner savings",
+      "223 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Washington incentives",
+      "182+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "21.5-year average payback period requires a long-term outlook",
+      "142 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 1.9,
+        "avgKwh": 177,
+        "savings": 19
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2,
+        "avgKwh": 194,
+        "savings": 21
+      },
+      {
+        "month": "Mar",
+        "sunHours": 2.5,
+        "avgKwh": 241,
+        "savings": 26
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.2,
+        "avgKwh": 304,
+        "savings": 32
+      },
+      {
+        "month": "May",
+        "sunHours": 3.9,
+        "avgKwh": 367,
+        "savings": 39
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.4,
+        "avgKwh": 414,
+        "savings": 44
+      },
+      {
+        "month": "Jul",
+        "sunHours": 4.5,
+        "avgKwh": 431,
+        "savings": 46
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.4,
+        "avgKwh": 414,
+        "savings": 44
+      },
+      {
+        "month": "Sep",
+        "sunHours": 3.9,
+        "avgKwh": 367,
+        "savings": 39
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.2,
+        "avgKwh": 304,
+        "savings": 32
+      },
+      {
+        "month": "Nov",
+        "sunHours": 2.5,
+        "avgKwh": 241,
+        "savings": 26
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2,
+        "avgKwh": 194,
+        "savings": 21
+      }
+    ],
+    "metaTitle": "Washington Solar Potential | 6 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Washington solar: avg score 44/100. $468/yr savings. Full breakdown for all 6 analyzed cities."
+  },
+  "oregon": {
+    "id": 44,
+    "name": "Oregon",
+    "slug": "oregon",
+    "abbreviation": "OR",
+    "avgSolarScore": 48,
+    "avgSunHours": 3.4,
+    "avgAnnualSavings": 492,
+    "avgPaybackYears": 20.5,
+    "cityCount": 4,
+    "climateType": "Oceanic",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 139,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 900,
+      "energyTaxCredit": 600,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Bend",
+        "slug": "bend",
+        "solarScore": 76,
+        "annualSavings": 1262
+      },
+      {
+        "name": "Salem",
+        "slug": "salem",
+        "solarScore": 58,
+        "annualSavings": 990
+      },
+      {
+        "name": "Eugene",
+        "slug": "eugene",
+        "solarScore": 57,
+        "annualSavings": 965
+      },
+      {
+        "name": "Portland",
+        "slug": "portland",
+        "solarScore": 48,
+        "annualSavings": 492
+      }
+    ],
+    "installerCount": 132,
+    "rating": 2,
+    "pros": [
+      "48/100 average solar score across 4 analyzed cities",
+      "3.4 peak sun hours/day on average",
+      "$492/year average homeowner savings",
+      "226 sunny days per year",
+      "Federal 30% tax credit plus $1,000 in combined Oregon incentives",
+      "132+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "20.5-year average payback period requires a long-term outlook",
+      "139 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.1,
+        "avgKwh": 198,
+        "savings": 22
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.3,
+        "avgKwh": 215,
+        "savings": 24
+      },
+      {
+        "month": "Mar",
+        "sunHours": 2.7,
+        "avgKwh": 261,
+        "savings": 29
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.4,
+        "avgKwh": 323,
+        "savings": 36
+      },
+      {
+        "month": "May",
+        "sunHours": 4.1,
+        "avgKwh": 385,
+        "savings": 44
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.5,
+        "avgKwh": 431,
+        "savings": 49
+      },
+      {
+        "month": "Jul",
+        "sunHours": 4.7,
+        "avgKwh": 448,
+        "savings": 51
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.5,
+        "avgKwh": 431,
+        "savings": 49
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.1,
+        "avgKwh": 385,
+        "savings": 44
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.4,
+        "avgKwh": 323,
+        "savings": 36
+      },
+      {
+        "month": "Nov",
+        "sunHours": 2.7,
+        "avgKwh": 261,
+        "savings": 29
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.3,
+        "avgKwh": 215,
+        "savings": 24
+      }
+    ],
+    "metaTitle": "Oregon Solar Potential | 4 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Oregon solar: avg score 48/100. $492/yr savings. Full breakdown for all 4 analyzed cities."
+  },
+  "kentucky": {
+    "id": 45,
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "abbreviation": "KY",
+    "avgSolarScore": 62,
+    "avgSunHours": 4.1,
+    "avgAnnualSavings": 540,
+    "avgPaybackYears": 18.7,
+    "cityCount": 3,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 126,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Bowling Green",
+        "slug": "bowling-green",
+        "solarScore": 68,
+        "annualSavings": 1058
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington",
+        "solarScore": 66,
+        "annualSavings": 1035
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville",
+        "solarScore": 62,
+        "annualSavings": 540
+      }
+    ],
+    "installerCount": 106,
+    "rating": 3,
+    "pros": [
+      "62/100 average solar score across 3 analyzed cities",
+      "4.1 peak sun hours/day on average",
+      "$540/year average homeowner savings",
+      "239 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Kentucky incentives",
+      "106+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "18.7-year average payback period requires a long-term outlook",
+      "126 cloudy days/year can reduce output during parts of the year",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.9,
+        "avgKwh": 271,
+        "savings": 28
+      },
+      {
+        "month": "Feb",
+        "sunHours": 3,
+        "avgKwh": 287,
+        "savings": 30
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.5,
+        "avgKwh": 330,
+        "savings": 35
+      },
+      {
+        "month": "Apr",
+        "sunHours": 4.1,
+        "avgKwh": 389,
+        "savings": 41
+      },
+      {
+        "month": "May",
+        "sunHours": 4.7,
+        "avgKwh": 448,
+        "savings": 47
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.2,
+        "avgKwh": 491,
+        "savings": 52
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.3,
+        "avgKwh": 507,
+        "savings": 53
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.2,
+        "avgKwh": 491,
+        "savings": 52
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.7,
+        "avgKwh": 448,
+        "savings": 47
+      },
+      {
+        "month": "Oct",
+        "sunHours": 4.1,
+        "avgKwh": 389,
+        "savings": 41
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.5,
+        "avgKwh": 330,
+        "savings": 35
+      },
+      {
+        "month": "Dec",
+        "sunHours": 3,
+        "avgKwh": 287,
+        "savings": 30
+      }
+    ],
+    "metaTitle": "Kentucky Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Kentucky solar: avg score 62/100. $540/yr savings. Full breakdown for all 3 analyzed cities."
+  },
+  "west-virginia": {
+    "id": 46,
+    "name": "West Virginia",
+    "slug": "west-virginia",
+    "abbreviation": "WV",
+    "avgSolarScore": 56,
+    "avgSunHours": 3.8,
+    "avgAnnualSavings": 516,
+    "avgPaybackYears": 19.4,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 68,
+    "cloudyDaysPerYear": 132,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Charleston",
+        "slug": "charleston",
+        "solarScore": 62,
+        "annualSavings": 855
+      },
+      {
+        "name": "Huntington",
+        "slug": "huntington",
+        "solarScore": 62,
+        "annualSavings": 855
+      }
+    ],
+    "installerCount": 68,
+    "rating": 2,
+    "pros": [
+      "56/100 average solar score across 2 analyzed cities",
+      "3.8 peak sun hours/day on average",
+      "$516/year average homeowner savings",
+      "233 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined West Virginia incentives",
+      "68+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "19.4-year average payback period requires a long-term outlook",
+      "132 cloudy days/year can reduce output during parts of the year",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.6,
+        "avgKwh": 249,
+        "savings": 23
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.8,
+        "avgKwh": 264,
+        "savings": 25
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.2,
+        "avgKwh": 305,
+        "savings": 28
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 34
+      },
+      {
+        "month": "May",
+        "sunHours": 4.4,
+        "avgKwh": 417,
+        "savings": 39
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.8,
+        "avgKwh": 458,
+        "savings": 43
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5,
+        "avgKwh": 473,
+        "savings": 44
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.8,
+        "avgKwh": 458,
+        "savings": 43
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.4,
+        "avgKwh": 417,
+        "savings": 39
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 34
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.2,
+        "avgKwh": 305,
+        "savings": 28
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.8,
+        "avgKwh": 264,
+        "savings": 25
+      }
+    ],
+    "metaTitle": "West Virginia Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "West Virginia solar: avg score 56/100. $516/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "vermont": {
+    "id": 47,
+    "name": "Vermont",
+    "slug": "vermont",
+    "abbreviation": "VT",
+    "avgSolarScore": 56,
+    "avgSunHours": 3.8,
+    "avgAnnualSavings": 720,
+    "avgPaybackYears": 16.7,
+    "cityCount": 1,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 132,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Excellent"
+    },
+    "topCities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington",
+        "solarScore": 57,
+        "annualSavings": 1631
+      }
+    ],
+    "installerCount": 32,
+    "rating": 2,
+    "pros": [
+      "56/100 average solar score across 1 analyzed cities",
+      "3.8 peak sun hours/day on average",
+      "$720/year average homeowner savings",
+      "233 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Vermont incentives",
+      "32+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.7-year average payback period requires a long-term outlook",
+      "132 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.3,
+        "avgKwh": 222,
+        "savings": 42
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.5,
+        "avgKwh": 241,
+        "savings": 46
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.1,
+        "avgKwh": 292,
+        "savings": 56
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 69
+      },
+      {
+        "month": "May",
+        "sunHours": 4.5,
+        "avgKwh": 430,
+        "savings": 82
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5.1,
+        "avgKwh": 481,
+        "savings": 92
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.3,
+        "avgKwh": 500,
+        "savings": 96
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5.1,
+        "avgKwh": 481,
+        "savings": 92
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.5,
+        "avgKwh": 430,
+        "savings": 82
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 69
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.1,
+        "avgKwh": 292,
+        "savings": 56
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.5,
+        "avgKwh": 241,
+        "savings": 46
+      }
+    ],
+    "metaTitle": "Vermont Solar Potential | 1 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Vermont solar: avg score 56/100. $720/yr savings. Full breakdown for all 1 analyzed cities."
+  },
+  "new-hampshire": {
+    "id": 48,
+    "name": "New Hampshire",
+    "slug": "new-hampshire",
+    "abbreviation": "NH",
+    "avgSolarScore": 57,
+    "avgSunHours": 3.8,
+    "avgAnnualSavings": 732,
+    "avgPaybackYears": 16.4,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 132,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester",
+        "solarScore": 58,
+        "annualSavings": 1778
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua",
+        "solarScore": 58,
+        "annualSavings": 1778
+      }
+    ],
+    "installerCount": 65,
+    "rating": 2,
+    "pros": [
+      "57/100 average solar score across 2 analyzed cities",
+      "3.8 peak sun hours/day on average",
+      "$732/year average homeowner savings",
+      "233 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined New Hampshire incentives",
+      "65+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "16.4-year average payback period requires a long-term outlook",
+      "132 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.4,
+        "avgKwh": 229,
+        "savings": 46
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.6,
+        "avgKwh": 247,
+        "savings": 50
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3.1,
+        "avgKwh": 295,
+        "savings": 60
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 73
+      },
+      {
+        "month": "May",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 87
+      },
+      {
+        "month": "Jun",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 96
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.2,
+        "avgKwh": 493,
+        "savings": 100
+      },
+      {
+        "month": "Aug",
+        "sunHours": 5,
+        "avgKwh": 475,
+        "savings": 96
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.5,
+        "avgKwh": 427,
+        "savings": 87
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.8,
+        "avgKwh": 361,
+        "savings": 73
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3.1,
+        "avgKwh": 295,
+        "savings": 60
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.6,
+        "avgKwh": 247,
+        "savings": 50
+      }
+    ],
+    "metaTitle": "New Hampshire Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "New Hampshire solar: avg score 57/100. $732/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "maine": {
+    "id": 49,
+    "name": "Maine",
+    "slug": "maine",
+    "abbreviation": "ME",
+    "avgSolarScore": 55,
+    "avgSunHours": 3.7,
+    "avgAnnualSavings": 696,
+    "avgPaybackYears": 17.3,
+    "cityCount": 2,
+    "climateType": "Humid Continental",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 133,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Good"
+    },
+    "topCities": [
+      {
+        "name": "Portland",
+        "slug": "portland",
+        "solarScore": 58,
+        "annualSavings": 1533
+      },
+      {
+        "name": "Lewiston",
+        "slug": "lewiston",
+        "solarScore": 57,
+        "annualSavings": 1495
+      }
+    ],
+    "installerCount": 64,
+    "rating": 2,
+    "pros": [
+      "55/100 average solar score across 2 analyzed cities",
+      "3.7 peak sun hours/day on average",
+      "$696/year average homeowner savings",
+      "232 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Maine incentives",
+      "64+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "17.3-year average payback period requires a long-term outlook",
+      "133 cloudy days/year can reduce output during parts of the year",
+      "Net metering varies by utility provider \u2014 confirm terms before signing",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 2.3,
+        "avgKwh": 219,
+        "savings": 38
+      },
+      {
+        "month": "Feb",
+        "sunHours": 2.5,
+        "avgKwh": 237,
+        "savings": 41
+      },
+      {
+        "month": "Mar",
+        "sunHours": 3,
+        "avgKwh": 285,
+        "savings": 50
+      },
+      {
+        "month": "Apr",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 61
+      },
+      {
+        "month": "May",
+        "sunHours": 4.4,
+        "avgKwh": 417,
+        "savings": 73
+      },
+      {
+        "month": "Jun",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 81
+      },
+      {
+        "month": "Jul",
+        "sunHours": 5.1,
+        "avgKwh": 483,
+        "savings": 85
+      },
+      {
+        "month": "Aug",
+        "sunHours": 4.9,
+        "avgKwh": 465,
+        "savings": 81
+      },
+      {
+        "month": "Sep",
+        "sunHours": 4.4,
+        "avgKwh": 417,
+        "savings": 73
+      },
+      {
+        "month": "Oct",
+        "sunHours": 3.7,
+        "avgKwh": 351,
+        "savings": 61
+      },
+      {
+        "month": "Nov",
+        "sunHours": 3,
+        "avgKwh": 285,
+        "savings": 50
+      },
+      {
+        "month": "Dec",
+        "sunHours": 2.5,
+        "avgKwh": 237,
+        "savings": 41
+      }
+    ],
+    "metaTitle": "Maine Solar Potential | 2 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Maine solar: avg score 55/100. $696/yr savings. Full breakdown for all 2 analyzed cities."
+  },
+  "alaska": {
+    "id": 50,
+    "name": "Alaska",
+    "slug": "alaska",
+    "abbreviation": "AK",
+    "avgSolarScore": 20,
+    "avgSunHours": 2.1,
+    "avgAnnualSavings": 264,
+    "avgPaybackYears": 45.5,
+    "cityCount": 3,
+    "climateType": "Subarctic",
+    "avgTemperature": 58,
+    "cloudyDaysPerYear": 161,
+    "rainyDaysPerYear": 150,
+    "stateIncentives": {
+      "propertyTaxExemption": 700,
+      "energyTaxCredit": 300,
+      "netMetering": "Limited"
+    },
+    "topCities": [
+      {
+        "name": "Fairbanks",
+        "slug": "fairbanks",
+        "solarScore": 44,
+        "annualSavings": 1548
+      },
+      {
+        "name": "Anchorage",
+        "slug": "anchorage",
+        "solarScore": 41,
+        "annualSavings": 1448
+      },
+      {
+        "name": "Juneau",
+        "slug": "juneau",
+        "solarScore": 38,
+        "annualSavings": 1348
+      }
+    ],
+    "installerCount": 76,
+    "rating": 1,
+    "pros": [
+      "20/100 average solar score across 3 analyzed cities",
+      "2.1 peak sun hours/day on average",
+      "$264/year average homeowner savings",
+      "204 sunny days per year",
+      "Federal 30% tax credit plus $500 in combined Alaska incentives",
+      "76+ active solar installers for competitive quotes"
+    ],
+    "cons": [
+      "45.5-year average payback period requires a long-term outlook",
+      "161 cloudy days/year can reduce output during parts of the year",
+      "Net metering policy is rated \"Limited\" \u2014 export credit value varies by utility",
+      "Panel degradation (~0.5%/year) gradually reduces output over the system's lifetime"
+    ],
+    "monthlyData": [
+      {
+        "month": "Jan",
+        "sunHours": 1.2,
+        "avgKwh": 109,
+        "savings": 25
+      },
+      {
+        "month": "Feb",
+        "sunHours": 1.3,
+        "avgKwh": 121,
+        "savings": 28
+      },
+      {
+        "month": "Mar",
+        "sunHours": 1.6,
+        "avgKwh": 154,
+        "savings": 35
+      },
+      {
+        "month": "Apr",
+        "sunHours": 2.1,
+        "avgKwh": 199,
+        "savings": 45
+      },
+      {
+        "month": "May",
+        "sunHours": 2.6,
+        "avgKwh": 244,
+        "savings": 56
+      },
+      {
+        "month": "Jun",
+        "sunHours": 2.9,
+        "avgKwh": 277,
+        "savings": 63
+      },
+      {
+        "month": "Jul",
+        "sunHours": 3,
+        "avgKwh": 289,
+        "savings": 66
+      },
+      {
+        "month": "Aug",
+        "sunHours": 2.9,
+        "avgKwh": 277,
+        "savings": 63
+      },
+      {
+        "month": "Sep",
+        "sunHours": 2.6,
+        "avgKwh": 244,
+        "savings": 56
+      },
+      {
+        "month": "Oct",
+        "sunHours": 2.1,
+        "avgKwh": 199,
+        "savings": 45
+      },
+      {
+        "month": "Nov",
+        "sunHours": 1.6,
+        "avgKwh": 154,
+        "savings": 35
+      },
+      {
+        "month": "Dec",
+        "sunHours": 1.3,
+        "avgKwh": 121,
+        "savings": 28
+      }
+    ],
+    "metaTitle": "Alaska Solar Potential | 3 Cities Analyzed | SolarAtlas",
+    "metaDescription": "Alaska solar: avg score 20/100. $264/yr savings. Full breakdown for all 3 analyzed cities."
+  }
+}
