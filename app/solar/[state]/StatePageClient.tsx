@@ -96,7 +96,7 @@ function FAQItem({ q, a, open, onToggle }: { q: string; a: string; open: boolean
 
 // ─── Main component ───────────────────────────────────────────────────────────
 
-export default function StatePageClient({ state }: { state: StateData }) {
+export default function StatePageClient({ state, faqItems }: { state: StateData; faqItems: { q: string; a: string }[] }) {
   const monthlyData = state.monthlyData
 
   const [openFaq, setOpenFaq] = useState<number | null>(null)
@@ -104,34 +104,6 @@ export default function StatePageClient({ state }: { state: StateData }) {
   const FEDERAL_CREDIT = 0.30
   const SYSTEM_COST = 12000
   const netCost = SYSTEM_COST - SYSTEM_COST * FEDERAL_CREDIT - state.stateIncentives.energyTaxCredit - state.stateIncentives.propertyTaxExemption
-
-  const faqItems = [
-    {
-      q: `Is solar worth it in ${state.name}?`,
-      a: `Absolutely. ${state.name} ranks with a ${state.avgSolarScore}/100 score and ${state.avgSunHours} peak sun hours daily. Average homeowners save $${state.avgAnnualSavings}/year, with a payback period of ${state.avgPaybackYears} years.`,
-    },
-    {
-      q: `What incentives are available in ${state.name}?`,
-      a: `${state.name} residents qualify for the federal 30% tax credit ($3,600 on a $12,000 system) plus a $${state.stateIncentives.propertyTaxExemption.toLocaleString()} property tax exemption and $${state.stateIncentives.energyTaxCredit.toLocaleString()} state energy credit. Net metering is rated "${state.stateIncentives.netMetering}".`,
-    },
-    {
-      q: `How many installers operate in ${state.name}?`,
-      a: `There are roughly ${state.installerCount} licensed solar installers active across ${state.name}. Major national operators include Sunrun, Tesla, SunPower, and Palmetto, alongside local firms with lower overhead costs.`,
-    },
-    {
-      q: `What's the best time of year for solar in ${state.name}?`,
-      a: `Peak production occurs in summer months (June–August) when sun hours reach ${Math.max(...monthlyData.map(m => m.sunHours))} hours/day. Even in ${state.name}'s slowest month the output is still viable at ${Math.min(...monthlyData.map(m => m.sunHours))} hours/day.`,
-    },
-    {
-      q: `Does ${state.name} allow net metering?`,
-      a: `Yes. Net metering in ${state.name} is rated "${state.stateIncentives.netMetering}". Excess solar power exported to the grid earns credits on your utility bill, improving overall ROI.`,
-    },
-    {
-      q: `What system size do most ${state.name} homeowners install?`,
-      a: `Most ${state.name} homeowners install 4–8 kW systems. Given ${state.avgSunHours} peak sun hours, a 6 kW system produces about ${Math.round(state.avgSunHours * 6 * 365)} kWh/year — enough to cover most of an average home's consumption.`,
-    },
-  ]
-
   return (
     <div className="min-h-screen bg-slate-900 text-white">
 

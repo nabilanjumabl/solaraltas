@@ -18,7 +18,6 @@ export const metadata: Metadata = {
   openGraph: {
     title: "SolarAtlas — America's Solar Potential Database",
     description: `Solar analysis for ${REAL_CITY_COUNT} US cities. Free calculator, no signup.`,
-    images: [{ url: '/og-homepage.png', width: 1200, height: 630 }],
   },
 }
 

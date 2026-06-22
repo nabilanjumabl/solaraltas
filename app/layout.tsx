@@ -2,38 +2,36 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import { allCities } from '@/lib/data'
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' })
 
+const SITE_URL = 'https://solaraltas.vercel.app'
+const CITY_COUNT = allCities.length
+
 export const metadata: Metadata = {
-  metadataBase: new URL('https://solaratlas.com'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'SolarAtlas — America\'s Solar Potential Database',
     template: '%s | SolarAtlas',
   },
-  description: 'Free solar potential analysis for 24,847 US cities. Savings calculator, installer comparison, and NREL-powered data — no signup required.',
+  description: `Free solar potential analysis for ${CITY_COUNT} US cities across all 50 states. Savings calculator, installer comparison, and NREL-powered data — no signup required.`,
   keywords: ['solar potential', 'solar savings calculator', 'solar panels', 'solar energy', 'solar ROI'],
   openGraph: {
     type: 'website',
     siteName: 'SolarAtlas',
-    images: [{ url: '/og-default.png', width: 1200, height: 630 }],
+    url: SITE_URL,
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@solaratlas',
   },
   other: {
     'application/ld+json': JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'WebSite',
       name: 'SolarAtlas',
-      url: 'https://solaratlas.com',
-      description: 'Solar potential database for 24,847 US cities',
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: 'https://solaratlas.com/search?q={search_term_string}',
-        'query-input': 'required name=search_term_string',
-      },
+      url: SITE_URL,
+      description: `Solar potential database for ${CITY_COUNT} US cities`,
     }),
   },
 }

@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/_next/'],
       },
     ],
-    sitemap: 'https://solaratlas.com/sitemap.xml',
+    sitemap: 'https://solaraltas.vercel.app/sitemap.xml',
   }
 }

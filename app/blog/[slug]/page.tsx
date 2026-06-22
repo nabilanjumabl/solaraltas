@@ -3,6 +3,7 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+import sanitizeHtml from 'sanitize-html'
 
 interface BlogPost {
   slug: string
@@ -14,6 +15,8 @@ interface BlogPost {
   date: string
   published: boolean
 }
+
+const SITE_URL = 'https://solaraltas.vercel.app'
 
 function getAllPosts(): BlogPost[] {
   const dir = path.join(process.cwd(), 'data', 'blog')
@@ -34,6 +37,21 @@ function getPostBySlug(slug: string): BlogPost | undefined {
   return getAllPosts().find(p => p.slug === slug)
 }
 
+// Only allow a safe, known subset of tags/attributes — defense in depth
+// against anything unexpected coming out of the AI generation pipeline.
+function sanitizeContent(html: string): string {
+  return sanitizeHtml(html, {
+    allowedTags: ['h2', 'h3', 'p', 'ul', 'ol', 'li', 'strong', 'em', 'br', 'a'],
+    allowedAttributes: {
+      a: ['href', 'rel', 'target'],
+    },
+    allowedSchemes: ['http', 'https', 'mailto'],
+    transformTags: {
+      a: sanitizeHtml.simpleTransform('a', { rel: 'noopener noreferrer' }),
+    },
+  })
+}
+
 export async function generateStaticParams() {
   return getAllPosts().map(p => ({ slug: p.slug }))
 }
@@ -50,7 +68,7 @@ export async function generateMetadata(
     title: `${post.title} | SolarAtlas Blog`,
     description: post.excerpt,
     alternates: {
-      canonical: `https://solaraltas.vercel.app/blog/${slug}`,
+      canonical: `${SITE_URL}/blog/${slug}`,
     },
   }
 }
@@ -65,8 +83,35 @@ export default async function BlogPostPage(
     notFound()
   }
 
+  const safeContent = sanitizeContent(post.content)
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'SolarAtlas', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+      { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/blog/${slug}` },
+    ],
+  }
+
+  const blogPostingSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: { '@type': 'Organization', name: 'SolarAtlas' },
+    publisher: { '@type': 'Organization', name: 'SolarAtlas' },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/blog/${slug}` },
+  }
+
   return (
     <div className="min-h-screen bg-slate-900 text-white px-6 py-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }} />
+
       <article className="max-w-3xl mx-auto">
         <div className="text-sm text-slate-400 mb-8">
           <Link href="/" className="hover:text-white transition">SolarAtlas</Link>
@@ -89,7 +134,7 @@ export default async function BlogPostPage(
 
         <div
           className="prose prose-invert prose-emerald max-w-none text-slate-300 leading-relaxed [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-white [&_h2]:mt-8 [&_h2]:mb-4 [&_p]:mb-4"
-          dangerouslySetInnerHTML={{ __html: post.content }}
+          dangerouslySetInnerHTML={{ __html: safeContent }}
         />
 
         <div className="mt-16 pt-8 border-t border-slate-800 flex items-center justify-between">

@@ -82,7 +82,7 @@ function FAQItem({ q, a, open, onToggle }: { q: string; a: string; open: boolean
 
 // ─── Main component ───────────────────────────────────────────────────────────
 
-export default function CityPageClient({ city }: { city: CityData }) {
+export default function CityPageClient({ city, faqItems }: { city: CityData; faqItems: { q: string; a: string }[] }) {
   const verdict = getVerdict(city.solarScore)
 
   // Calculator state
@@ -118,33 +118,6 @@ export default function CityPageClient({ city }: { city: CityData }) {
     { label: 'Federal tax credit (30%)', value: -Math.round(calcSystemCost * 0.3), type: 'credit' },
     { label: `${city.state} state incentives`, value: -city.stateIncentives, type: 'credit' },
     { label: 'Your net investment', value: calcAfterCredit, type: 'total' },
-  ]
-
-  const faqItems = [
-    {
-      q: `Is solar worth it in ${city.name}?`,
-      a: `Yes — ${city.name} scores ${city.solarScore}/100 with ${city.peakSunHours} peak sun hours/day. At $0.${Math.round(city.avgElectricRate * 100)} per kWh and $${city.annualSavings}/year average savings, most homeowners break even in ${city.paybackYears} years.`,
-    },
-    {
-      q: `How much does a solar system cost in ${city.name}?`,
-      a: `A 4 kW system in ${city.name} costs ~$12,000 gross. After the 30% federal tax credit ($3,600) and $${city.stateIncentives.toLocaleString()} in ${city.state} incentives, your net cost is ~$${city.netCost.toLocaleString()}.`,
-    },
-    {
-      q: `What's the payback period in ${city.name}?`,
-      a: `Based on current electricity rates ($0.${Math.round(city.avgElectricRate * 100)}/kWh) and ${city.peakSunHours} sun hours, a standard 4 kW system pays back in ${city.paybackYears} years. Adjust the calculator above for your exact situation.`,
-    },
-    {
-      q: `Who are the top solar installers in ${city.name}?`,
-      a: `${city.topInstallers.join(', ')} all operate in ${city.name}. We recommend getting 3+ quotes — local installers often beat national brands on price by 10–20%.`,
-    },
-    {
-      q: `Does ${city.name} have good net metering?`,
-      a: `${city.state} has a rated net metering policy. Excess energy you export earns retail-rate credits on your bill, directly reducing your payback period.`,
-    },
-    {
-      q: `What system size do most ${city.name} homeowners install?`,
-      a: `Most ${city.name} homeowners with average usage install 5–7 kW. At ${city.peakSunHours} sun hours, a 6 kW system produces ~${Math.round(city.peakSunHours * 6 * 365).toLocaleString()} kWh/year — enough for most homes.`,
-    },
   ]
 
   return (
