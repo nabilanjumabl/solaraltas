@@ -25,6 +25,9 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
   },
+  verification: {                                          
+    google: 'c9Dh8r8VheKsub58O2tIGx04Mw-0IUgs7pkSkbhUglU',
+  },
   other: {
     'application/ld+json': JSON.stringify({
       '@context': 'https://schema.org',
