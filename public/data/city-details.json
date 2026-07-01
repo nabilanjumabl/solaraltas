@@ -22798,5 +22798,8015 @@
     "metaTitle": "Solar Potential in Casper, WY | 82/100 | SolarAtlas",
     "metaDescription": "Casper solar score: 82/100. Save $620/year. 5.5 peak sun hours. Free interactive calculator & installer comparison.",
     "localInsight": "Owning solar panels in Casper means navigating semi-arid climate extremes. Local snowload requirements dictate thicker panel mounts to withstand heavy winter snows that occasionally follow the 102 cloudy days per year."
+  },
+  "new-mexico/roswell": {
+    "id": 229,
+    "name": "Roswell",
+    "slug": "roswell",
+    "state": "New Mexico",
+    "stateSlug": "new-mexico",
+    "stateAbbr": "NM",
+    "solarScore": 98,
+    "peakSunHours": 6.5,
+    "annualKwhPerKw": 1851,
+    "avgElectricRate": 0.128,
+    "annualSavings": 948,
+    "paybackYears": 7.8,
+    "savings25Year": 35485,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      462,
+      483,
+      540,
+      617,
+      694,
+      751,
+      772,
+      751,
+      694,
+      617,
+      540,
+      483
+    ],
+    "monthlySunHours": [
+      4.9,
+      5.1,
+      5.7,
+      6.5,
+      7.3,
+      7.9,
+      8.1,
+      7.9,
+      7.3,
+      6.5,
+      5.7,
+      5.1
+    ],
+    "cloudyDaysPerYear": 85,
+    "rainyDaysPerYear": 36,
+    "installerCount": 123,
+    "climateType": "Arid",
+    "avgTemperature": 70,
+    "humidity": 22,
+    "nearByCities": [
+      {
+        "name": "Las Cruces",
+        "slug": "las-cruces",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "El Paso",
+        "slug": "el-paso",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Albuquerque",
+        "slug": "albuquerque",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Roswell, NM | 98/100 | SolarAtlas",
+    "metaDescription": "Roswell solar score: 98/100. Save $948/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "new-mexico/rio-rancho": {
+    "id": 230,
+    "name": "Rio Rancho",
+    "slug": "rio-rancho",
+    "state": "New Mexico",
+    "stateSlug": "new-mexico",
+    "stateAbbr": "NM",
+    "solarScore": 95,
+    "peakSunHours": 6.3,
+    "annualKwhPerKw": 1794,
+    "avgElectricRate": 0.128,
+    "annualSavings": 919,
+    "paybackYears": 8.1,
+    "savings25Year": 34400,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      435,
+      457,
+      516,
+      598,
+      680,
+      739,
+      761,
+      739,
+      680,
+      598,
+      516,
+      457
+    ],
+    "monthlySunHours": [
+      4.6,
+      4.8,
+      5.4,
+      6.3,
+      7.2,
+      7.8,
+      8,
+      7.8,
+      7.2,
+      6.3,
+      5.4,
+      4.8
+    ],
+    "cloudyDaysPerYear": 88,
+    "rainyDaysPerYear": 46,
+    "installerCount": 120,
+    "climateType": "Arid",
+    "avgTemperature": 70,
+    "humidity": 22,
+    "nearByCities": [
+      {
+        "name": "Albuquerque",
+        "slug": "albuquerque",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Santa Fe",
+        "slug": "santa-fe",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Roswell",
+        "slug": "roswell",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Las Cruces",
+        "slug": "las-cruces",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Pueblo",
+        "slug": "pueblo",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Rio Rancho, NM | 95/100 | SolarAtlas",
+    "metaDescription": "Rio Rancho solar score: 95/100. Save $919/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "new-mexico/farmington": {
+    "id": 231,
+    "name": "Farmington",
+    "slug": "farmington",
+    "state": "New Mexico",
+    "stateSlug": "new-mexico",
+    "stateAbbr": "NM",
+    "solarScore": 96,
+    "peakSunHours": 6.4,
+    "annualKwhPerKw": 1822,
+    "avgElectricRate": 0.128,
+    "annualSavings": 933,
+    "paybackYears": 7.9,
+    "savings25Year": 34924,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      431,
+      454,
+      519,
+      607,
+      696,
+      760,
+      784,
+      760,
+      696,
+      607,
+      519,
+      454
+    ],
+    "monthlySunHours": [
+      4.5,
+      4.8,
+      5.5,
+      6.4,
+      7.3,
+      8,
+      8.3,
+      8,
+      7.3,
+      6.4,
+      5.5,
+      4.8
+    ],
+    "cloudyDaysPerYear": 87,
+    "rainyDaysPerYear": 41,
+    "installerCount": 121,
+    "climateType": "Arid",
+    "avgTemperature": 70,
+    "humidity": 22,
+    "nearByCities": [
+      {
+        "name": "Rio Rancho",
+        "slug": "rio-rancho",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Albuquerque",
+        "slug": "albuquerque",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Santa Fe",
+        "slug": "santa-fe",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Flagstaff",
+        "slug": "flagstaff",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Pueblo",
+        "slug": "pueblo",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Farmington, NM | 96/100 | SolarAtlas",
+    "metaDescription": "Farmington solar score: 96/100. Save $933/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "new-mexico/clovis": {
+    "id": 232,
+    "name": "Clovis",
+    "slug": "clovis",
+    "state": "New Mexico",
+    "stateSlug": "new-mexico",
+    "stateAbbr": "NM",
+    "solarScore": 99,
+    "peakSunHours": 6.6,
+    "annualKwhPerKw": 1879,
+    "avgElectricRate": 0.128,
+    "annualSavings": 962,
+    "paybackYears": 7.7,
+    "savings25Year": 36010,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      462,
+      484,
+      544,
+      626,
+      709,
+      769,
+      791,
+      769,
+      709,
+      626,
+      544,
+      484
+    ],
+    "monthlySunHours": [
+      4.9,
+      5.1,
+      5.7,
+      6.6,
+      7.5,
+      8.1,
+      8.3,
+      8.1,
+      7.5,
+      6.6,
+      5.7,
+      5.1
+    ],
+    "cloudyDaysPerYear": 83,
+    "rainyDaysPerYear": 31,
+    "installerCount": 124,
+    "climateType": "Arid",
+    "avgTemperature": 70,
+    "humidity": 22,
+    "nearByCities": [
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Amarillo",
+        "slug": "amarillo",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Roswell",
+        "slug": "roswell",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Santa Fe",
+        "slug": "santa-fe",
+        "stateSlug": "new-mexico"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Clovis, NM | 99/100 | SolarAtlas",
+    "metaDescription": "Clovis solar score: 99/100. Save $962/year. 6.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/gilbert": {
+    "id": 233,
+    "name": "Gilbert",
+    "slug": "gilbert",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 98,
+    "peakSunHours": 6.5,
+    "annualKwhPerKw": 1851,
+    "avgElectricRate": 0.121,
+    "annualSavings": 896,
+    "paybackYears": 8.3,
+    "savings25Year": 33539,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      463,
+      483,
+      540,
+      617,
+      694,
+      751,
+      771,
+      751,
+      694,
+      617,
+      540,
+      483
+    ],
+    "monthlySunHours": [
+      4.9,
+      5.1,
+      5.7,
+      6.5,
+      7.3,
+      7.9,
+      8.1,
+      7.9,
+      7.3,
+      6.5,
+      5.7,
+      5.1
+    ],
+    "cloudyDaysPerYear": 85,
+    "rainyDaysPerYear": 36,
+    "installerCount": 123,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Chandler",
+        "slug": "chandler",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Gilbert, AZ | 98/100 | SolarAtlas",
+    "metaDescription": "Gilbert solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/avondale": {
+    "id": 234,
+    "name": "Avondale",
+    "slug": "avondale",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 96,
+    "peakSunHours": 6.4,
+    "annualKwhPerKw": 1822,
+    "avgElectricRate": 0.121,
+    "annualSavings": 882,
+    "paybackYears": 8.4,
+    "savings25Year": 33015,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      455,
+      475,
+      531,
+      607,
+      684,
+      739,
+      760,
+      739,
+      684,
+      607,
+      531,
+      475
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.6,
+      6.4,
+      7.2,
+      7.8,
+      8,
+      7.8,
+      7.2,
+      6.4,
+      5.6,
+      5
+    ],
+    "cloudyDaysPerYear": 87,
+    "rainyDaysPerYear": 41,
+    "installerCount": 121,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Avondale, AZ | 96/100 | SolarAtlas",
+    "metaDescription": "Avondale solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/goodyear": {
+    "id": 235,
+    "name": "Goodyear",
+    "slug": "goodyear",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 96,
+    "peakSunHours": 6.4,
+    "annualKwhPerKw": 1822,
+    "avgElectricRate": 0.121,
+    "annualSavings": 882,
+    "paybackYears": 8.4,
+    "savings25Year": 33015,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      455,
+      475,
+      531,
+      607,
+      684,
+      739,
+      760,
+      739,
+      684,
+      607,
+      531,
+      475
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.6,
+      6.4,
+      7.2,
+      7.8,
+      8,
+      7.8,
+      7.2,
+      6.4,
+      5.6,
+      5
+    ],
+    "cloudyDaysPerYear": 87,
+    "rainyDaysPerYear": 41,
+    "installerCount": 121,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Avondale",
+        "slug": "avondale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Goodyear, AZ | 96/100 | SolarAtlas",
+    "metaDescription": "Goodyear solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/buckeye": {
+    "id": 236,
+    "name": "Buckeye",
+    "slug": "buckeye",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 96,
+    "peakSunHours": 6.4,
+    "annualKwhPerKw": 1822,
+    "avgElectricRate": 0.121,
+    "annualSavings": 882,
+    "paybackYears": 8.4,
+    "savings25Year": 33015,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      455,
+      476,
+      531,
+      607,
+      683,
+      739,
+      759,
+      739,
+      683,
+      607,
+      531,
+      476
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.6,
+      6.4,
+      7.2,
+      7.8,
+      8,
+      7.8,
+      7.2,
+      6.4,
+      5.6,
+      5
+    ],
+    "cloudyDaysPerYear": 87,
+    "rainyDaysPerYear": 41,
+    "installerCount": 121,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Goodyear",
+        "slug": "goodyear",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Avondale",
+        "slug": "avondale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Buckeye, AZ | 96/100 | SolarAtlas",
+    "metaDescription": "Buckeye solar score: 96/100. Save $882/year. 6.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/lake-havasu-city": {
+    "id": 237,
+    "name": "Lake Havasu City",
+    "slug": "lake-havasu-city",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 100,
+    "peakSunHours": 6.8,
+    "annualKwhPerKw": 1936,
+    "avgElectricRate": 0.121,
+    "annualSavings": 937,
+    "paybackYears": 7.9,
+    "savings25Year": 35074,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      475,
+      498,
+      560,
+      645,
+      730,
+      793,
+      816,
+      793,
+      730,
+      645,
+      560,
+      498
+    ],
+    "monthlySunHours": [
+      5,
+      5.2,
+      5.9,
+      6.8,
+      7.7,
+      8.4,
+      8.6,
+      8.4,
+      7.7,
+      6.8,
+      5.9,
+      5.2
+    ],
+    "cloudyDaysPerYear": 80,
+    "rainyDaysPerYear": 21,
+    "installerCount": 125,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Henderson",
+        "slug": "henderson",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Yuma",
+        "slug": "yuma",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Buckeye",
+        "slug": "buckeye",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Lake Havasu City, AZ | 100/100 | SolarAtlas",
+    "metaDescription": "Lake Havasu City solar score: 100/100. Save $937/year. 6.8 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/prescott": {
+    "id": 238,
+    "name": "Prescott",
+    "slug": "prescott",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 90,
+    "peakSunHours": 6,
+    "annualKwhPerKw": 1708,
+    "avgElectricRate": 0.121,
+    "annualSavings": 827,
+    "paybackYears": 8.9,
+    "savings25Year": 30956,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      419,
+      439,
+      494,
+      569,
+      645,
+      700,
+      720,
+      700,
+      645,
+      569,
+      494,
+      439
+    ],
+    "monthlySunHours": [
+      4.4,
+      4.6,
+      5.2,
+      6,
+      6.8,
+      7.4,
+      7.6,
+      7.4,
+      6.8,
+      6,
+      5.2,
+      4.6
+    ],
+    "cloudyDaysPerYear": 94,
+    "rainyDaysPerYear": 61,
+    "installerCount": 115,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Surprise",
+        "slug": "surprise",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Flagstaff",
+        "slug": "flagstaff",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Goodyear",
+        "slug": "goodyear",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Prescott, AZ | 90/100 | SolarAtlas",
+    "metaDescription": "Prescott solar score: 90/100. Save $827/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/maricopa": {
+    "id": 239,
+    "name": "Maricopa",
+    "slug": "maricopa",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 98,
+    "peakSunHours": 6.5,
+    "annualKwhPerKw": 1851,
+    "avgElectricRate": 0.121,
+    "annualSavings": 896,
+    "paybackYears": 8.3,
+    "savings25Year": 33539,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      465,
+      485,
+      541,
+      617,
+      693,
+      749,
+      769,
+      749,
+      693,
+      617,
+      541,
+      485
+    ],
+    "monthlySunHours": [
+      4.9,
+      5.1,
+      5.7,
+      6.5,
+      7.3,
+      7.9,
+      8.1,
+      7.9,
+      7.3,
+      6.5,
+      5.7,
+      5.1
+    ],
+    "cloudyDaysPerYear": 85,
+    "rainyDaysPerYear": 36,
+    "installerCount": 123,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Chandler",
+        "slug": "chandler",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Maricopa, AZ | 98/100 | SolarAtlas",
+    "metaDescription": "Maricopa solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/casa-grande": {
+    "id": 240,
+    "name": "Casa Grande",
+    "slug": "casa-grande",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 99,
+    "peakSunHours": 6.6,
+    "annualKwhPerKw": 1879,
+    "avgElectricRate": 0.121,
+    "annualSavings": 909,
+    "paybackYears": 8.1,
+    "savings25Year": 34026,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      473,
+      494,
+      550,
+      626,
+      703,
+      759,
+      780,
+      759,
+      703,
+      626,
+      550,
+      494
+    ],
+    "monthlySunHours": [
+      5,
+      5.2,
+      5.8,
+      6.6,
+      7.4,
+      8,
+      8.2,
+      8,
+      7.4,
+      6.6,
+      5.8,
+      5.2
+    ],
+    "cloudyDaysPerYear": 83,
+    "rainyDaysPerYear": 31,
+    "installerCount": 124,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Maricopa",
+        "slug": "maricopa",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Casa Grande, AZ | 99/100 | SolarAtlas",
+    "metaDescription": "Casa Grande solar score: 99/100. Save $909/year. 6.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/kingman": {
+    "id": 241,
+    "name": "Kingman",
+    "slug": "kingman",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 100,
+    "peakSunHours": 6.7,
+    "annualKwhPerKw": 1907,
+    "avgElectricRate": 0.121,
+    "annualSavings": 923,
+    "paybackYears": 8,
+    "savings25Year": 34550,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      463,
+      486,
+      549,
+      636,
+      722,
+      786,
+      809,
+      786,
+      722,
+      636,
+      549,
+      486
+    ],
+    "monthlySunHours": [
+      4.9,
+      5.1,
+      5.8,
+      6.7,
+      7.6,
+      8.3,
+      8.5,
+      8.3,
+      7.6,
+      6.7,
+      5.8,
+      5.1
+    ],
+    "cloudyDaysPerYear": 82,
+    "rainyDaysPerYear": 26,
+    "installerCount": 125,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Lake Havasu City",
+        "slug": "lake-havasu-city",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "North Las Vegas",
+        "slug": "north-las-vegas",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Prescott",
+        "slug": "prescott",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Kingman, AZ | 100/100 | SolarAtlas",
+    "metaDescription": "Kingman solar score: 100/100. Save $923/year. 6.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "arizona/sierra-vista": {
+    "id": 242,
+    "name": "Sierra Vista",
+    "slug": "sierra-vista",
+    "state": "Arizona",
+    "stateSlug": "arizona",
+    "stateAbbr": "AZ",
+    "solarScore": 98,
+    "peakSunHours": 6.5,
+    "annualKwhPerKw": 1851,
+    "avgElectricRate": 0.121,
+    "annualSavings": 896,
+    "paybackYears": 8.3,
+    "savings25Year": 33539,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1000,
+    "netCost": 7400,
+    "monthlyKwh": [
+      476,
+      495,
+      546,
+      617,
+      688,
+      739,
+      758,
+      739,
+      688,
+      617,
+      546,
+      495
+    ],
+    "monthlySunHours": [
+      5,
+      5.2,
+      5.8,
+      6.5,
+      7.2,
+      7.8,
+      8,
+      7.8,
+      7.2,
+      6.5,
+      5.8,
+      5.2
+    ],
+    "cloudyDaysPerYear": 85,
+    "rainyDaysPerYear": 36,
+    "installerCount": 123,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Tucson",
+        "slug": "tucson",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Maricopa",
+        "slug": "maricopa",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler",
+        "stateSlug": "arizona"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert",
+        "stateSlug": "arizona"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sierra Vista, AZ | 98/100 | SolarAtlas",
+    "metaDescription": "Sierra Vista solar score: 98/100. Save $896/year. 6.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "north-carolina/wilmington": {
+    "id": 243,
+    "name": "Wilmington",
+    "slug": "wilmington",
+    "state": "North Carolina",
+    "stateSlug": "north-carolina",
+    "stateAbbr": "NC",
+    "solarScore": 76,
+    "peakSunHours": 5.1,
+    "annualKwhPerKw": 1452,
+    "avgElectricRate": 0.116,
+    "annualSavings": 674,
+    "paybackYears": 11.7,
+    "savings25Year": 25229,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      358,
+      375,
+      421,
+      484,
+      547,
+      593,
+      610,
+      593,
+      547,
+      484,
+      421,
+      375
+    ],
+    "monthlySunHours": [
+      3.8,
+      3.9,
+      4.4,
+      5.1,
+      5.8,
+      6.3,
+      6.4,
+      6.3,
+      5.8,
+      5.1,
+      4.4,
+      3.9
+    ],
+    "cloudyDaysPerYear": 109,
+    "rainyDaysPerYear": 105,
+    "installerCount": 100,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "North Charleston",
+        "slug": "north-charleston",
+        "stateSlug": "south-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Wilmington, NC | 76/100 | SolarAtlas",
+    "metaDescription": "Wilmington solar score: 76/100. Save $674/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "north-carolina/high-point": {
+    "id": 244,
+    "name": "High Point",
+    "slug": "high-point",
+    "state": "North Carolina",
+    "stateSlug": "north-carolina",
+    "stateAbbr": "NC",
+    "solarScore": 73,
+    "peakSunHours": 4.9,
+    "annualKwhPerKw": 1395,
+    "avgElectricRate": 0.116,
+    "annualSavings": 647,
+    "paybackYears": 12.2,
+    "savings25Year": 24218,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      334,
+      352,
+      400,
+      465,
+      530,
+      578,
+      596,
+      578,
+      530,
+      465,
+      400,
+      352
+    ],
+    "monthlySunHours": [
+      3.5,
+      3.7,
+      4.2,
+      4.9,
+      5.6,
+      6.1,
+      6.3,
+      6.1,
+      5.6,
+      4.9,
+      4.2,
+      3.7
+    ],
+    "cloudyDaysPerYear": 113,
+    "rainyDaysPerYear": 115,
+    "installerCount": 97,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Greensboro",
+        "slug": "greensboro",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte",
+        "stateSlug": "north-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in High Point, NC | 73/100 | SolarAtlas",
+    "metaDescription": "High Point solar score: 73/100. Save $647/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "north-carolina/concord": {
+    "id": 245,
+    "name": "Concord",
+    "slug": "concord",
+    "state": "North Carolina",
+    "stateSlug": "north-carolina",
+    "stateAbbr": "NC",
+    "solarScore": 74,
+    "peakSunHours": 5,
+    "annualKwhPerKw": 1424,
+    "avgElectricRate": 0.116,
+    "annualSavings": 661,
+    "paybackYears": 12,
+    "savings25Year": 24743,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      344,
+      362,
+      409,
+      475,
+      540,
+      588,
+      605,
+      588,
+      540,
+      475,
+      409,
+      362
+    ],
+    "monthlySunHours": [
+      3.6,
+      3.8,
+      4.3,
+      5,
+      5.7,
+      6.2,
+      6.4,
+      6.2,
+      5.7,
+      5,
+      4.3,
+      3.8
+    ],
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "installerCount": 98,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville",
+        "stateSlug": "north-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Concord, NC | 74/100 | SolarAtlas",
+    "metaDescription": "Concord solar score: 74/100. Save $661/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "north-carolina/asheville": {
+    "id": 246,
+    "name": "Asheville",
+    "slug": "asheville",
+    "state": "North Carolina",
+    "stateSlug": "north-carolina",
+    "stateAbbr": "NC",
+    "solarScore": 71,
+    "peakSunHours": 4.8,
+    "annualKwhPerKw": 1367,
+    "avgElectricRate": 0.116,
+    "annualSavings": 634,
+    "paybackYears": 12.5,
+    "savings25Year": 23732,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      329,
+      346,
+      393,
+      456,
+      519,
+      565,
+      582,
+      565,
+      519,
+      456,
+      393,
+      346
+    ],
+    "monthlySunHours": [
+      3.5,
+      3.6,
+      4.1,
+      4.8,
+      5.5,
+      6,
+      6.1,
+      6,
+      5.5,
+      4.8,
+      4.1,
+      3.6
+    ],
+    "cloudyDaysPerYear": 114,
+    "rainyDaysPerYear": 119,
+    "installerCount": 95,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville",
+        "stateSlug": "south-carolina"
+      },
+      {
+        "name": "Knoxville",
+        "slug": "knoxville",
+        "stateSlug": "tennessee"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord",
+        "stateSlug": "north-carolina"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem",
+        "stateSlug": "north-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Asheville, NC | 71/100 | SolarAtlas",
+    "metaDescription": "Asheville solar score: 71/100. Save $634/year. 4.8 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/waco": {
+    "id": 247,
+    "name": "Waco",
+    "slug": "waco",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 81,
+    "peakSunHours": 5.4,
+    "annualKwhPerKw": 1537,
+    "avgElectricRate": 0.124,
+    "annualSavings": 762,
+    "paybackYears": 10.4,
+    "savings25Year": 28523,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      395,
+      411,
+      454,
+      512,
+      571,
+      614,
+      629,
+      614,
+      571,
+      512,
+      454,
+      411
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.3,
+      4.8,
+      5.4,
+      6,
+      6.5,
+      6.6,
+      6.5,
+      6,
+      5.4,
+      4.8,
+      4.3
+    ],
+    "cloudyDaysPerYear": 104,
+    "rainyDaysPerYear": 90,
+    "installerCount": 105,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Killeen",
+        "slug": "killeen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Grand Prairie",
+        "slug": "grand-prairie",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Fort Worth",
+        "slug": "fort-worth",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Waco, TX | 81/100 | SolarAtlas",
+    "metaDescription": "Waco solar score: 81/100. Save $762/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/mcallen": {
+    "id": 248,
+    "name": "McAllen",
+    "slug": "mcallen",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 87,
+    "peakSunHours": 5.8,
+    "annualKwhPerKw": 1651,
+    "avgElectricRate": 0.124,
+    "annualSavings": 819,
+    "paybackYears": 9.6,
+    "savings25Year": 30657,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      460,
+      472,
+      505,
+      550,
+      596,
+      629,
+      641,
+      629,
+      596,
+      550,
+      505,
+      472
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.3,
+      5.8,
+      6.3,
+      6.6,
+      6.8,
+      6.6,
+      6.3,
+      5.8,
+      5.3,
+      5
+    ],
+    "cloudyDaysPerYear": 97,
+    "rainyDaysPerYear": 70,
+    "installerCount": 111,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Brownsville",
+        "slug": "brownsville",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Laredo",
+        "slug": "laredo",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Corpus Christi",
+        "slug": "corpus-christi",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "San Antonio",
+        "slug": "san-antonio",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in McAllen, TX | 87/100 | SolarAtlas",
+    "metaDescription": "McAllen solar score: 87/100. Save $819/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/pasadena": {
+    "id": 249,
+    "name": "Pasadena",
+    "slug": "pasadena",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      399,
+      413,
+      451,
+      503,
+      555,
+      593,
+      607,
+      593,
+      555,
+      503,
+      451,
+      413
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.8,
+      5.3,
+      5.8,
+      6.2,
+      6.4,
+      6.2,
+      5.8,
+      5.3,
+      4.8,
+      4.4
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Waco",
+        "slug": "waco",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Killeen",
+        "slug": "killeen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Corpus Christi",
+        "slug": "corpus-christi",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Pasadena, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Pasadena solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/beaumont": {
+    "id": 250,
+    "name": "Beaumont",
+    "slug": "beaumont",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 77,
+    "peakSunHours": 5.2,
+    "annualKwhPerKw": 1480,
+    "avgElectricRate": 0.124,
+    "annualSavings": 734,
+    "paybackYears": 10.8,
+    "savings25Year": 27475,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      389,
+      403,
+      441,
+      493,
+      545,
+      584,
+      597,
+      584,
+      545,
+      493,
+      441,
+      403
+    ],
+    "monthlySunHours": [
+      4.1,
+      4.2,
+      4.7,
+      5.2,
+      5.7,
+      6.2,
+      6.3,
+      6.2,
+      5.7,
+      5.2,
+      4.7,
+      4.2
+    ],
+    "cloudyDaysPerYear": 107,
+    "rainyDaysPerYear": 100,
+    "installerCount": 101,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Lafayette",
+        "slug": "lafayette",
+        "stateSlug": "louisiana"
+      },
+      {
+        "name": "Shreveport",
+        "slug": "shreveport",
+        "stateSlug": "louisiana"
+      },
+      {
+        "name": "Baton Rouge",
+        "slug": "baton-rouge",
+        "stateSlug": "louisiana"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Beaumont, TX | 77/100 | SolarAtlas",
+    "metaDescription": "Beaumont solar score: 77/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/mesquite": {
+    "id": 251,
+    "name": "Mesquite",
+    "slug": "mesquite",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      381,
+      397,
+      442,
+      503,
+      564,
+      609,
+      625,
+      609,
+      564,
+      503,
+      442,
+      397
+    ],
+    "monthlySunHours": [
+      4,
+      4.2,
+      4.7,
+      5.3,
+      5.9,
+      6.4,
+      6.6,
+      6.4,
+      5.9,
+      5.3,
+      4.7,
+      4.2
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Garland",
+        "slug": "garland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Plano",
+        "slug": "plano",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Irving",
+        "slug": "irving",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Grand Prairie",
+        "slug": "grand-prairie",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Mesquite, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Mesquite solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/carrollton": {
+    "id": 252,
+    "name": "Carrollton",
+    "slug": "carrollton",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      380,
+      396,
+      441,
+      503,
+      565,
+      610,
+      626,
+      610,
+      565,
+      503,
+      441,
+      396
+    ],
+    "monthlySunHours": [
+      4,
+      4.2,
+      4.6,
+      5.3,
+      6,
+      6.4,
+      6.6,
+      6.4,
+      6,
+      5.3,
+      4.6,
+      4.2
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Irving",
+        "slug": "irving",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Plano",
+        "slug": "plano",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Frisco",
+        "slug": "frisco",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Garland",
+        "slug": "garland",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Carrollton, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Carrollton solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/denton": {
+    "id": 253,
+    "name": "Denton",
+    "slug": "denton",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      378,
+      395,
+      440,
+      503,
+      566,
+      611,
+      628,
+      611,
+      566,
+      503,
+      440,
+      395
+    ],
+    "monthlySunHours": [
+      4,
+      4.2,
+      4.6,
+      5.3,
+      6,
+      6.4,
+      6.6,
+      6.4,
+      6,
+      5.3,
+      4.6,
+      4.2
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Frisco",
+        "slug": "frisco",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Carrollton",
+        "slug": "carrollton",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Plano",
+        "slug": "plano",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "McKinney",
+        "slug": "mckinney",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Irving",
+        "slug": "irving",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Denton, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Denton solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/abilene": {
+    "id": 254,
+    "name": "Abilene",
+    "slug": "abilene",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 87,
+    "peakSunHours": 5.8,
+    "annualKwhPerKw": 1651,
+    "avgElectricRate": 0.124,
+    "annualSavings": 819,
+    "paybackYears": 9.6,
+    "savings25Year": 30657,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      419,
+      436,
+      484,
+      550,
+      616,
+      664,
+      682,
+      664,
+      616,
+      550,
+      484,
+      436
+    ],
+    "monthlySunHours": [
+      4.4,
+      4.6,
+      5.1,
+      5.8,
+      6.5,
+      7,
+      7.2,
+      7,
+      6.5,
+      5.8,
+      5.1,
+      4.6
+    ],
+    "cloudyDaysPerYear": 97,
+    "rainyDaysPerYear": 70,
+    "installerCount": 111,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Fort Worth",
+        "slug": "fort-worth",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Killeen",
+        "slug": "killeen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Abilene, TX | 87/100 | SolarAtlas",
+    "metaDescription": "Abilene solar score: 87/100. Save $819/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/round-rock": {
+    "id": 255,
+    "name": "Round Rock",
+    "slug": "round-rock",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 82,
+    "peakSunHours": 5.5,
+    "annualKwhPerKw": 1566,
+    "avgElectricRate": 0.124,
+    "annualSavings": 777,
+    "paybackYears": 10.2,
+    "savings25Year": 29085,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      409,
+      424,
+      466,
+      522,
+      578,
+      620,
+      635,
+      620,
+      578,
+      522,
+      466,
+      424
+    ],
+    "monthlySunHours": [
+      4.3,
+      4.5,
+      4.9,
+      5.5,
+      6.1,
+      6.5,
+      6.7,
+      6.5,
+      6.1,
+      5.5,
+      4.9,
+      4.5
+    ],
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "installerCount": 106,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Killeen",
+        "slug": "killeen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Waco",
+        "slug": "waco",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "San Antonio",
+        "slug": "san-antonio",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Round Rock, TX | 82/100 | SolarAtlas",
+    "metaDescription": "Round Rock solar score: 82/100. Save $777/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/the-woodlands": {
+    "id": 256,
+    "name": "The Woodlands",
+    "slug": "the-woodlands",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      396,
+      411,
+      450,
+      503,
+      556,
+      595,
+      610,
+      595,
+      556,
+      503,
+      450,
+      411
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.3,
+      4.7,
+      5.3,
+      5.9,
+      6.3,
+      6.4,
+      6.3,
+      5.9,
+      5.3,
+      4.7,
+      4.3
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Beaumont",
+        "slug": "beaumont",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Round Rock",
+        "slug": "round-rock",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in The Woodlands, TX | 79/100 | SolarAtlas",
+    "metaDescription": "The Woodlands solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/sugar-land": {
+    "id": 257,
+    "name": "Sugar Land",
+    "slug": "sugar-land",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      400,
+      414,
+      451,
+      503,
+      555,
+      592,
+      606,
+      592,
+      555,
+      503,
+      451,
+      414
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.8,
+      5.3,
+      5.8,
+      6.2,
+      6.4,
+      6.2,
+      5.8,
+      5.3,
+      4.8,
+      4.4
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "The Woodlands",
+        "slug": "the-woodlands",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Beaumont",
+        "slug": "beaumont",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sugar Land, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Sugar Land solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/richardson": {
+    "id": 258,
+    "name": "Richardson",
+    "slug": "richardson",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      380,
+      396,
+      441,
+      503,
+      565,
+      610,
+      626,
+      610,
+      565,
+      503,
+      441,
+      396
+    ],
+    "monthlySunHours": [
+      4,
+      4.2,
+      4.6,
+      5.3,
+      6,
+      6.4,
+      6.6,
+      6.4,
+      6,
+      5.3,
+      4.6,
+      4.2
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Plano",
+        "slug": "plano",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Garland",
+        "slug": "garland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Carrollton",
+        "slug": "carrollton",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Mesquite",
+        "slug": "mesquite",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Richardson, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Richardson solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/pearland": {
+    "id": 259,
+    "name": "Pearland",
+    "slug": "pearland",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      400,
+      414,
+      452,
+      503,
+      554,
+      592,
+      606,
+      592,
+      554,
+      503,
+      452,
+      414
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.8,
+      5.3,
+      5.8,
+      6.2,
+      6.4,
+      6.2,
+      5.8,
+      5.3,
+      4.8,
+      4.4
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Sugar Land",
+        "slug": "sugar-land",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "The Woodlands",
+        "slug": "the-woodlands",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Beaumont",
+        "slug": "beaumont",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Pearland, TX | 79/100 | SolarAtlas",
+    "metaDescription": "Pearland solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/league-city": {
+    "id": 260,
+    "name": "League City",
+    "slug": "league-city",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.124,
+    "annualSavings": 748,
+    "paybackYears": 10.6,
+    "savings25Year": 27999,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      400,
+      414,
+      452,
+      503,
+      554,
+      592,
+      606,
+      592,
+      554,
+      503,
+      452,
+      414
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.8,
+      5.3,
+      5.8,
+      6.2,
+      6.4,
+      6.2,
+      5.8,
+      5.3,
+      4.8,
+      4.4
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Pearland",
+        "slug": "pearland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Sugar Land",
+        "slug": "sugar-land",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "The Woodlands",
+        "slug": "the-woodlands",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in League City, TX | 79/100 | SolarAtlas",
+    "metaDescription": "League City solar score: 79/100. Save $748/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/odessa": {
+    "id": 261,
+    "name": "Odessa",
+    "slug": "odessa",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 95,
+    "peakSunHours": 6.3,
+    "annualKwhPerKw": 1794,
+    "avgElectricRate": 0.124,
+    "annualSavings": 890,
+    "paybackYears": 8.9,
+    "savings25Year": 33314,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      459,
+      478,
+      529,
+      598,
+      667,
+      718,
+      737,
+      718,
+      667,
+      598,
+      529,
+      478
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.6,
+      6.3,
+      7,
+      7.6,
+      7.8,
+      7.6,
+      7,
+      6.3,
+      5.6,
+      5
+    ],
+    "cloudyDaysPerYear": 88,
+    "rainyDaysPerYear": 46,
+    "installerCount": 120,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Abilene",
+        "slug": "abilene",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Roswell",
+        "slug": "roswell",
+        "stateSlug": "new-mexico"
+      },
+      {
+        "name": "Clovis",
+        "slug": "clovis",
+        "stateSlug": "new-mexico"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Odessa, TX | 95/100 | SolarAtlas",
+    "metaDescription": "Odessa solar score: 95/100. Save $890/year. 6.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/san-angelo": {
+    "id": 262,
+    "name": "San Angelo",
+    "slug": "san-angelo",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 90,
+    "peakSunHours": 6,
+    "annualKwhPerKw": 1708,
+    "avgElectricRate": 0.124,
+    "annualSavings": 847,
+    "paybackYears": 9.3,
+    "savings25Year": 31705,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      440,
+      457,
+      505,
+      569,
+      634,
+      682,
+      699,
+      682,
+      634,
+      569,
+      505,
+      457
+    ],
+    "monthlySunHours": [
+      4.6,
+      4.8,
+      5.3,
+      6,
+      6.7,
+      7.2,
+      7.4,
+      7.2,
+      6.7,
+      6,
+      5.3,
+      4.8
+    ],
+    "cloudyDaysPerYear": 94,
+    "rainyDaysPerYear": 61,
+    "installerCount": 115,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Abilene",
+        "slug": "abilene",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Midland",
+        "slug": "midland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Odessa",
+        "slug": "odessa",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Killeen",
+        "slug": "killeen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in San Angelo, TX | 90/100 | SolarAtlas",
+    "metaDescription": "San Angelo solar score: 90/100. Save $847/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/tyler": {
+    "id": 263,
+    "name": "Tyler",
+    "slug": "tyler",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 77,
+    "peakSunHours": 5.2,
+    "annualKwhPerKw": 1480,
+    "avgElectricRate": 0.124,
+    "annualSavings": 734,
+    "paybackYears": 10.8,
+    "savings25Year": 27475,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      376,
+      392,
+      435,
+      493,
+      552,
+      595,
+      611,
+      595,
+      552,
+      493,
+      435,
+      392
+    ],
+    "monthlySunHours": [
+      4,
+      4.1,
+      4.6,
+      5.2,
+      5.8,
+      6.3,
+      6.4,
+      6.3,
+      5.8,
+      5.2,
+      4.6,
+      4.1
+    ],
+    "cloudyDaysPerYear": 107,
+    "rainyDaysPerYear": 100,
+    "installerCount": 101,
+    "climateType": "Subtropical",
+    "avgTemperature": 70,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Mesquite",
+        "slug": "mesquite",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Garland",
+        "slug": "garland",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Shreveport",
+        "slug": "shreveport",
+        "stateSlug": "louisiana"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Richardson",
+        "slug": "richardson",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Tyler, TX | 77/100 | SolarAtlas",
+    "metaDescription": "Tyler solar score: 77/100. Save $734/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "texas/edinburg": {
+    "id": 264,
+    "name": "Edinburg",
+    "slug": "edinburg",
+    "state": "Texas",
+    "stateSlug": "texas",
+    "stateAbbr": "TX",
+    "solarScore": 87,
+    "peakSunHours": 5.8,
+    "annualKwhPerKw": 1651,
+    "avgElectricRate": 0.124,
+    "annualSavings": 819,
+    "paybackYears": 9.6,
+    "savings25Year": 30657,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      459,
+      471,
+      505,
+      550,
+      596,
+      629,
+      641,
+      629,
+      596,
+      550,
+      505,
+      471
+    ],
+    "monthlySunHours": [
+      4.8,
+      5,
+      5.3,
+      5.8,
+      6.3,
+      6.6,
+      6.8,
+      6.6,
+      6.3,
+      5.8,
+      5.3,
+      5
+    ],
+    "cloudyDaysPerYear": 97,
+    "rainyDaysPerYear": 70,
+    "installerCount": 111,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "McAllen",
+        "slug": "mcallen",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Brownsville",
+        "slug": "brownsville",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Corpus Christi",
+        "slug": "corpus-christi",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "Laredo",
+        "slug": "laredo",
+        "stateSlug": "texas"
+      },
+      {
+        "name": "San Antonio",
+        "slug": "san-antonio",
+        "stateSlug": "texas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Edinburg, TX | 87/100 | SolarAtlas",
+    "metaDescription": "Edinburg solar score: 87/100. Save $819/year. 5.8 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/modesto": {
+    "id": 265,
+    "name": "Modesto",
+    "slug": "modesto",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1875,
+    "paybackYears": 3.1,
+    "savings25Year": 70185,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      371,
+      393,
+      451,
+      531,
+      611,
+      670,
+      692,
+      670,
+      611,
+      531,
+      451,
+      393
+    ],
+    "monthlySunHours": [
+      3.9,
+      4.1,
+      4.8,
+      5.6,
+      6.4,
+      7.1,
+      7.3,
+      7.1,
+      6.4,
+      5.6,
+      4.8,
+      4.1
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Modesto, CA | 84/100 | SolarAtlas",
+    "metaDescription": "Modesto solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/fontana": {
+    "id": 266,
+    "name": "Fontana",
+    "slug": "fontana",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      401,
+      420,
+      471,
+      541,
+      611,
+      662,
+      681,
+      662,
+      611,
+      541,
+      471,
+      420
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Fontana, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Fontana solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/moreno-valley": {
+    "id": 267,
+    "name": "Moreno Valley",
+    "slug": "moreno-valley",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      402,
+      420,
+      471,
+      541,
+      611,
+      662,
+      680,
+      662,
+      611,
+      541,
+      471,
+      420
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Moreno Valley, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Moreno Valley solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/glendale": {
+    "id": 268,
+    "name": "Glendale",
+    "slug": "glendale",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1875,
+    "paybackYears": 3.1,
+    "savings25Year": 70185,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      393,
+      412,
+      462,
+      531,
+      600,
+      651,
+      669,
+      651,
+      600,
+      531,
+      462,
+      412
+    ],
+    "monthlySunHours": [
+      4.1,
+      4.3,
+      4.9,
+      5.6,
+      6.3,
+      6.9,
+      7.1,
+      6.9,
+      6.3,
+      5.6,
+      4.9,
+      4.3
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Glendale, CA | 84/100 | SolarAtlas",
+    "metaDescription": "Glendale solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/huntington-beach": {
+    "id": 269,
+    "name": "Huntington Beach",
+    "slug": "huntington-beach",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      404,
+      422,
+      472,
+      541,
+      610,
+      660,
+      678,
+      660,
+      610,
+      541,
+      472,
+      422
+    ],
+    "monthlySunHours": [
+      4.3,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.1,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Huntington Beach, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Huntington Beach solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/santa-clarita": {
+    "id": 270,
+    "name": "Santa Clarita",
+    "slug": "santa-clarita",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      399,
+      418,
+      470,
+      541,
+      612,
+      664,
+      683,
+      664,
+      612,
+      541,
+      470,
+      418
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Santa Clarita, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Santa Clarita solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/garden-grove": {
+    "id": 271,
+    "name": "Garden Grove",
+    "slug": "garden-grove",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1875,
+    "paybackYears": 3.1,
+    "savings25Year": 70185,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      396,
+      414,
+      464,
+      531,
+      599,
+      649,
+      667,
+      649,
+      599,
+      531,
+      464,
+      414
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.9,
+      5.6,
+      6.3,
+      6.8,
+      7,
+      6.8,
+      6.3,
+      5.6,
+      4.9,
+      4.4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Garden Grove, CA | 84/100 | SolarAtlas",
+    "metaDescription": "Garden Grove solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/oceanside": {
+    "id": 272,
+    "name": "Oceanside",
+    "slug": "oceanside",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      407,
+      425,
+      474,
+      541,
+      608,
+      657,
+      675,
+      657,
+      608,
+      541,
+      474,
+      425
+    ],
+    "monthlySunHours": [
+      4.3,
+      4.5,
+      5,
+      5.7,
+      6.4,
+      6.9,
+      7.1,
+      6.9,
+      6.4,
+      5.7,
+      5,
+      4.5
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "San Diego",
+        "slug": "san-diego",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Oceanside, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Oceanside solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/rancho-cucamonga": {
+    "id": 273,
+    "name": "Rancho Cucamonga",
+    "slug": "rancho-cucamonga",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      401,
+      420,
+      471,
+      541,
+      611,
+      662,
+      681,
+      662,
+      611,
+      541,
+      471,
+      420
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Moreno Valley",
+        "slug": "moreno-valley",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Rancho Cucamonga, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Rancho Cucamonga solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/santa-rosa": {
+    "id": 274,
+    "name": "Santa Rosa",
+    "slug": "santa-rosa",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 79,
+    "peakSunHours": 5.3,
+    "annualKwhPerKw": 1509,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1775,
+    "paybackYears": 3.3,
+    "savings25Year": 66442,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      346,
+      367,
+      425,
+      503,
+      581,
+      639,
+      660,
+      639,
+      581,
+      503,
+      425,
+      367
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.5,
+      5.3,
+      6.1,
+      6.7,
+      6.9,
+      6.7,
+      6.1,
+      5.3,
+      4.5,
+      3.9
+    ],
+    "cloudyDaysPerYear": 106,
+    "rainyDaysPerYear": 95,
+    "installerCount": 103,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Santa Rosa, CA | 79/100 | SolarAtlas",
+    "metaDescription": "Santa Rosa solar score: 79/100. Save $1,775/year. 5.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/ontario": {
+    "id": 275,
+    "name": "Ontario",
+    "slug": "ontario",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      401,
+      420,
+      471,
+      541,
+      611,
+      662,
+      681,
+      662,
+      611,
+      541,
+      471,
+      420
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Rancho Cucamonga",
+        "slug": "rancho-cucamonga",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Ontario, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Ontario solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/elk-grove": {
+    "id": 276,
+    "name": "Elk Grove",
+    "slug": "elk-grove",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 82,
+    "peakSunHours": 5.5,
+    "annualKwhPerKw": 1566,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1842,
+    "paybackYears": 3.2,
+    "savings25Year": 68950,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      360,
+      381,
+      441,
+      522,
+      603,
+      663,
+      684,
+      663,
+      603,
+      522,
+      441,
+      381
+    ],
+    "monthlySunHours": [
+      3.8,
+      4,
+      4.6,
+      5.5,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.5,
+      4.6,
+      4
+    ],
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "installerCount": 106,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Modesto",
+        "slug": "modesto",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Elk Grove, CA | 82/100 | SolarAtlas",
+    "metaDescription": "Elk Grove solar score: 82/100. Save $1,842/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/salinas": {
+    "id": 277,
+    "name": "Salinas",
+    "slug": "salinas",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 77,
+    "peakSunHours": 5.2,
+    "annualKwhPerKw": 1480,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1740,
+    "paybackYears": 3.4,
+    "savings25Year": 65132,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      350,
+      369,
+      422,
+      493,
+      565,
+      617,
+      636,
+      617,
+      565,
+      493,
+      422,
+      369
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.4,
+      5.2,
+      6,
+      6.5,
+      6.7,
+      6.5,
+      6,
+      5.2,
+      4.4,
+      3.9
+    ],
+    "cloudyDaysPerYear": 107,
+    "rainyDaysPerYear": 100,
+    "installerCount": 101,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Modesto",
+        "slug": "modesto",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Salinas, CA | 77/100 | SolarAtlas",
+    "metaDescription": "Salinas solar score: 77/100. Save $1,740/year. 5.2 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/sunnyvale": {
+    "id": 278,
+    "name": "Sunnyvale",
+    "slug": "sunnyvale",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 81,
+    "peakSunHours": 5.4,
+    "annualKwhPerKw": 1537,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1808,
+    "paybackYears": 3.3,
+    "savings25Year": 67677,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      359,
+      380,
+      436,
+      512,
+      589,
+      645,
+      665,
+      645,
+      589,
+      512,
+      436,
+      380
+    ],
+    "monthlySunHours": [
+      3.8,
+      4,
+      4.6,
+      5.4,
+      6.2,
+      6.8,
+      7,
+      6.8,
+      6.2,
+      5.4,
+      4.6,
+      4
+    ],
+    "cloudyDaysPerYear": 104,
+    "rainyDaysPerYear": 90,
+    "installerCount": 105,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Salinas",
+        "slug": "salinas",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sunnyvale, CA | 81/100 | SolarAtlas",
+    "metaDescription": "Sunnyvale solar score: 81/100. Save $1,808/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/pomona": {
+    "id": 279,
+    "name": "Pomona",
+    "slug": "pomona",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      401,
+      420,
+      471,
+      541,
+      611,
+      662,
+      681,
+      662,
+      611,
+      541,
+      471,
+      420
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Ontario",
+        "slug": "ontario",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Rancho Cucamonga",
+        "slug": "rancho-cucamonga",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Pomona, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Pomona solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/torrance": {
+    "id": 280,
+    "name": "Torrance",
+    "slug": "torrance",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1875,
+    "paybackYears": 3.1,
+    "savings25Year": 70185,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      395,
+      413,
+      463,
+      531,
+      599,
+      649,
+      667,
+      649,
+      599,
+      531,
+      463,
+      413
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      4.9,
+      5.6,
+      6.3,
+      6.8,
+      7,
+      6.8,
+      6.3,
+      5.6,
+      4.9,
+      4.4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Garden Grove",
+        "slug": "garden-grove",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Torrance, CA | 84/100 | SolarAtlas",
+    "metaDescription": "Torrance solar score: 84/100. Save $1,875/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/escondido": {
+    "id": 281,
+    "name": "Escondido",
+    "slug": "escondido",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      407,
+      425,
+      474,
+      541,
+      608,
+      657,
+      675,
+      657,
+      608,
+      541,
+      474,
+      425
+    ],
+    "monthlySunHours": [
+      4.3,
+      4.5,
+      5,
+      5.7,
+      6.4,
+      6.9,
+      7.1,
+      6.9,
+      6.4,
+      5.7,
+      5,
+      4.5
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Oceanside",
+        "slug": "oceanside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "San Diego",
+        "slug": "san-diego",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Moreno Valley",
+        "slug": "moreno-valley",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Escondido, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Escondido solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/corona": {
+    "id": 282,
+    "name": "Corona",
+    "slug": "corona",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.294,
+    "annualSavings": 1909,
+    "paybackYears": 3.1,
+    "savings25Year": 71458,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      402,
+      421,
+      472,
+      541,
+      610,
+      661,
+      680,
+      661,
+      610,
+      541,
+      472,
+      421
+    ],
+    "monthlySunHours": [
+      4.2,
+      4.4,
+      5,
+      5.7,
+      6.4,
+      7,
+      7.2,
+      7,
+      6.4,
+      5.7,
+      5,
+      4.4
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Ontario",
+        "slug": "ontario",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Rancho Cucamonga",
+        "slug": "rancho-cucamonga",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Pomona",
+        "slug": "pomona",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Corona, CA | 85/100 | SolarAtlas",
+    "metaDescription": "Corona solar score: 85/100. Save $1,909/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/palmdale": {
+    "id": 283,
+    "name": "Palmdale",
+    "slug": "palmdale",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 90,
+    "peakSunHours": 6,
+    "annualKwhPerKw": 1708,
+    "avgElectricRate": 0.294,
+    "annualSavings": 2009,
+    "paybackYears": 2.9,
+    "savings25Year": 75201,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      418,
+      439,
+      494,
+      569,
+      645,
+      700,
+      720,
+      700,
+      645,
+      569,
+      494,
+      439
+    ],
+    "monthlySunHours": [
+      4.4,
+      4.6,
+      5.2,
+      6,
+      6.8,
+      7.4,
+      7.6,
+      7.4,
+      6.8,
+      6,
+      5.2,
+      4.6
+    ],
+    "cloudyDaysPerYear": 94,
+    "rainyDaysPerYear": 61,
+    "installerCount": 115,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Santa Clarita",
+        "slug": "santa-clarita",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Pomona",
+        "slug": "pomona",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Rancho Cucamonga",
+        "slug": "rancho-cucamonga",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Palmdale, CA | 90/100 | SolarAtlas",
+    "metaDescription": "Palmdale solar score: 90/100. Save $2,009/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "california/lancaster": {
+    "id": 284,
+    "name": "Lancaster",
+    "slug": "lancaster",
+    "state": "California",
+    "stateSlug": "california",
+    "stateAbbr": "CA",
+    "solarScore": 90,
+    "peakSunHours": 6,
+    "annualKwhPerKw": 1708,
+    "avgElectricRate": 0.294,
+    "annualSavings": 2009,
+    "paybackYears": 2.9,
+    "savings25Year": 75201,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 2500,
+    "netCost": 5900,
+    "monthlyKwh": [
+      418,
+      438,
+      493,
+      569,
+      645,
+      701,
+      721,
+      701,
+      645,
+      569,
+      493,
+      438
+    ],
+    "monthlySunHours": [
+      4.4,
+      4.6,
+      5.2,
+      6,
+      6.8,
+      7.4,
+      7.6,
+      7.4,
+      6.8,
+      6,
+      5.2,
+      4.6
+    ],
+    "cloudyDaysPerYear": 94,
+    "rainyDaysPerYear": 61,
+    "installerCount": 115,
+    "climateType": "Mediterranean",
+    "avgTemperature": 68,
+    "humidity": 45,
+    "nearByCities": [
+      {
+        "name": "Palmdale",
+        "slug": "palmdale",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Santa Clarita",
+        "slug": "santa-clarita",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Pomona",
+        "slug": "pomona",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Lancaster, CA | 90/100 | SolarAtlas",
+    "metaDescription": "Lancaster solar score: 90/100. Save $2,009/year. 6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "florida/miramar": {
+    "id": 285,
+    "name": "Miramar",
+    "slug": "miramar",
+    "state": "Florida",
+    "stateSlug": "florida",
+    "stateAbbr": "FL",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.115,
+    "annualSavings": 733,
+    "paybackYears": 10.8,
+    "savings25Year": 27438,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      445,
+      457,
+      488,
+      531,
+      574,
+      606,
+      617,
+      606,
+      574,
+      531,
+      488,
+      457
+    ],
+    "monthlySunHours": [
+      4.7,
+      4.8,
+      5.1,
+      5.6,
+      6.1,
+      6.4,
+      6.5,
+      6.4,
+      6.1,
+      5.6,
+      5.1,
+      4.8
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Hialeah",
+        "slug": "hialeah",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Miami",
+        "slug": "miami",
+        "stateSlug": "florida"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Miramar, FL | 84/100 | SolarAtlas",
+    "metaDescription": "Miramar solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "florida/coral-springs": {
+    "id": 286,
+    "name": "Coral Springs",
+    "slug": "coral-springs",
+    "state": "Florida",
+    "stateSlug": "florida",
+    "stateAbbr": "FL",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.115,
+    "annualSavings": 733,
+    "paybackYears": 10.8,
+    "savings25Year": 27438,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      444,
+      455,
+      487,
+      531,
+      575,
+      607,
+      619,
+      607,
+      575,
+      531,
+      487,
+      455
+    ],
+    "monthlySunHours": [
+      4.7,
+      4.8,
+      5.1,
+      5.6,
+      6.1,
+      6.4,
+      6.5,
+      6.4,
+      6.1,
+      5.6,
+      5.1,
+      4.8
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Hialeah",
+        "slug": "hialeah",
+        "stateSlug": "florida"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Coral Springs, FL | 84/100 | SolarAtlas",
+    "metaDescription": "Coral Springs solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "florida/lakeland": {
+    "id": 287,
+    "name": "Lakeland",
+    "slug": "lakeland",
+    "state": "Florida",
+    "stateSlug": "florida",
+    "stateAbbr": "FL",
+    "solarScore": 81,
+    "peakSunHours": 5.4,
+    "annualKwhPerKw": 1537,
+    "avgElectricRate": 0.115,
+    "annualSavings": 707,
+    "paybackYears": 11.2,
+    "savings25Year": 26464,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      417,
+      430,
+      465,
+      512,
+      560,
+      595,
+      608,
+      595,
+      560,
+      512,
+      465,
+      430
+    ],
+    "monthlySunHours": [
+      4.4,
+      4.5,
+      4.9,
+      5.4,
+      5.9,
+      6.3,
+      6.4,
+      6.3,
+      5.9,
+      5.4,
+      4.9,
+      4.5
+    ],
+    "cloudyDaysPerYear": 104,
+    "rainyDaysPerYear": 90,
+    "installerCount": 105,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Tampa",
+        "slug": "tampa",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Port St. Lucie",
+        "slug": "port-st-lucie",
+        "stateSlug": "florida"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Lakeland, FL | 81/100 | SolarAtlas",
+    "metaDescription": "Lakeland solar score: 81/100. Save $707/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "florida/west-palm-beach": {
+    "id": 288,
+    "name": "West Palm Beach",
+    "slug": "west-palm-beach",
+    "state": "Florida",
+    "stateSlug": "florida",
+    "stateAbbr": "FL",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.115,
+    "annualSavings": 733,
+    "paybackYears": 10.8,
+    "savings25Year": 27438,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      441,
+      453,
+      486,
+      531,
+      577,
+      610,
+      622,
+      610,
+      577,
+      531,
+      486,
+      453
+    ],
+    "monthlySunHours": [
+      4.6,
+      4.8,
+      5.1,
+      5.6,
+      6.1,
+      6.4,
+      6.6,
+      6.4,
+      6.1,
+      5.6,
+      5.1,
+      4.8
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Port St. Lucie",
+        "slug": "port-st-lucie",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines",
+        "stateSlug": "florida"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in West Palm Beach, FL | 84/100 | SolarAtlas",
+    "metaDescription": "West Palm Beach solar score: 84/100. Save $733/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "florida/clearwater": {
+    "id": 289,
+    "name": "Clearwater",
+    "slug": "clearwater",
+    "state": "Florida",
+    "stateSlug": "florida",
+    "stateAbbr": "FL",
+    "solarScore": 82,
+    "peakSunHours": 5.5,
+    "annualKwhPerKw": 1566,
+    "avgElectricRate": 0.115,
+    "annualSavings": 720,
+    "paybackYears": 11,
+    "savings25Year": 26951,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      425,
+      438,
+      474,
+      522,
+      570,
+      606,
+      619,
+      606,
+      570,
+      522,
+      474,
+      438
+    ],
+    "monthlySunHours": [
+      4.5,
+      4.6,
+      5,
+      5.5,
+      6,
+      6.4,
+      6.5,
+      6.4,
+      6,
+      5.5,
+      5,
+      4.6
+    ],
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "installerCount": 106,
+    "climateType": "Subtropical",
+    "avgTemperature": 75,
+    "humidity": 60,
+    "nearByCities": [
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Lakeland",
+        "slug": "lakeland",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando",
+        "stateSlug": "florida"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral",
+        "stateSlug": "florida"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Clearwater, FL | 82/100 | SolarAtlas",
+    "metaDescription": "Clearwater solar score: 82/100. Save $720/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "delaware/dover": {
+    "id": 290,
+    "name": "Dover",
+    "slug": "dover",
+    "state": "Delaware",
+    "stateSlug": "delaware",
+    "stateAbbr": "DE",
+    "solarScore": 62,
+    "peakSunHours": 4.2,
+    "annualKwhPerKw": 1196,
+    "avgElectricRate": 0.124,
+    "annualSavings": 593,
+    "paybackYears": 13.3,
+    "savings25Year": 22197,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      271,
+      288,
+      335,
+      399,
+      462,
+      509,
+      526,
+      509,
+      462,
+      399,
+      335,
+      288
+    ],
+    "monthlySunHours": [
+      2.9,
+      3,
+      3.5,
+      4.2,
+      4.9,
+      5.4,
+      5.5,
+      5.4,
+      4.9,
+      4.2,
+      3.5,
+      3
+    ],
+    "cloudyDaysPerYear": 125,
+    "rainyDaysPerYear": 149,
+    "installerCount": 85,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Wilmington",
+        "slug": "wilmington",
+        "stateSlug": "delaware"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia",
+        "stateSlug": "pennsylvania"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore",
+        "stateSlug": "maryland"
+      },
+      {
+        "name": "Trenton",
+        "slug": "trenton",
+        "stateSlug": "new-jersey"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria",
+        "stateSlug": "virginia"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Dover, DE | 62/100 | SolarAtlas",
+    "metaDescription": "Dover solar score: 62/100. Save $593/year. 4.2 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "delaware/newark": {
+    "id": 291,
+    "name": "Newark",
+    "slug": "newark",
+    "state": "Delaware",
+    "stateSlug": "delaware",
+    "stateAbbr": "DE",
+    "solarScore": 60,
+    "peakSunHours": 4.1,
+    "annualKwhPerKw": 1167,
+    "avgElectricRate": 0.124,
+    "annualSavings": 579,
+    "paybackYears": 13.6,
+    "savings25Year": 21673,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      262,
+      279,
+      326,
+      389,
+      452,
+      499,
+      516,
+      499,
+      452,
+      389,
+      326,
+      279
+    ],
+    "monthlySunHours": [
+      2.8,
+      2.9,
+      3.4,
+      4.1,
+      4.8,
+      5.3,
+      5.4,
+      5.3,
+      4.8,
+      4.1,
+      3.4,
+      2.9
+    ],
+    "cloudyDaysPerYear": 126,
+    "rainyDaysPerYear": 150,
+    "installerCount": 83,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Wilmington",
+        "slug": "wilmington",
+        "stateSlug": "delaware"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia",
+        "stateSlug": "pennsylvania"
+      },
+      {
+        "name": "Dover",
+        "slug": "dover",
+        "stateSlug": "delaware"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore",
+        "stateSlug": "maryland"
+      },
+      {
+        "name": "Trenton",
+        "slug": "trenton",
+        "stateSlug": "new-jersey"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Newark, DE | 60/100 | SolarAtlas",
+    "metaDescription": "Newark solar score: 60/100. Save $579/year. 4.1 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "rhode-island/warwick": {
+    "id": 292,
+    "name": "Warwick",
+    "slug": "warwick",
+    "state": "Rhode Island",
+    "stateSlug": "rhode-island",
+    "stateAbbr": "RI",
+    "solarScore": 58,
+    "peakSunHours": 4,
+    "annualKwhPerKw": 1139,
+    "avgElectricRate": 0.236,
+    "annualSavings": 1075,
+    "paybackYears": 6.4,
+    "savings25Year": 40239,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      247,
+      264,
+      313,
+      380,
+      446,
+      495,
+      513,
+      495,
+      446,
+      380,
+      313,
+      264
+    ],
+    "monthlySunHours": [
+      2.6,
+      2.8,
+      3.3,
+      4,
+      4.7,
+      5.2,
+      5.4,
+      5.2,
+      4.7,
+      4,
+      3.3,
+      2.8
+    ],
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "installerCount": 81,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Providence",
+        "slug": "providence",
+        "stateSlug": "rhode-island"
+      },
+      {
+        "name": "Worcester",
+        "slug": "worcester",
+        "stateSlug": "massachusetts"
+      },
+      {
+        "name": "Boston",
+        "slug": "boston",
+        "stateSlug": "massachusetts"
+      },
+      {
+        "name": "Hartford",
+        "slug": "hartford",
+        "stateSlug": "connecticut"
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield",
+        "stateSlug": "massachusetts"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Warwick, RI | 58/100 | SolarAtlas",
+    "metaDescription": "Warwick solar score: 58/100. Save $1,075/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "rhode-island/cranston": {
+    "id": 293,
+    "name": "Cranston",
+    "slug": "cranston",
+    "state": "Rhode Island",
+    "stateSlug": "rhode-island",
+    "stateAbbr": "RI",
+    "solarScore": 58,
+    "peakSunHours": 4,
+    "annualKwhPerKw": 1139,
+    "avgElectricRate": 0.236,
+    "annualSavings": 1075,
+    "paybackYears": 6.4,
+    "savings25Year": 40239,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      246,
+      264,
+      313,
+      380,
+      446,
+      495,
+      513,
+      495,
+      446,
+      380,
+      313,
+      264
+    ],
+    "monthlySunHours": [
+      2.6,
+      2.8,
+      3.3,
+      4,
+      4.7,
+      5.2,
+      5.4,
+      5.2,
+      4.7,
+      4,
+      3.3,
+      2.8
+    ],
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "installerCount": 81,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Providence",
+        "slug": "providence",
+        "stateSlug": "rhode-island"
+      },
+      {
+        "name": "Warwick",
+        "slug": "warwick",
+        "stateSlug": "rhode-island"
+      },
+      {
+        "name": "Worcester",
+        "slug": "worcester",
+        "stateSlug": "massachusetts"
+      },
+      {
+        "name": "Boston",
+        "slug": "boston",
+        "stateSlug": "massachusetts"
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield",
+        "stateSlug": "massachusetts"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Cranston, RI | 58/100 | SolarAtlas",
+    "metaDescription": "Cranston solar score: 58/100. Save $1,075/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "vermont/south-burlington": {
+    "id": 294,
+    "name": "South Burlington",
+    "slug": "south-burlington",
+    "state": "Vermont",
+    "stateSlug": "vermont",
+    "stateAbbr": "VT",
+    "solarScore": 57,
+    "peakSunHours": 3.9,
+    "annualKwhPerKw": 1110,
+    "avgElectricRate": 0.191,
+    "annualSavings": 848,
+    "paybackYears": 9.3,
+    "savings25Year": 31742,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      228,
+      247,
+      299,
+      370,
+      441,
+      493,
+      512,
+      493,
+      441,
+      370,
+      299,
+      247
+    ],
+    "monthlySunHours": [
+      2.4,
+      2.6,
+      3.2,
+      3.9,
+      4.6,
+      5.2,
+      5.4,
+      5.2,
+      4.6,
+      3.9,
+      3.2,
+      2.6
+    ],
+    "cloudyDaysPerYear": 130,
+    "rainyDaysPerYear": 150,
+    "installerCount": 80,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington",
+        "stateSlug": "vermont"
+      },
+      {
+        "name": "Albany",
+        "slug": "albany",
+        "stateSlug": "new-york"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester",
+        "stateSlug": "new-hampshire"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua",
+        "stateSlug": "new-hampshire"
+      },
+      {
+        "name": "Lewiston",
+        "slug": "lewiston",
+        "stateSlug": "maine"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in South Burlington, VT | 57/100 | SolarAtlas",
+    "metaDescription": "South Burlington solar score: 57/100. Save $848/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "vermont/essex": {
+    "id": 295,
+    "name": "Essex",
+    "slug": "essex",
+    "state": "Vermont",
+    "stateSlug": "vermont",
+    "stateAbbr": "VT",
+    "solarScore": 57,
+    "peakSunHours": 3.9,
+    "annualKwhPerKw": 1110,
+    "avgElectricRate": 0.191,
+    "annualSavings": 848,
+    "paybackYears": 9.3,
+    "savings25Year": 31742,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      228,
+      247,
+      299,
+      370,
+      441,
+      493,
+      512,
+      493,
+      441,
+      370,
+      299,
+      247
+    ],
+    "monthlySunHours": [
+      2.4,
+      2.6,
+      3.2,
+      3.9,
+      4.6,
+      5.2,
+      5.4,
+      5.2,
+      4.6,
+      3.9,
+      3.2,
+      2.6
+    ],
+    "cloudyDaysPerYear": 130,
+    "rainyDaysPerYear": 150,
+    "installerCount": 80,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "South Burlington",
+        "slug": "south-burlington",
+        "stateSlug": "vermont"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington",
+        "stateSlug": "vermont"
+      },
+      {
+        "name": "Albany",
+        "slug": "albany",
+        "stateSlug": "new-york"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester",
+        "stateSlug": "new-hampshire"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua",
+        "stateSlug": "new-hampshire"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Essex, VT | 57/100 | SolarAtlas",
+    "metaDescription": "Essex solar score: 57/100. Save $848/year. 3.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "nebraska/bellevue": {
+    "id": 296,
+    "name": "Bellevue",
+    "slug": "bellevue",
+    "state": "Nebraska",
+    "stateSlug": "nebraska",
+    "stateAbbr": "NE",
+    "solarScore": 73,
+    "peakSunHours": 4.9,
+    "annualKwhPerKw": 1395,
+    "avgElectricRate": 0.107,
+    "annualSavings": 597,
+    "paybackYears": 13.2,
+    "savings25Year": 22347,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      305,
+      327,
+      385,
+      465,
+      545,
+      603,
+      625,
+      603,
+      545,
+      465,
+      385,
+      327
+    ],
+    "monthlySunHours": [
+      3.2,
+      3.4,
+      4.1,
+      4.9,
+      5.7,
+      6.4,
+      6.6,
+      6.4,
+      5.7,
+      4.9,
+      4.1,
+      3.4
+    ],
+    "cloudyDaysPerYear": 113,
+    "rainyDaysPerYear": 115,
+    "installerCount": 97,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Des Moines",
+        "slug": "des-moines",
+        "stateSlug": "iowa"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city",
+        "stateSlug": "missouri"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city",
+        "stateSlug": "kansas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Bellevue, NE | 73/100 | SolarAtlas",
+    "metaDescription": "Bellevue solar score: 73/100. Save $597/year. 4.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "nebraska/grand-island": {
+    "id": 297,
+    "name": "Grand Island",
+    "slug": "grand-island",
+    "state": "Nebraska",
+    "stateSlug": "nebraska",
+    "stateAbbr": "NE",
+    "solarScore": 74,
+    "peakSunHours": 5,
+    "annualKwhPerKw": 1424,
+    "avgElectricRate": 0.107,
+    "annualSavings": 609,
+    "paybackYears": 13,
+    "savings25Year": 22796,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      313,
+      334,
+      394,
+      475,
+      556,
+      615,
+      637,
+      615,
+      556,
+      475,
+      394,
+      334
+    ],
+    "monthlySunHours": [
+      3.3,
+      3.5,
+      4.1,
+      5,
+      5.9,
+      6.5,
+      6.7,
+      6.5,
+      5.9,
+      5,
+      4.1,
+      3.5
+    ],
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "installerCount": 98,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Sioux Falls",
+        "slug": "sioux-falls",
+        "stateSlug": "south-dakota"
+      },
+      {
+        "name": "Wichita",
+        "slug": "wichita",
+        "stateSlug": "kansas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Grand Island, NE | 74/100 | SolarAtlas",
+    "metaDescription": "Grand Island solar score: 74/100. Save $609/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "nebraska/kearney": {
+    "id": 298,
+    "name": "Kearney",
+    "slug": "kearney",
+    "state": "Nebraska",
+    "stateSlug": "nebraska",
+    "stateAbbr": "NE",
+    "solarScore": 76,
+    "peakSunHours": 5.1,
+    "annualKwhPerKw": 1452,
+    "avgElectricRate": 0.107,
+    "annualSavings": 621,
+    "paybackYears": 12.7,
+    "savings25Year": 23245,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      320,
+      342,
+      402,
+      484,
+      566,
+      626,
+      648,
+      626,
+      566,
+      484,
+      402,
+      342
+    ],
+    "monthlySunHours": [
+      3.4,
+      3.6,
+      4.2,
+      5.1,
+      6,
+      6.6,
+      6.8,
+      6.6,
+      6,
+      5.1,
+      4.2,
+      3.6
+    ],
+    "cloudyDaysPerYear": 109,
+    "rainyDaysPerYear": 105,
+    "installerCount": 100,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Grand Island",
+        "slug": "grand-island",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "stateSlug": "nebraska"
+      },
+      {
+        "name": "Wichita",
+        "slug": "wichita",
+        "stateSlug": "kansas"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Kearney, NE | 76/100 | SolarAtlas",
+    "metaDescription": "Kearney solar score: 76/100. Save $621/year. 5.1 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/lakewood": {
+    "id": 299,
+    "name": "Lakewood",
+    "slug": "lakewood",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.125,
+    "annualSavings": 812,
+    "paybackYears": 8.5,
+    "savings25Year": 30395,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      364,
+      388,
+      453,
+      541,
+      629,
+      694,
+      718,
+      694,
+      629,
+      541,
+      453,
+      388
+    ],
+    "monthlySunHours": [
+      3.8,
+      4.1,
+      4.8,
+      5.7,
+      6.6,
+      7.3,
+      7.6,
+      7.3,
+      6.6,
+      5.7,
+      4.8,
+      4.1
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Boulder",
+        "slug": "boulder",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Fort Collins",
+        "slug": "fort-collins",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Colorado Springs",
+        "slug": "colorado-springs",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Lakewood, CO | 85/100 | SolarAtlas",
+    "metaDescription": "Lakewood solar score: 85/100. Save $812/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/thornton": {
+    "id": 300,
+    "name": "Thornton",
+    "slug": "thornton",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.125,
+    "annualSavings": 797,
+    "paybackYears": 8.7,
+    "savings25Year": 29833,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      357,
+      380,
+      444,
+      531,
+      619,
+      682,
+      706,
+      682,
+      619,
+      531,
+      444,
+      380
+    ],
+    "monthlySunHours": [
+      3.8,
+      4,
+      4.7,
+      5.6,
+      6.5,
+      7.2,
+      7.4,
+      7.2,
+      6.5,
+      5.6,
+      4.7,
+      4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Boulder",
+        "slug": "boulder",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Fort Collins",
+        "slug": "fort-collins",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Thornton, CO | 84/100 | SolarAtlas",
+    "metaDescription": "Thornton solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/arvada": {
+    "id": 301,
+    "name": "Arvada",
+    "slug": "arvada",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.125,
+    "annualSavings": 797,
+    "paybackYears": 8.7,
+    "savings25Year": 29833,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      357,
+      381,
+      444,
+      531,
+      618,
+      682,
+      705,
+      682,
+      618,
+      531,
+      444,
+      381
+    ],
+    "monthlySunHours": [
+      3.8,
+      4,
+      4.7,
+      5.6,
+      6.5,
+      7.2,
+      7.4,
+      7.2,
+      6.5,
+      5.6,
+      4.7,
+      4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Lakewood",
+        "slug": "lakewood",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Thornton",
+        "slug": "thornton",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Boulder",
+        "slug": "boulder",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Arvada, CO | 84/100 | SolarAtlas",
+    "metaDescription": "Arvada solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/westminster": {
+    "id": 302,
+    "name": "Westminster",
+    "slug": "westminster",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.125,
+    "annualSavings": 797,
+    "paybackYears": 8.7,
+    "savings25Year": 29833,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      357,
+      380,
+      444,
+      531,
+      618,
+      682,
+      706,
+      682,
+      618,
+      531,
+      444,
+      380
+    ],
+    "monthlySunHours": [
+      3.8,
+      4,
+      4.7,
+      5.6,
+      6.5,
+      7.2,
+      7.4,
+      7.2,
+      6.5,
+      5.6,
+      4.7,
+      4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Arvada",
+        "slug": "arvada",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Thornton",
+        "slug": "thornton",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Westminster, CO | 84/100 | SolarAtlas",
+    "metaDescription": "Westminster solar score: 84/100. Save $797/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/centennial": {
+    "id": 303,
+    "name": "Centennial",
+    "slug": "centennial",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 85,
+    "peakSunHours": 5.7,
+    "annualKwhPerKw": 1623,
+    "avgElectricRate": 0.125,
+    "annualSavings": 812,
+    "paybackYears": 8.5,
+    "savings25Year": 30395,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      365,
+      389,
+      453,
+      541,
+      629,
+      693,
+      717,
+      693,
+      629,
+      541,
+      453,
+      389
+    ],
+    "monthlySunHours": [
+      3.8,
+      4.1,
+      4.8,
+      5.7,
+      6.6,
+      7.3,
+      7.6,
+      7.3,
+      6.6,
+      5.7,
+      4.8,
+      4.1
+    ],
+    "cloudyDaysPerYear": 99,
+    "rainyDaysPerYear": 75,
+    "installerCount": 109,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Aurora",
+        "slug": "aurora",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Arvada",
+        "slug": "arvada",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Westminster",
+        "slug": "westminster",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Centennial, CO | 85/100 | SolarAtlas",
+    "metaDescription": "Centennial solar score: 85/100. Save $812/year. 5.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "colorado/greeley": {
+    "id": 304,
+    "name": "Greeley",
+    "slug": "greeley",
+    "state": "Colorado",
+    "stateSlug": "colorado",
+    "stateAbbr": "CO",
+    "solarScore": 82,
+    "peakSunHours": 5.5,
+    "annualKwhPerKw": 1566,
+    "avgElectricRate": 0.125,
+    "annualSavings": 783,
+    "paybackYears": 8.8,
+    "savings25Year": 29309,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 1500,
+    "netCost": 6900,
+    "monthlyKwh": [
+      347,
+      371,
+      435,
+      522,
+      609,
+      673,
+      697,
+      673,
+      609,
+      522,
+      435,
+      371
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.6,
+      5.5,
+      6.4,
+      7.1,
+      7.3,
+      7.1,
+      6.4,
+      5.5,
+      4.6,
+      3.9
+    ],
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "installerCount": 106,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Fort Collins",
+        "slug": "fort-collins",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Thornton",
+        "slug": "thornton",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Boulder",
+        "slug": "boulder",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Westminster",
+        "slug": "westminster",
+        "stateSlug": "colorado"
+      },
+      {
+        "name": "Arvada",
+        "slug": "arvada",
+        "stateSlug": "colorado"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Greeley, CO | 82/100 | SolarAtlas",
+    "metaDescription": "Greeley solar score: 82/100. Save $783/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "georgia/sandy-springs": {
+    "id": 305,
+    "name": "Sandy Springs",
+    "slug": "sandy-springs",
+    "state": "Georgia",
+    "stateSlug": "georgia",
+    "stateAbbr": "GA",
+    "solarScore": 74,
+    "peakSunHours": 5,
+    "annualKwhPerKw": 1424,
+    "avgElectricRate": 0.117,
+    "annualSavings": 666,
+    "paybackYears": 11.9,
+    "savings25Year": 24930,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      353,
+      369,
+      414,
+      475,
+      536,
+      580,
+      597,
+      580,
+      536,
+      475,
+      414,
+      369
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.4,
+      5,
+      5.6,
+      6.1,
+      6.3,
+      6.1,
+      5.6,
+      5,
+      4.4,
+      3.9
+    ],
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "installerCount": 98,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Atlanta",
+        "slug": "atlanta",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Macon",
+        "slug": "macon",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Chattanooga",
+        "slug": "chattanooga",
+        "stateSlug": "tennessee"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville",
+        "stateSlug": "south-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sandy Springs, GA | 74/100 | SolarAtlas",
+    "metaDescription": "Sandy Springs solar score: 74/100. Save $666/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "georgia/roswell": {
+    "id": 306,
+    "name": "Roswell",
+    "slug": "roswell",
+    "state": "Georgia",
+    "stateSlug": "georgia",
+    "stateAbbr": "GA",
+    "solarScore": 74,
+    "peakSunHours": 5,
+    "annualKwhPerKw": 1424,
+    "avgElectricRate": 0.117,
+    "annualSavings": 666,
+    "paybackYears": 11.9,
+    "savings25Year": 24930,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      352,
+      369,
+      413,
+      475,
+      536,
+      581,
+      597,
+      581,
+      536,
+      475,
+      413,
+      369
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.4,
+      5,
+      5.6,
+      6.1,
+      6.3,
+      6.1,
+      5.6,
+      5,
+      4.4,
+      3.9
+    ],
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "installerCount": 98,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Sandy Springs",
+        "slug": "sandy-springs",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Atlanta",
+        "slug": "atlanta",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Chattanooga",
+        "slug": "chattanooga",
+        "stateSlug": "tennessee"
+      },
+      {
+        "name": "Macon",
+        "slug": "macon",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus",
+        "stateSlug": "georgia"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Roswell, GA | 74/100 | SolarAtlas",
+    "metaDescription": "Roswell solar score: 74/100. Save $666/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "georgia/athens": {
+    "id": 307,
+    "name": "Athens",
+    "slug": "athens",
+    "state": "Georgia",
+    "stateSlug": "georgia",
+    "stateAbbr": "GA",
+    "solarScore": 74,
+    "peakSunHours": 5,
+    "annualKwhPerKw": 1424,
+    "avgElectricRate": 0.117,
+    "annualSavings": 666,
+    "paybackYears": 11.9,
+    "savings25Year": 24930,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      352,
+      369,
+      414,
+      475,
+      536,
+      581,
+      597,
+      581,
+      536,
+      475,
+      414,
+      369
+    ],
+    "monthlySunHours": [
+      3.7,
+      3.9,
+      4.4,
+      5,
+      5.6,
+      6.1,
+      6.3,
+      6.1,
+      5.6,
+      5,
+      4.4,
+      3.9
+    ],
+    "cloudyDaysPerYear": 111,
+    "rainyDaysPerYear": 110,
+    "installerCount": 98,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Roswell",
+        "slug": "roswell",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Sandy Springs",
+        "slug": "sandy-springs",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Atlanta",
+        "slug": "atlanta",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Macon",
+        "slug": "macon",
+        "stateSlug": "georgia"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville",
+        "stateSlug": "south-carolina"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Athens, GA | 74/100 | SolarAtlas",
+    "metaDescription": "Athens solar score: 74/100. Save $666/year. 5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "nevada/sparks": {
+    "id": 308,
+    "name": "Sparks",
+    "slug": "sparks",
+    "state": "Nevada",
+    "stateSlug": "nevada",
+    "stateAbbr": "NV",
+    "solarScore": 88,
+    "peakSunHours": 5.9,
+    "annualKwhPerKw": 1680,
+    "avgElectricRate": 0.115,
+    "annualSavings": 773,
+    "paybackYears": 10.2,
+    "savings25Year": 28935,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      378,
+      403,
+      469,
+      560,
+      651,
+      717,
+      742,
+      717,
+      651,
+      560,
+      469,
+      403
+    ],
+    "monthlySunHours": [
+      4,
+      4.2,
+      4.9,
+      5.9,
+      6.9,
+      7.6,
+      7.8,
+      7.6,
+      6.9,
+      5.9,
+      4.9,
+      4.2
+    ],
+    "cloudyDaysPerYear": 95,
+    "rainyDaysPerYear": 65,
+    "installerCount": 112,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Reno",
+        "slug": "reno",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Elk Grove",
+        "slug": "elk-grove",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Modesto",
+        "slug": "modesto",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sparks, NV | 88/100 | SolarAtlas",
+    "metaDescription": "Sparks solar score: 88/100. Save $773/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "nevada/carson-city": {
+    "id": 309,
+    "name": "Carson City",
+    "slug": "carson-city",
+    "state": "Nevada",
+    "stateSlug": "nevada",
+    "stateAbbr": "NV",
+    "solarScore": 88,
+    "peakSunHours": 5.9,
+    "annualKwhPerKw": 1680,
+    "avgElectricRate": 0.115,
+    "annualSavings": 773,
+    "paybackYears": 10.2,
+    "savings25Year": 28935,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      381,
+      405,
+      470,
+      560,
+      650,
+      715,
+      739,
+      715,
+      650,
+      560,
+      470,
+      405
+    ],
+    "monthlySunHours": [
+      4,
+      4.3,
+      5,
+      5.9,
+      6.8,
+      7.5,
+      7.8,
+      7.5,
+      6.8,
+      5.9,
+      5,
+      4.3
+    ],
+    "cloudyDaysPerYear": 95,
+    "rainyDaysPerYear": 65,
+    "installerCount": 112,
+    "climateType": "Hot Desert",
+    "avgTemperature": 78,
+    "humidity": 18,
+    "nearByCities": [
+      {
+        "name": "Sparks",
+        "slug": "sparks",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Reno",
+        "slug": "reno",
+        "stateSlug": "nevada"
+      },
+      {
+        "name": "Elk Grove",
+        "slug": "elk-grove",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Sacramento",
+        "slug": "sacramento",
+        "stateSlug": "california"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "stateSlug": "california"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Carson City, NV | 88/100 | SolarAtlas",
+    "metaDescription": "Carson City solar score: 88/100. Save $773/year. 5.9 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "utah/orem": {
+    "id": 310,
+    "name": "Orem",
+    "slug": "orem",
+    "state": "Utah",
+    "stateSlug": "utah",
+    "stateAbbr": "UT",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.097,
+    "annualSavings": 618,
+    "paybackYears": 12.8,
+    "savings25Year": 23133,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      354,
+      378,
+      443,
+      531,
+      620,
+      685,
+      709,
+      685,
+      620,
+      531,
+      443,
+      378
+    ],
+    "monthlySunHours": [
+      3.7,
+      4,
+      4.7,
+      5.6,
+      6.5,
+      7.2,
+      7.5,
+      7.2,
+      6.5,
+      5.6,
+      4.7,
+      4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Provo",
+        "slug": "provo",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Idaho Falls",
+        "slug": "idaho-falls",
+        "stateSlug": "idaho"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Orem, UT | 84/100 | SolarAtlas",
+    "metaDescription": "Orem solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "utah/sandy": {
+    "id": 311,
+    "name": "Sandy",
+    "slug": "sandy",
+    "state": "Utah",
+    "stateSlug": "utah",
+    "stateAbbr": "UT",
+    "solarScore": 84,
+    "peakSunHours": 5.6,
+    "annualKwhPerKw": 1594,
+    "avgElectricRate": 0.097,
+    "annualSavings": 618,
+    "paybackYears": 12.8,
+    "savings25Year": 23133,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      352,
+      376,
+      442,
+      531,
+      621,
+      686,
+      710,
+      686,
+      621,
+      531,
+      442,
+      376
+    ],
+    "monthlySunHours": [
+      3.7,
+      4,
+      4.7,
+      5.6,
+      6.5,
+      7.2,
+      7.5,
+      7.2,
+      6.5,
+      5.6,
+      4.7,
+      4
+    ],
+    "cloudyDaysPerYear": 101,
+    "rainyDaysPerYear": 80,
+    "installerCount": 108,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Orem",
+        "slug": "orem",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Provo",
+        "slug": "provo",
+        "stateSlug": "utah"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sandy, UT | 84/100 | SolarAtlas",
+    "metaDescription": "Sandy solar score: 84/100. Save $618/year. 5.6 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "utah/ogden": {
+    "id": 312,
+    "name": "Ogden",
+    "slug": "ogden",
+    "state": "Utah",
+    "stateSlug": "utah",
+    "stateAbbr": "UT",
+    "solarScore": 81,
+    "peakSunHours": 5.4,
+    "annualKwhPerKw": 1537,
+    "avgElectricRate": 0.097,
+    "annualSavings": 596,
+    "paybackYears": 13.3,
+    "savings25Year": 22309,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      336,
+      359,
+      424,
+      512,
+      601,
+      665,
+      689,
+      665,
+      601,
+      512,
+      424,
+      359
+    ],
+    "monthlySunHours": [
+      3.5,
+      3.8,
+      4.5,
+      5.4,
+      6.3,
+      7,
+      7.3,
+      7,
+      6.3,
+      5.4,
+      4.5,
+      3.8
+    ],
+    "cloudyDaysPerYear": 104,
+    "rainyDaysPerYear": 90,
+    "installerCount": 105,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Sandy",
+        "slug": "sandy",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Orem",
+        "slug": "orem",
+        "stateSlug": "utah"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Ogden, UT | 81/100 | SolarAtlas",
+    "metaDescription": "Ogden solar score: 81/100. Save $596/year. 5.4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "utah/layton": {
+    "id": 313,
+    "name": "Layton",
+    "slug": "layton",
+    "state": "Utah",
+    "stateSlug": "utah",
+    "stateAbbr": "UT",
+    "solarScore": 82,
+    "peakSunHours": 5.5,
+    "annualKwhPerKw": 1566,
+    "avgElectricRate": 0.097,
+    "annualSavings": 608,
+    "paybackYears": 13,
+    "savings25Year": 22759,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      343,
+      367,
+      433,
+      522,
+      611,
+      677,
+      701,
+      677,
+      611,
+      522,
+      433,
+      367
+    ],
+    "monthlySunHours": [
+      3.6,
+      3.9,
+      4.6,
+      5.5,
+      6.4,
+      7.1,
+      7.4,
+      7.1,
+      6.4,
+      5.5,
+      4.6,
+      3.9
+    ],
+    "cloudyDaysPerYear": 102,
+    "rainyDaysPerYear": 85,
+    "installerCount": 106,
+    "climateType": "Semi-Arid",
+    "avgTemperature": 64,
+    "humidity": 32,
+    "nearByCities": [
+      {
+        "name": "Ogden",
+        "slug": "ogden",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan",
+        "stateSlug": "utah"
+      },
+      {
+        "name": "Sandy",
+        "slug": "sandy",
+        "stateSlug": "utah"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Layton, UT | 82/100 | SolarAtlas",
+    "metaDescription": "Layton solar score: 82/100. Save $608/year. 5.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "virginia/hampton": {
+    "id": 314,
+    "name": "Hampton",
+    "slug": "hampton",
+    "state": "Virginia",
+    "stateSlug": "virginia",
+    "stateAbbr": "VA",
+    "solarScore": 69,
+    "peakSunHours": 4.7,
+    "annualKwhPerKw": 1338,
+    "avgElectricRate": 0.125,
+    "annualSavings": 669,
+    "paybackYears": 11.8,
+    "savings25Year": 25042,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      315,
+      332,
+      380,
+      446,
+      512,
+      560,
+      577,
+      560,
+      512,
+      446,
+      380,
+      332
+    ],
+    "monthlySunHours": [
+      3.3,
+      3.5,
+      4,
+      4.7,
+      5.4,
+      5.9,
+      6.1,
+      5.9,
+      5.4,
+      4.7,
+      4,
+      3.5
+    ],
+    "cloudyDaysPerYear": 116,
+    "rainyDaysPerYear": 124,
+    "installerCount": 92,
+    "climateType": "Humid Subtropical",
+    "avgTemperature": 65,
+    "humidity": 62,
+    "nearByCities": [
+      {
+        "name": "Newport News",
+        "slug": "newport-news",
+        "stateSlug": "virginia"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk",
+        "stateSlug": "virginia"
+      },
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake",
+        "stateSlug": "virginia"
+      },
+      {
+        "name": "Virginia Beach",
+        "slug": "virginia-beach",
+        "stateSlug": "virginia"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond",
+        "stateSlug": "virginia"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Hampton, VA | 69/100 | SolarAtlas",
+    "metaDescription": "Hampton solar score: 69/100. Save $669/year. 4.7 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "michigan/sterling-heights": {
+    "id": 315,
+    "name": "Sterling Heights",
+    "slug": "sterling-heights",
+    "state": "Michigan",
+    "stateSlug": "michigan",
+    "stateAbbr": "MI",
+    "solarScore": 58,
+    "peakSunHours": 4,
+    "annualKwhPerKw": 1139,
+    "avgElectricRate": 0.175,
+    "annualSavings": 797,
+    "paybackYears": 9.9,
+    "savings25Year": 29833,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      243,
+      261,
+      311,
+      380,
+      448,
+      498,
+      517,
+      498,
+      448,
+      380,
+      311,
+      261
+    ],
+    "monthlySunHours": [
+      2.6,
+      2.7,
+      3.3,
+      4,
+      4.7,
+      5.3,
+      5.4,
+      5.3,
+      4.7,
+      4,
+      3.3,
+      2.7
+    ],
+    "cloudyDaysPerYear": 128,
+    "rainyDaysPerYear": 150,
+    "installerCount": 81,
+    "climateType": "Humid Continental",
+    "avgTemperature": 52,
+    "humidity": 58,
+    "nearByCities": [
+      {
+        "name": "Warren",
+        "slug": "warren",
+        "stateSlug": "michigan"
+      },
+      {
+        "name": "Detroit",
+        "slug": "detroit",
+        "stateSlug": "michigan"
+      },
+      {
+        "name": "Ann Arbor",
+        "slug": "ann-arbor",
+        "stateSlug": "michigan"
+      },
+      {
+        "name": "Toledo",
+        "slug": "toledo",
+        "stateSlug": "ohio"
+      },
+      {
+        "name": "Lansing",
+        "slug": "lansing",
+        "stateSlug": "michigan"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Sterling Heights, MI | 58/100 | SolarAtlas",
+    "metaDescription": "Sterling Heights solar score: 58/100. Save $797/year. 4 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "washington/spokane-valley": {
+    "id": 316,
+    "name": "Spokane Valley",
+    "slug": "spokane-valley",
+    "state": "Washington",
+    "stateSlug": "washington",
+    "stateAbbr": "WA",
+    "solarScore": 63,
+    "peakSunHours": 4.3,
+    "annualKwhPerKw": 1224,
+    "avgElectricRate": 0.106,
+    "annualSavings": 519,
+    "paybackYears": 15.2,
+    "savings25Year": 19427,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      236,
+      259,
+      322,
+      408,
+      494,
+      557,
+      580,
+      557,
+      494,
+      408,
+      322,
+      259
+    ],
+    "monthlySunHours": [
+      2.5,
+      2.7,
+      3.4,
+      4.3,
+      5.2,
+      5.9,
+      6.1,
+      5.9,
+      5.2,
+      4.3,
+      3.4,
+      2.7
+    ],
+    "cloudyDaysPerYear": 123,
+    "rainyDaysPerYear": 144,
+    "installerCount": 86,
+    "climateType": "Oceanic",
+    "avgTemperature": 49,
+    "humidity": 70,
+    "nearByCities": [
+      {
+        "name": "Spokane",
+        "slug": "spokane",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Missoula",
+        "slug": "missoula",
+        "stateSlug": "montana"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle",
+        "stateSlug": "washington"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Spokane Valley, WA | 63/100 | SolarAtlas",
+    "metaDescription": "Spokane Valley solar score: 63/100. Save $519/year. 4.3 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "washington/kirkland": {
+    "id": 317,
+    "name": "Kirkland",
+    "slug": "kirkland",
+    "state": "Washington",
+    "stateSlug": "washington",
+    "stateAbbr": "WA",
+    "solarScore": 51,
+    "peakSunHours": 3.5,
+    "annualKwhPerKw": 996,
+    "avgElectricRate": 0.106,
+    "annualSavings": 422,
+    "paybackYears": 18.7,
+    "savings25Year": 15796,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      192,
+      211,
+      262,
+      332,
+      402,
+      453,
+      472,
+      453,
+      402,
+      332,
+      262,
+      211
+    ],
+    "monthlySunHours": [
+      2,
+      2.2,
+      2.8,
+      3.5,
+      4.2,
+      4.8,
+      5,
+      4.8,
+      4.2,
+      3.5,
+      2.8,
+      2.2
+    ],
+    "cloudyDaysPerYear": 137,
+    "rainyDaysPerYear": 150,
+    "installerCount": 74,
+    "climateType": "Oceanic",
+    "avgTemperature": 49,
+    "humidity": 70,
+    "nearByCities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Vancouver",
+        "slug": "vancouver",
+        "stateSlug": "washington"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Kirkland, WA | 51/100 | SolarAtlas",
+    "metaDescription": "Kirkland solar score: 51/100. Save $422/year. 3.5 peak sun hours. Free interactive calculator & installer comparison."
+  },
+  "washington/renton": {
+    "id": 318,
+    "name": "Renton",
+    "slug": "renton",
+    "state": "Washington",
+    "stateSlug": "washington",
+    "stateAbbr": "WA",
+    "solarScore": 52,
+    "peakSunHours": 3.6,
+    "annualKwhPerKw": 1025,
+    "avgElectricRate": 0.106,
+    "annualSavings": 435,
+    "paybackYears": 18.2,
+    "savings25Year": 16283,
+    "systemCost4kw": 12000,
+    "federalTaxCredit": 3600,
+    "stateIncentives": 500,
+    "netCost": 7900,
+    "monthlyKwh": [
+      198,
+      217,
+      270,
+      342,
+      413,
+      466,
+      485,
+      466,
+      413,
+      342,
+      270,
+      217
+    ],
+    "monthlySunHours": [
+      2.1,
+      2.3,
+      2.8,
+      3.6,
+      4.4,
+      4.9,
+      5.1,
+      4.9,
+      4.4,
+      3.6,
+      2.8,
+      2.3
+    ],
+    "cloudyDaysPerYear": 135,
+    "rainyDaysPerYear": 150,
+    "installerCount": 75,
+    "climateType": "Oceanic",
+    "avgTemperature": 49,
+    "humidity": 70,
+    "nearByCities": [
+      {
+        "name": "Kent",
+        "slug": "kent",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Kirkland",
+        "slug": "kirkland",
+        "stateSlug": "washington"
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma",
+        "stateSlug": "washington"
+      }
+    ],
+    "topInstallers": [
+      "Sunrun",
+      "SunPower",
+      "Tesla Energy",
+      "Palmetto",
+      "Sunnova"
+    ],
+    "metaTitle": "Solar Potential in Renton, WA | 52/100 | SolarAtlas",
+    "metaDescription": "Renton solar score: 52/100. Save $435/year. 3.6 peak sun hours. Free interactive calculator & installer comparison."
   }
 }

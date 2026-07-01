@@ -10,7 +10,7 @@
     "paybackYears": 12.8,
     "climateType": "Hot Desert",
     "rank": 1,
-    "cityCount": 11
+    "cityCount": 21
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "paybackYears": 14.5,
     "climateType": "Hot Desert",
     "rank": 2,
-    "cityCount": 4
+    "cityCount": 6
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "paybackYears": 14.9,
     "climateType": "Arid",
     "rank": 3,
-    "cityCount": 3
+    "cityCount": 7
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "paybackYears": 11,
     "climateType": "Mediterranean",
     "rank": 4,
-    "cityCount": 15
+    "cityCount": 35
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "paybackYears": 13.2,
     "climateType": "Semi-Arid",
     "rank": 5,
-    "cityCount": 6
+    "cityCount": 12
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "paybackYears": 13.7,
     "climateType": "Semi-Arid",
     "rank": 6,
-    "cityCount": 5
+    "cityCount": 9
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
     "paybackYears": 16.8,
     "climateType": "Subtropical",
     "rank": 7,
-    "cityCount": 20
+    "cityCount": 38
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
     "paybackYears": 13.1,
     "climateType": "Subtropical",
     "rank": 8,
-    "cityCount": 13
+    "cityCount": 18
   },
   {
     "id": 9,
@@ -127,7 +127,7 @@
     "paybackYears": 15.1,
     "climateType": "Humid Subtropical",
     "rank": 10,
-    "cityCount": 5
+    "cityCount": 8
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
     "paybackYears": 15.4,
     "climateType": "Humid Subtropical",
     "rank": 11,
-    "cityCount": 7
+    "cityCount": 11
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "paybackYears": 16.1,
     "climateType": "Humid Continental",
     "rank": 15,
-    "cityCount": 2
+    "cityCount": 5
   },
   {
     "id": 16,
@@ -296,7 +296,7 @@
     "paybackYears": 17.5,
     "climateType": "Humid Subtropical",
     "rank": 23,
-    "cityCount": 7
+    "cityCount": 8
   },
   {
     "id": 24,
@@ -322,7 +322,7 @@
     "paybackYears": 18.2,
     "climateType": "Humid Subtropical",
     "rank": 25,
-    "cityCount": 1
+    "cityCount": 3
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
     "paybackYears": 12.4,
     "climateType": "Humid Continental",
     "rank": 30,
-    "cityCount": 1
+    "cityCount": 3
   },
   {
     "id": 31,
@@ -452,7 +452,7 @@
     "paybackYears": 20.2,
     "climateType": "Humid Continental",
     "rank": 35,
-    "cityCount": 5
+    "cityCount": 6
   },
   {
     "id": 36,
@@ -556,7 +556,7 @@
     "paybackYears": 21.5,
     "climateType": "Oceanic",
     "rank": 43,
-    "cityCount": 6
+    "cityCount": 9
   },
   {
     "id": 44,
@@ -608,7 +608,7 @@
     "paybackYears": 16.7,
     "climateType": "Humid Continental",
     "rank": 47,
-    "cityCount": 1
+    "cityCount": 3
   },
   {
     "id": 48,
